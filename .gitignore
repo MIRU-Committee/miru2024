@@ -1,0 +1,6 @@
+.DS_store
+.hugo_build.lock
+Makefile
+key.pem
+
+public/
