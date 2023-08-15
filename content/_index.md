@@ -50,6 +50,11 @@ title: "画像の認識・理解シンポジウム（MIRU）2024"
 
 ---
 
+## リンク
+- 昨年の会議：[MIRU2023](http://cvim.ipsj.or.jp/MIRU2023/)
+
+---
+
 ## 謝辞
 トップページには熊本城総合事務所のHPの写真を利用させていただきました。ありがとうございます。[【写真提供：熊本城総合事務所】](https://castle.kumamoto-guide.jp/galleries/guide.html)
 
