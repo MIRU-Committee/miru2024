@@ -29,6 +29,12 @@ defaultContentLanguage = 'ja'
     identifier = "/program/"
     url = "/program/"
 
+[[menu.main]]
+    name = "特別企画"
+    weight = 4
+    identifier = "/special/"
+    url = "/special/"
+
 
 [[languages.en.menu.main]]
     name = "Submission"
