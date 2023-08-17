@@ -50,8 +50,10 @@ title: "第27回 画像の認識・理解シンポジウム MIRU2024"
 
 ---
 
-## リンク
-- 昨年の会議：[MIRU2023](http://cvim.ipsj.or.jp/MIRU2023/)
+## 以前のイベント
+- [MIRU2023](http://cvim.ipsj.or.jp/MIRU2023/)
+- [MIRU2022](https://sites.google.com/view/miru2022)
+- [MIRU2021](http://cvim.ipsj.or.jp/MIRU2021/)
 
 ---
 

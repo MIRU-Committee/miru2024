@@ -54,6 +54,12 @@ defaultContentLanguage = 'ja'
     identifier = "/en/program/"
     url = "/en/program/"
 
+[[languages.en.menu.main]]
+    name = "Special events"
+    weight = 4
+    identifier = "/en/special/"
+    url = "/en/special/"
+
 [languages]
 [languages.ja]
 title = "MIRU 2024"
