@@ -24,6 +24,7 @@ The "Meeting on Image Recognition and Understanding", short "MIRU", is the large
 - Program co-chair: Yuki Fujimura (NAIST)
 - Executive chair: Go Irie (Tokyo Univ. of Science)
 - Executive co-chair: Satoshi Ikehata (NII)
+- Executive co-chair: Yuta Asano (NII)
 - Organization chair: Ken Tsutsuguchi (Sojo Univ.)
 - Finance chair: Kei Shimonishi (Kyoto Univ.)
 - Publicity chair: Yusuke Matsui (Univ. of Tokyo)
