@@ -19,12 +19,11 @@ The "Meeting on Image Recognition and Understanding", short "MIRU", is the large
 ---
 
 ## Organizing commitee
-- General chair: Kunio Kashino (NTT)
-- Program chair: Takuya Funatomi (NAIST)
+- General chair: Kunio Kashino (NTT), Masayuki Tanaka (TITech)
+- Program chair: Takuya Funatomi (NAIST), Takayoshi Yamashita (Chubu Univ.)
 - Program co-chair: Yuki Fujimura (NAIST)
-- Executive chair: Go Irie (Tokyo Univ. of Science)
-- Executive co-chair: Satoshi Ikehata (NII)
-- Executive co-chair: Yuta Asano (NII)
+- Executive chair: Go Irie (Tokyo Univ. of Science), Takashi Shibata (NEC)
+- Executive co-chair: Satoshi Ikehata (NII), Yuta Asano (NII)
 - Organization chair: Ken Tsutsuguchi (Sojo Univ.)
 - Finance chair: Kei Shimonishi (Kyoto Univ.)
 - Publicity chair: Yusuke Matsui (Univ. of Tokyo)
