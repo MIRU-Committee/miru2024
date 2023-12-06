@@ -10,28 +10,45 @@ defaultContentLanguage = 'ja'
     [markup.goldmark.renderer]
       unsafe = true
 
+[[menu.main]]
+    name = "MIRUについて"
+    weight = 1
+    identifier = "about"
+
+[[menu.main]]
+    name = "プログラム編成方針"
+    weight = 1
+    parent = "about"
+    url = "/about/program_policy/"
+
+[[menu.main]]
+    name = "選奨規定"
+    weight = 2
+    parent = "about"
+    url = "/about/selection_criteria/"
+
 
 [[menu.main]]
     name = "投稿"
-    weight = 1
+    weight = 2
     identifier = "/submission/"
     url = "/submission/"
 
 [[menu.main]]
     name = "参加"
-    weight = 2
+    weight = 3
     identifier = "/registration/"
     url = "/registration/"
 
 [[menu.main]]
     name = "プログラム"
-    weight = 3
+    weight = 4
     identifier = "/program/"
     url = "/program/"
 
 [[menu.main]]
     name = "特別企画"
-    weight = 4
+    weight = 5
     identifier = "/special/"
     url = "/special/"
 
