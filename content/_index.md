@@ -41,7 +41,7 @@ title: "第27回 画像の認識・理解シンポジウム MIRU2024"
 
 
 ## 主催・共催
-- 主催：[電子情報通信学会パターン認識・メディア理解(PRMU)研究専門委員会共催](https://www.ieice.org/iss/prmu/jpn/index.html)
+- 主催：[電子情報通信学会パターン認識・メディア理解(PRMU)研究専門委員会](https://www.ieice.org/iss/prmu/jpn/index.html)
 - 共催：[情報処理学会コンピュータビジョンとイメージメディア(CVIM)研究会](http://cvim.ipsj.or.jp/)
 
 ---
