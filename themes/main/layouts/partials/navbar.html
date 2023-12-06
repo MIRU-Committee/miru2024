@@ -13,8 +13,18 @@
         {{ $url := .RelPermalink }}
         {{ with .Site.Menus.main }}
           {{ range $menu := . }}
-            <li class="nav-item">
-              <a class="px-3 fs-5 nav-link {{ if eq $url .URL }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+            <li class="nav-item {{ if .HasChildren }}dropdown{{ end }}">
+            
+              {{ if .HasChildren }}
+                <a class="px-3 fs-5 nav-link dropdown-toggle {{ if eq $url .URL }}active{{ end }}" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">{{ .Name }}</a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                {{ range .Children }}
+                  <li><a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a></li>
+                {{ end }}
+                </ul>
+              {{ else }}
+                <a class="px-3 fs-5 nav-link {{ if eq $url .URL }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+              {{ end }}
             </li>
           {{ end }}
         {{ end }}
