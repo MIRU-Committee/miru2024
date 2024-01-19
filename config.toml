@@ -52,6 +52,12 @@ defaultContentLanguage = 'ja'
     identifier = "/special/"
     url = "/special/"
 
+[[menu.main]]
+    name = "スポンサー"
+    weight = 6
+    identifier = "/sponsor/"
+    url = "/sponsor/"
+
 
 [[languages.en.menu.main]]
     name = "Submission"
@@ -76,6 +82,12 @@ defaultContentLanguage = 'ja'
     weight = 4
     identifier = "/en/special/"
     url = "/en/special/"
+
+[[languages.en.menu.main]]
+    name = "Sponsor"
+    weight = 5
+    identifier = "/en/sponsor/"
+    url = "/en/sponsor/"
 
 [languages]
 [languages.ja]
