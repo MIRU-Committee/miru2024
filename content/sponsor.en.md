@@ -162,7 +162,7 @@ We request Platinum and Gold sponsors to send a video file to `miru-industry@mai
 
 - Video format: MPEG4
 - Length: 30 seconds or less
-- Sound: No need to include audio.
+- Audio: Optional
 - Aspect Ratio: 16:9 recommended
 - Resolution: 1920 x 1080 recommended (If the resolution is different from the recommended one, we will resize to 1920 x 1080)
 
