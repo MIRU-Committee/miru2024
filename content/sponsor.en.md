@@ -74,9 +74,9 @@ Check out the table below for exhibition fees and benefits.
 </tr>
 <tr>
   <th scope="row">Booth spec</th>
-  <td>Desks x2<br>Chairs x4<br>Power 500W x2<br>Name board x1</td>
-  <td>Desks x2<br>Chairs x4<br>Power 500W x1<br>Name board x1</td>
-  <td>Desks x1<br>Chairs x2<br>Power 500W x1<br>Name board x1</td>
+  <td>Desks x2<br>Chairs x4<br>Power 500W x2<br>Name board<br>Panel</td>
+  <td>Desks x2<br>Chairs x4<br>Power 500W x1<br>Name board<br>Panel</td>
+  <td>Desks x1<br>Chairs x2<br>Power 500W x1<br>Name board<br>Panel</td>
   <td>-</td>
 </tr>
 <tr>
@@ -138,10 +138,13 @@ Due to the convenience of the venue, the number of exhibitors will be limited to
 
 ### Procedure
 
+[Application form](https://docs.google.com/forms/d/e/1FAIpQLSfX-7MlnoQQbm7ih9hnD0CtKoOabqD2fPPxDuneTk82ofBwhQ/viewform?usp=sf_link) (Japanese)
+
 Please fill out the sponsor application form and submit it during the application period. After confirming the details of your application, we will contact you shortly regarding acceptance details and payment procedures.
 
 - The deadline for payment of the sponsorship fee is July 20, before the exhibition.
-- Invoices will be issued by Seibu Travel Co. It may take up to 3 weeks to issue the invoice depending on the procedure.
+- Invoices will be issued by [Seibu Travel Co](https://www.seibutravel.co.jp/). It may take up to 3 weeks to issue the invoice depending on the procedure.
+- We will contact you if you apply for a Platinum sponsor event.
 
 ### Contact
 
