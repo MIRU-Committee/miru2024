@@ -142,9 +142,31 @@ Due to the convenience of the venue, the number of exhibitors will be limited to
 
 Please fill out the sponsor application form and submit it during the application period. After confirming the details of your application, we will contact you shortly regarding acceptance details and payment procedures.
 
-- The deadline for payment of the sponsorship fee is July 20, before the exhibition.
-- Invoices will be issued by [Seibu Travel Co](https://www.seibutravel.co.jp/). It may take up to 3 weeks to issue the invoice depending on the procedure.
+- The deadline for payment of the sponsorship fee is July 20.
+- Invoices will be issued by [Seibu Travel Co](https://www.seibutravel.co.jp/). It may take up to 3 weeks to issue the invoice.
 - We will contact you if you apply for a Platinum sponsor event.
+
+#### Logo submission
+
+We request sponsors to send a logo image file to `miru-industry@mail.ieice.org` by June 30, 2024.
+
+- Format: JPEG, PNG, WebP, SVG, PDF
+- Resolution: 1024x1024 pixels or more
+- Size: 10MB or less
+
+If you do not submit a logo file, we will print the name of your company/organization. Let us know if you have any special instructions or guidelines regarding the materials. We will contact you when we finalize the design of the program booklet and a signage board.
+
+#### Video submission
+
+We request Platinum and Gold sponsors to send a video file to `miru-industry@mail.ieice.org` by June 30, 2024.
+
+- Video format: MPEG4
+- Length: 30 seconds or less
+- Sound: No need to include audio.
+- Aspect Ratio: 16:9 recommended
+- Resolution: 1920 x 1080 recommended (If the resolution is different from the recommended one, we will resize to 1920 x 1080)
+
+Please submit your video file as an attachment to an e-mail or by a file transmission service. Please contact us for the other submission options.
 
 ### Contact
 
