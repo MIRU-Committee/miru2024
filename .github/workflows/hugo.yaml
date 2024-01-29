@@ -44,10 +44,7 @@ jobs:
       - name: Install Dart Sass
         run: sudo snap install dart-sass
       - name: Checkout
-        uses: actions/checkout@v3
-        with:
-          submodules: recursive
-          fetch-depth: 0
+        uses: actions/checkout@v4
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Setup Pages
@@ -92,14 +89,14 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: github-pages
-          path: public
+          path: download
       - name: Untar artifact
-        run: tar -xf public/artifact.tar
+        run: tar -xf download/artifact.tar -C public
       - name: rsync deployments
         uses: burnett01/rsync-deployments@6.0.0
         with:
           switches: -avzr --delete
-          path: public/artifact/
+          path: public
           remote_path: public_html/2024/staging
           remote_host: ${{ secrets.HOST }}
           remote_user: ${{ secrets.USER }}
