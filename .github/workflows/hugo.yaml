@@ -65,7 +65,7 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url || secrets.BASE_URL }}/"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v2
         with:
           path: ./public
 
@@ -80,7 +80,7 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
 
   # Staging deployment
   deploy-staging:
@@ -89,15 +89,17 @@ jobs:
     needs: build
     steps:
       - name: Download artifact
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
           name: github-pages
           path: public
+      - name: Untar artifact
+        run: tar -xf public/artifact.tar
       - name: rsync deployments
         uses: burnett01/rsync-deployments@6.0.0
         with:
           switches: -avzr --delete
-          path: public
+          path: public/artifact/
           remote_path: public_html/2024/staging
           remote_host: ${{ secrets.HOST }}
           remote_user: ${{ secrets.USER }}
