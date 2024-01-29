@@ -75,7 +75,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    if: github.repository == 'MIRU-Committee/miru2024'
+    if: github.ref == 'refs/heads/main' && github.repository == 'MIRU-Committee/miru2024'
     needs: build
     steps:
       - name: Deploy to GitHub Pages
@@ -85,7 +85,7 @@ jobs:
   # Staging deployment
   deploy-staging:
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main' && github.repository == 'MIRU-Committee/miru2024_private'
+    if: github.repository == 'MIRU-Committee/miru2024_private'
     needs: build
     steps:
       - name: Download artifact
