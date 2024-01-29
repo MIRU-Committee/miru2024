@@ -34,6 +34,7 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main' && github.repository == 'MIRU-Committee/miru2024'
     env:
       HUGO_VERSION: 0.115.1
     steps:
@@ -48,11 +49,12 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+      - name: Install Node.js dependencies
+        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
-      - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+        if: github.repository == 'MIRU-Committee/miru2024'
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
@@ -62,11 +64,24 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "${{ steps.pages.outputs.base_url || secrets.BASE_URL }}/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
+
+  # Production deployment
+  deploy-production:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    if: github.repository == 'MIRU-Committee/miru2024'
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
 
   # Staging deployment
   deploy-staging:
@@ -85,20 +100,7 @@ jobs:
           switches: -avzr --delete
           path: public
           remote_path: public_html/2024/staging
-          remote_host: www1.ieice.org
-          remote_user: miru
+          remote_host: ${{ secrets.HOST }}
+          remote_user: ${{ secrets.USER }}
           remote_key: ${{ secrets.KEY }}
           remote_key_pass: ${{ secrets.PASSPHRASE }}
-
-  # Production deployment
-  deploy-production:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main' && github.repository == 'MIRU-Committee/miru2024'
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2
