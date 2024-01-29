@@ -91,7 +91,7 @@ jobs:
           name: github-pages
           path: download
       - name: Untar artifact
-        run: tar -xf download/artifact.tar -C public
+        run: mkdir public && tar -xf download/artifact.tar -C public
       - name: rsync deployments
         uses: burnett01/rsync-deployments@6.0.0
         with:
