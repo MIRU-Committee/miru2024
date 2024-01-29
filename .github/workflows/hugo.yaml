@@ -96,8 +96,8 @@ jobs:
         uses: burnett01/rsync-deployments@6.0.0
         with:
           switches: -avzr --delete
-          path: public
-          remote_path: public_html/2024/staging
+          path: public/
+          remote_path: public_html/2024/staging/
           remote_host: ${{ secrets.HOST }}
           remote_user: ${{ secrets.USER }}
           remote_key: ${{ secrets.KEY }}
