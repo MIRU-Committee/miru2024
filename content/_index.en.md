@@ -42,7 +42,21 @@ The "Meeting on Image Recognition and Understanding", short "MIRU", is the large
 ## Affiliated organizations
 - Main: [Technical Committee on Pattern Recognition and Media Understanding, Institute of Electronics, Information and Communication Engineers](https://www.ieice.org/iss/prmu/jpn/index.html)
 - Sub: [The Special Interest Group on Computer Vision and Image Media, Information Processing Society of Japan](http://cvim.ipsj.or.jp/)
-
+- Cooperated Affiliations
+        - Technical Committee on Information-Based Induction Sciences and Machine Learning, Institute of Electronics, Information and Communication Engineers
+        - Technical Committee on Media Experience and Virtual Environment, Institute of Electronics, Information and Communication Engineers
+        - The Special Interest Group on Computer Graphics and Visual Informatics, Information Processing Society of Japan
+        - Institute of Image Information and Television Engineers
+        - Symposium on Sensing via Image Information
+        - The Virtual Reality Society of Japan
+        - The Association for Natural Language Processing
+        - The Japanese Society for Artificial Intelligence
+        - The Acoustical Society of Japan
+        - The Robotics Society of Japan
+        - Technical Committee on Innovative Industrial System, IEEJ Industry Applications Society
+        - Technical Committee on Industrial Application of Image Processing, Japan Society for Precision Engineering
+        - Technical Committee on Pattern Measurement, The Society of Instrument and Control Engineers
+  
 ---
 
 ## Contact
