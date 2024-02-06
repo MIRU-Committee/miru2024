@@ -6,6 +6,7 @@ The "Meeting on Image Recognition and Understanding", short "MIRU", is the large
 
 ## News
 
+- **2024.02.06**: The program policy, award selection criteria and submission schedule are posted.
 - **2023.07.20**: MIRU2024 website is online.
 
 ## Schedule
