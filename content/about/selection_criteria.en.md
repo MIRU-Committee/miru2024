@@ -26,8 +26,9 @@ The award selection as specified in these regulations is intended to select outs
 The MIRU Paper Evaluation Contribution Award is awarded to evaluators who have provided excellent comments on oral presentation track papers from that year's MIRU Symposium. The aim is improving the quality of paper evaluations.
 
 
-## （選奨の種類）
-第3条 選奨の種類は、次の通りとする。括弧内は英語の名称である。
+## List of awards
+
+Article 3: The following awards shall be selected. The original Japanese award name is shown in brackets.
 
 1. MIRU Nagao Award (MIRU長尾賞)
 2. MIRU Excellent Paper Award (MIRU優秀賞)
