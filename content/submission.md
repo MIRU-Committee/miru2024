@@ -31,8 +31,8 @@ title: "投稿"
 
 ## 原稿テンプレート
 原稿の作成には以下のスタイルファイルをご利用ください（昨年と異なりますのでご注意下さい）。
-- 日英LaTeXスタイルファイル（ZIP形式） （overleaf）
-- 日英Wordテンプレート（ZIP形式）
+- 日英LaTeXスタイルファイル（ZIP形式） （[overleaf](https://www.overleaf.com/read/rqzysprtggtp)）
+- 日英Wordテンプレート（[ZIP形式](https://drive.google.com/file/d/1DaVVp4hO3PDdQp0rhL5kgtCSr0pgSPdP/view?usp=drive_link)）
 
 ## その他
 - 原稿の著作権は著者に帰属します。なお、MIRU Extended Abstract集はMIRU参加者にのみweb経由でMIRU期間中に公開します。
@@ -78,12 +78,12 @@ title: "投稿"
 - MIRU2024 Extended Abstract集は非公開です。ただし、同じ内容もしくは一部を国際会議、ジャーナル等へ投稿している場合や今後予定している場合には、先方の投稿規定に抵触しないよう注意して下さい。
 
 【参考】CVPR2024、ECCV2024では、参考文献を除き４ページ以下の論文は二重投稿規程に抵触しないとされています。
-- CVPR 2024 Submission Policies
-- ECCV 2024 Submission Policies
+- [CVPR 2024 Submission Policies](https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines)
+- [ECCV 2024 Submission Policies](https://eccv.ecva.net/Conferences/2024/SubmissionPolicies)
 
 
 # 投稿方法
-投稿はCMT（https://cmt3.research.microsoft.com/MIRU2024）で受け付けます。CMTの使い方は下記スライドを参照してください。
+投稿はCMT（[https://cmt3.research.microsoft.com/MIRU2024](https://cmt3.research.microsoft.com/MIRU2024)）で受け付けます。CMTの使い方は下記スライドを参照してください。
 
 ## 口頭発表論文の場合
 - スライド日本語
