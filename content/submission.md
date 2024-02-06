@@ -15,7 +15,7 @@ title: "投稿"
 # 発表申し込み区分
 
 
-![](SubmissionPipeline.png)
+![](/SubmissionPipeline.png)
 
 
 
