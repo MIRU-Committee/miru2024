@@ -4,7 +4,7 @@ title: "投稿"
 
 # 日程
 
-- 2024年2月6日（火）：CMT投稿サイトオープン、口頭発表候補論文の受付開始
+- 2024年2月2日（金）：CMT投稿サイトオープン、口頭発表候補論文の受付開始
 - 2024年3月11日（月）：口頭発表候補論文 アブストラクト締切
 - 2024年3月18日（月）：口頭発表候補論文 投稿締切
 - 2024年5月31日（金）：口頭発表 結果通知（予定）
@@ -31,8 +31,9 @@ title: "投稿"
 
 ## 原稿テンプレート
 原稿の作成には以下のスタイルファイルをご利用ください（昨年と異なりますのでご注意下さい）。
-- 日英LaTeXスタイルファイル（ZIP形式） （[overleaf](https://www.overleaf.com/read/rqzysprtggtp)）
-- 日英Wordテンプレート（[ZIP形式](https://drive.google.com/file/d/1DaVVp4hO3PDdQp0rhL5kgtCSr0pgSPdP/view?usp=drive_link)）
+- 日英LaTeXスタイルファイル（[ZIP形式](https://drive.google.com/uc?id=1JGg5duYyB3ct0O1conoI3lwbQn8mm5To&export=download)） （[overleaf](https://www.overleaf.com/read/rqzysprtggtp)）
+- 日英Wordテンプレート（[ZIP形式](https://drive.google.com/uc?id=1DaVVp4hO3PDdQp0rhL5kgtCSr0pgSPdP&export=download)）
+
 
 ## その他
 - 原稿の著作権は著者に帰属します。なお、MIRU Extended Abstract集はMIRU参加者にのみweb経由でMIRU期間中に公開します。
