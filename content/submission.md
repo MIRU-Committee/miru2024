@@ -86,8 +86,8 @@ title: "投稿"
 投稿はCMT（[https://cmt3.research.microsoft.com/MIRU2024](https://cmt3.research.microsoft.com/MIRU2024)）で受け付けます。CMTの使い方は下記スライドを参照してください。
 
 ## 口頭発表論文の場合
-- スライド日本語
-- スライド英語
+- [スライド日本語](https://docs.google.com/presentation/d/13geMoHJKJmokkEq6SY3BXCxhJ55C7P5t/edit?usp=sharing&ouid=114774759612805341651&rtpof=true&sd=true)
+- [スライド英語](https://docs.google.com/presentation/d/1-QR-T2LFAMCQkZUQ0Ly0UFThVzxgl8s9/edit?usp=sharing&ouid=114774759612805341651&rtpof=true&sd=true)
 
 ## 一般論文の場合
 - スライド日本語
