@@ -104,7 +104,7 @@ canonifyURLs = true
 
 [[languages.en.menu.main]]
     name = "Sponsor"
-    weight = 5
+    weight = 6
     identifier = "/en/sponsor/"
     url = "/en/sponsor/"
 
