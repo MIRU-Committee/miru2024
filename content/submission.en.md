@@ -7,6 +7,7 @@ title: "Submission"
 - 2024/2/2 (Fri): CMT Submission system opens, Oral Presentation Track Submission opens
 - 2024/3/11 (Mon): Oral Presentation Track Abstract Deadline
 - 2024/3/18 (Mon): Oral Presentation Track Paper Deadline
+- 2024/5/27 (Mon): Poster Track Submission opens
 - 2024/5/31 (Fri): Oral Presentation Track Results Notification (tentative)
 - 2024/6/24 (Fri): Camera ready deadline (Oral Presentation Track, Poster Track, Demo Track), Invited Talk Recommendation deadline
 - 2024/7/31 (Wed): Extended Abstract will be published
