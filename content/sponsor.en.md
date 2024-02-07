@@ -81,9 +81,9 @@ Check out the table below for exhibition fees and benefits.
 </tr>
 <tr>
   <th scope="row">Booth options</th>
-  <td>Display x1<br>99,000 JPY (tax incl)</td>
-  <td>Display x1<br>99,000 JPY (tax incl)</td>
-  <td>Display x1<br>99,000 JPY (tax incl)</td>
+  <td>Display 55''<br>99,000 JPY (tax incl)</td>
+  <td>Display 42''<br>99,000 JPY (tax incl)</td>
+  <td></td>
   <td></td>
 </tr>
 <tr>
@@ -110,12 +110,14 @@ Registration Privileges
 - Corporate participants can attend the main conference, corporate exhibitions, and sponsor events. Individual registration is required for presenters who will give oral, poster, or demonstration presentations at the conference.
 - If you wish to increase the number of participants in the corporate exhibition or corporate event, please register separately as an individual or as a corporate participant.
 
-Corporate Exhibits
+Exhibits
 
 - Corporate exhibits will be held on August 7 and 8. August 6 and August 9 are for logistics and setup.
+- The size of the desk is 1800 cm wide, 600 cm deep and 700 cm high.
+- The name board will be 900 cm wide and 200 cm high with monochrome printing.
 - Free Wi-Fi will be available at the venue, but we cannot guarantee stable communication. If you require a stable network environment for your exhibit, please make your own arrangements.
 - If you require more power than is provided as the standard plan, please provide details on application.
-- If you wish to install a display as an option, we will provide one for an additional fee of 99,000 yen. Display specifications are 32" with HDMI connection.
+- We will provide an optional display for an additional fee of 99,000 yen for platinum and gold sponsors. The display size is 55'' for the platinum sponsor and 42'' for the gold sponsor. Please contact us for the details.
 
 ### Sponsor event
 
@@ -135,6 +137,8 @@ Due to the convenience of the venue, the number of exhibitors will be limited to
 
 - February 14, 2024: Sponsorship application begins
 - May 31, 2024: Sponsorship application deadline
+- June 30, 2024: Logo and video submission deadline
+- July 5, 2024: Booklet and signboard check
 
 ### Procedure
 
