@@ -22,8 +22,8 @@ Our goal for MIRU 2024 is to provide a valuable experience for attendees, presen
 ## 1. As a presenter, you can highlight your research to many people and receive valuable feedback.
 
 -	MIRU provides an opportunity to nurture and grow emerging, challenging research in Japan.
--	Oral presentations are an opportunity to cultivate and establish research which is not yet at a stage to be accepted at an international conference or journal.
--	When selecting oral presentations, we value challenging and emerging research, as well as those which are inspiring and informative to other researchers. Non-oral presentations are presented as posters. All submitted papers which fit the target of MIRU can be presented at the event, and there are no rejections. Due to this, since MIRU 2017 the phrasing “reviewing” has been changed to “evaluating”.
+-	Oral presentations are <u>an opportunity to cultivate and establish research which is not yet at a stage to be accepted at an international conference or journal</u>.
+-	When selecting oral presentations, <u>we value challenging and emerging research, as well as those which are inspiring and informative to other researchers</u>. Non-oral presentations are presented as posters. All submitted papers which fit the target of MIRU can be presented at the event, and there are no rejections. Due to this, since MIRU 2017 the phrasing “reviewing” has been changed to “evaluating”.
 -	In recent years, there have been more than 1000 participants per year, which makes MIRU a fruitful event to promote new ideas to a large audience.
 -	MIRU tries to motivate researchers to work towards top international conferences. Since MIRU 2023, we have the research mentorship program which supports researchers towards submitting to top conferences in the field of computer vision. The program is open for application when submitting to the oral presentation proposal track.
 -	Due to time constraints during oral presentations, we provide the interactive session as a means for presenters to discuss their work in an additional poster presentation. All submitted papers, including invited papers, can be discussed during the interactive sessions.
