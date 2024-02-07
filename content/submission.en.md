@@ -28,7 +28,7 @@ title: "Submission"
 
 - Write your manuscript in Japanese or English. 
 - Keep it within 4 pages without references.
-- Include an abstract (up to 100 words) on the first page.
+- Include an abstract (up to 100 words in English or 200 characters in Japanese) on the first page.
 - Include author names and their affiliations in the manuscript. The paper evaluations for the oral presentation track are single-blinded, meaning that evaluators will be able to see the author list.
 
 
