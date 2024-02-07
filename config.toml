@@ -4,6 +4,7 @@ baseURL = 'http://ec2-54-238-219-28.ap-northeast-1.compute.amazonaws.com/miru202
 title = 'MIRU2024'
 theme = "main"
 defaultContentLanguage = 'ja'
+canonifyURLs = true
 
 [markup]
   [markup.goldmark]
@@ -60,26 +61,44 @@ defaultContentLanguage = 'ja'
 
 
 [[languages.en.menu.main]]
-    name = "Submission"
+    name = "About MIRU"
     weight = 1
+    identifier = "about"
+
+[[languages.en.menu.main]]
+    name = "Program policy"
+    weight = 1
+    parent = "about"
+    url = "/en/about/program_policy/"
+
+[[languages.en.menu.main]]
+    name = "Award Selection Criteria"
+    weight = 2
+    parent = "about"
+    url = "/en/about/selection_criteria/"
+
+
+[[languages.en.menu.main]]
+    name = "Submission"
+    weight = 2
     identifier = "/en/submission/"
     url = "/en/submission/"
 
 [[languages.en.menu.main]]
     name = "Registration"
-    weight = 2
+    weight = 3
     identifier = "/en/registration/"
     url = "/en/registration/"
 
 [[languages.en.menu.main]]
     name = "Program"
-    weight = 3
+    weight = 4
     identifier = "/en/program/"
     url = "/en/program/"
 
 [[languages.en.menu.main]]
     name = "Special events"
-    weight = 4
+    weight = 5
     identifier = "/en/special/"
     url = "/en/special/"
 
