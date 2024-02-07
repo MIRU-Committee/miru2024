@@ -40,7 +40,6 @@ title: "投稿"
 
 # 関連発表の有無に関する投稿ルール（二重投稿規程）
 
-以下のようなhtmlに変換してみました。コードブロックで表示します。
 
 <table style="border:1px solid black;">
   <tr>
