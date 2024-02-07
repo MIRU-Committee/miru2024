@@ -14,7 +14,7 @@ title: "Submission"
 
 # Submission Flowchart
 
-![](/SubmissionPipeline.png)
+{{< figure src="/SubmissionPipeline.png" imgclass="img-fluid" >}}
 
 
 1.	Submissions to the oral presentation track will be evaluated by the paper evaluation committee. Based on the results, it will be presented either in Track A, which has both oral and poster presentations, or in Track B, which is jointly presented with Track C as a poster presentation in an interactive session. The camera ready deadline for all tracks is 6/24. 
