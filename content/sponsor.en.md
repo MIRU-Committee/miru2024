@@ -4,7 +4,7 @@ title: "Exhibit & Sponsor"
 
 The Symposium on Image Recognition and Understanding (MIRU) is one of the largest conferences on computer vision, pattern recognition and related technologies in Japan, attracting more than 1,000 participants every year. Companies and organizations that participate as sponsors are able to exhibit a wide range of basic technologies, products, application examples, and initiatives to a diverse audience of researchers, engineers, and students who will lead the next generation of researchers, engineers, and students.
 
-MIRU2024 will have three categories of corporate sponsorship plans: Platinum, Gold, and Silver. In addition to complimentary registration for MIRU, corporate sponsors will receive a exhibition booth, a logo on the website, and an introduction video. Platinum sponsors will have the option of organizing an event. Take advantage of this opportunity not only for research discussions, but also as a place to communicate with participants for recruiting and collaboration.
+MIRU2024 will have four categories of corporate sponsorship plans: Platinum, Gold, Silver, and Bronze. In addition to complimentary registration for MIRU, corporate sponsors will receive a exhibition booth, a logo on the website, and an introduction video. Platinum sponsors will have the option of organizing an event. Take advantage of this opportunity not only for research discussions, but also as a place to communicate with participants for recruiting and collaboration.
 
 ---
 
