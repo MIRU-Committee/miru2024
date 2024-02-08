@@ -118,6 +118,25 @@ Exhibits
 - Free Wi-Fi will be available at the venue, but we cannot guarantee stable communication. If you require a stable network environment for your exhibit, please make your own arrangements.
 - If you require more power than is provided as the standard plan, please provide details on application.
 - We will provide an optional display for an additional fee of 99,000 yen for platinum and gold sponsors. The display size is 55'' for the platinum sponsor and 42'' for the gold sponsor. Please contact us for the details.
+- A sponsor can arrange the booth layout. We show layout examples below:
+
+<div class="container text-center mb-4">
+  <div class="row">
+    <div class="col">
+      <img src="/sponsor-platinum-booth.png" class="img-thumbnail" alt="platinum-booth">
+      Platinum plan
+    </div>
+    <div class="col">
+      <img src="/sponsor-gold-booth.png" class="img-thumbnail" alt="gold-booth">
+      Gold plan
+    </div>
+    <div class="col">
+      <img src="/sponsor-silver-booth.png" class="img-thumbnail" alt="silver-booth">
+      Silver plan
+    </div>
+  </div>
+</div>
+
 
 ### Sponsor event
 
