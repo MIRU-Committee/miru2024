@@ -6,6 +6,8 @@ The "Meeting on Image Recognition and Understanding", short "MIRU", is the large
 
 ## News
 
+- **2024.02.15**: The [call for evaluators](https://docs.google.com/forms/d/1xExWYvtsQ63gnGZrymwKrslDcXBv_7d3apv0f1tJuq8/edit) for both Senior and Junior evaluators has been posted. Self-recommendations are welcome. The deadline is 2024/2/22.
+- **2024.02.14**: The [call for sponsors](sponsor/) has been posted. The deadline is 2024/5/31.
 - **2024.02.07**: The program policy, award selection criteria and submission guidelines are posted.
 - **2023.07.20**: MIRU2024 website is online.
 
