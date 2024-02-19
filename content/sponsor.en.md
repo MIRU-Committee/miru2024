@@ -166,8 +166,7 @@ Due to the convenience of the venue, the number of exhibitors will be limited to
 Please fill out the sponsor application form and submit it during the application period. After confirming the details of your application, we will contact you shortly regarding acceptance details and payment procedures. The application form will be open from February 14 to May 31.
 
 - The deadline for payment of the sponsorship fee is July 20.
-- IEICE is a qualified invoice issuer (T6010405010414).
-- [Seibu Travel Co](https://www.seibutravel.co.jp/) will contact sponsors regarding the payment process. It may take up to 3 weeks to issue the invoice.
+- [Seibu Travel Co](https://www.seibutravel.co.jp/) will contact sponsors regarding the payment process. It may take up to 3 weeks to issue the invoice. Seibu travel is a qualified invoice issuer (T2013301006266).
 - We will contact you if you apply for a Platinum sponsor event.
 
 #### Logo submission
