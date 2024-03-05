@@ -31,6 +31,7 @@ title: "Submission"
 - Keep it within 4 pages without references.
 - Include an abstract (up to 100 words in English or 200 characters in Japanese) on the first page.
 - Include author names and their affiliations in the manuscript. The paper evaluations for the oral presentation track are single-blinded, meaning that evaluators will be able to see the author list.
+- (Added on 3/5) The authors may optionally submit supplementary materials such as videos, proofs, code, additional figures or tables, or more detailed analysis of experiments presented in the paper. Reviewers will be encouraged to look at it, but are not obligated to do so.
 
 
 ## Template
