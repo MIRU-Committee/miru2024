@@ -63,7 +63,7 @@ The "Meeting on Image Recognition and Understanding", short "MIRU", is the large
 ---
 
 ## Contact
-Future contact link will come here...
+Future contact link will come [here](https://forms.gle/NdqSrYM1DtYa15C66).
 
 ---
 
