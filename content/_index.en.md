@@ -28,6 +28,7 @@ The "Meeting on Image Recognition and Understanding", short "MIRU", is the large
 - Executive chair: Go Irie (Tokyo Univ. of Science), Takashi Shibata (NEC)
 - Executive co-chair: Satoshi Ikehata (NII), Yuta Asano (NII)
 - Organization chair: Ken Tsutsuguchi (Sojo Univ.)
+- Organization co-chair: Takumi Uemura (Sojo Univ.)
 - Finance chair: Kei Shimonishi (Kyoto Univ.)
 - Publicity chair: Yusuke Matsui (Univ. of Tokyo)
 - Publication chair: Kensho Hara (AIST)
@@ -63,7 +64,7 @@ The "Meeting on Image Recognition and Understanding", short "MIRU", is the large
 ---
 
 ## Contact
-Future contact link will come here...
+Future contact link will come [here](https://forms.gle/NdqSrYM1DtYa15C66).
 
 ---
 
