@@ -191,7 +191,14 @@ We request Platinum and Gold sponsors to send a video file to `miru-industry@mai
 
 Please submit your video file as an attachment to an e-mail or by a file transmission service. Please contact us for the other submission options.
 
-### Contact
+## Disclaimer
+
+The organizer of MIRU2024 (hereinafter referred to as "the organizer") reserves the right to change the duration of the event (date and period of the event), venue, or form of the event, or to cancel the event due to force majeure such as natural disasters.
+The organizer will not compensate for any damage caused by such changes.
+In the event of a change in the exhibition's duration, venue, or format for any of the aforementioned reasons, the sponsorship shall remain in effect for the changed duration, venue, or format, and the sponsorship cannot be cancelled due to such a change.
+In the event that the organizer changes the duration and/or venue or cancels the event due to the organizer's circumstances, or in the event that the organizer determines that the benefits of sponsorship have been significantly impaired, a partial or full refund of expenses will be made upon mutual consultation between the sponsor and the organizer.
+
+## Contact
 
 MIRU 2024 Industrial relations chair
 Kota Yamaguchi `<miru-industry@mail.ieice.org>`
