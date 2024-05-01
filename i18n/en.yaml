@@ -1,15 +1,14 @@
 platinumsponsor:
-  other: "Platinum sponsor"
+  other: "Platinum sponsors"
 
 goldsponsor:
-  other: "Gold sponsor"
+  other: "Gold sponsors"
 
 silversponsor:
-  other: "Silver sponsor"
+  other: "Silver sponsors"
 
 notavail:
   other: "TBD"
 
 headertext:
   other: "MIRU2024 @ Kumamoto<br/>August 6-9, 2024"
-

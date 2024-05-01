@@ -77,16 +77,11 @@ title: "第27回 画像の認識・理解シンポジウム MIRU2024"
 
 ---
 
-## 謝辞
-トップページには熊本城総合事務所のHPの写真を利用させていただきました。ありがとうございます。[【写真提供：熊本城総合事務所】](https://castle.kumamoto-guide.jp/galleries/guide.html)
-
-
-
-
-<!-- 
----
-
 ## スポンサー
 
 {{< sponsors >}}
--->
+
+---
+
+## 謝辞
+トップページには熊本城総合事務所のHPの写真を利用させていただきました。ありがとうございます。[【写真提供：熊本城総合事務所】](https://castle.kumamoto-guide.jp/galleries/guide.html)
