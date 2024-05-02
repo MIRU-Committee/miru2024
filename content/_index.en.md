@@ -60,7 +60,7 @@ The "Meeting on Image Recognition and Understanding", short "MIRU", is the large
     - Technical Committee on Innovative Industrial System, IEEJ Industry Applications Society
     - Technical Committee on Industrial Application of Image Processing, Japan Society for Precision Engineering
     - Technical Committee on Pattern Measurement, The Society of Instrument and Control Engineers
-  
+
 ---
 
 ## Contact
@@ -75,19 +75,12 @@ Future contact link will come [here](https://forms.gle/NdqSrYM1DtYa15C66).
 
 ---
 
+## Sponsor
+
+{{< sponsors-en >}}
+
+---
 
 ## Acknowledgements
 
 The picture above is courtesy of the Kumamoto Tourist Information Center. Thank you. [【写真提供：熊本城総合事務所】](https://castle.kumamoto-guide.jp/galleries/guide.html)
-
-
-
-<!-- 
----
-
-## Sponsor
-
-{{< sponsors >}}
-
----
--->
