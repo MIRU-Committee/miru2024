@@ -44,8 +44,13 @@ canonifyURLs = true
 [[menu.main]]
     name = "プログラム"
     weight = 4
-    identifier = "/program/"
-    url = "/program/"
+    identifier = "program"
+
+[[menu.main]]
+    name = "チュートリアル"
+    weight = 4
+    parent = "program"
+    url = "/program/tutorial/"
 
 [[menu.main]]
     name = "特別企画"
@@ -93,8 +98,13 @@ canonifyURLs = true
 [[languages.en.menu.main]]
     name = "Program"
     weight = 4
-    identifier = "/en/program/"
-    url = "/en/program/"
+    identifier = "program"
+
+[[languages.en.menu.main]]
+    name = "Tutorial"
+    weight = 4
+    parent = "program"
+    url = "/en/program/tutorial/"
 
 [[languages.en.menu.main]]
     name = "Special events"
