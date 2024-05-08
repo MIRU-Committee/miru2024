@@ -55,8 +55,20 @@ canonifyURLs = true
 [[menu.main]]
     name = "特別企画"
     weight = 5
-    identifier = "/special/"
-    url = "/special/"
+    identifier = "special"
+
+[[menu.main]]
+    name = "メンターシッププログラム"
+    weight = 1
+    parent = "special"
+    url = "https://sites.google.com/view/prmu-rmp/miru"
+
+[[menu.main]]
+    name = "若手プログラム"
+    weight = 2
+    parent = "special"
+    url = "https://sites.google.com/view/miru2024wakate/"
+
 
 [[menu.main]]
     name = "スポンサー"
@@ -109,8 +121,19 @@ canonifyURLs = true
 [[languages.en.menu.main]]
     name = "Special events"
     weight = 5
-    identifier = "/en/special/"
-    url = "/en/special/"
+    identifier = "special"
+
+[[languages.en.menu.main]]
+    name = "Mentorship program"
+    weight = 1
+    parent = "special"
+    url = "https://sites.google.com/view/prmu-rmp/miru"
+
+[[languages.en.menu.main]]
+    name = "Wakate program"
+    weight = 2
+    parent = "special"
+    url = "https://sites.google.com/view/miru2024wakate/"
 
 [[languages.en.menu.main]]
     name = "Sponsor"
