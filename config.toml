@@ -47,8 +47,20 @@ canonifyURLs = true
     identifier = "program"
 
 [[menu.main]]
-    name = "チュートリアル"
+    name = "タイムテーブル"
     weight = 1
+    parent = "program"
+    url = "/program/timetable/"
+
+[[menu.main]]
+    name = "特別講演"
+    weight = 2
+    parent = "program"
+    url = "/program/keynote/"
+
+[[menu.main]]
+    name = "チュートリアル"
+    weight = 3
     parent = "program"
     url = "/program/tutorial/"
 
@@ -113,8 +125,20 @@ canonifyURLs = true
     identifier = "program"
 
 [[languages.en.menu.main]]
-    name = "Tutorial"
+    name = "Timetable"
     weight = 1
+    parent = "program"
+    url = "/en/program/timetable/"
+
+[[languages.en.menu.main]]
+    name = "Keynote"
+    weight = 2
+    parent = "program"
+    url = "/en/program/keynote/"
+
+[[languages.en.menu.main]]
+    name = "Tutorial"
+    weight = 3
     parent = "program"
     url = "/en/program/tutorial/"
 
