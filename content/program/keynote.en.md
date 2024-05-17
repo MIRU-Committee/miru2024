@@ -4,7 +4,11 @@ title: "Keynote"
 
 # Keynote 1 (August 8, 9:00-10:00)
 
+![](/keynote1_imai.jpg)
+
+
 ### Prof. Mutsumi Imai (Faculty of Environment and Information Sciences, Keio University)
+
 
 ### Title: How do humans connect the continuous visual world and discrete linguistic symbols? 
 
@@ -13,6 +17,8 @@ Language divides the continuous visual world into discrete categories and names 
 
 
 # Keynote 2 (August 9, 9:00-10:00)
+
+![](/keynote2_inami.jpg)
 
 
 
