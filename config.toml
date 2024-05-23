@@ -28,6 +28,12 @@ canonifyURLs = true
     parent = "about"
     url = "/about/selection_criteria/"
 
+[[menu.main]]
+    name = "招待講演推薦"
+    weight = 3
+    parent = "about"
+    url = "/about/call_for_invited_talk/"
+
 
 [[menu.main]]
     name = "投稿"
@@ -105,6 +111,13 @@ canonifyURLs = true
     weight = 2
     parent = "about"
     url = "/en/about/selection_criteria/"
+
+[[languages.en.menu.main]]
+    name = "Call for Invited Talk"
+    weight = 3
+    parent = "about"
+    url = "/en/about/call_for_invited_talk/"
+
 
 
 [[languages.en.menu.main]]
