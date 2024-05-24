@@ -1,5 +1,5 @@
 ---
-title: "Keynote"
+title: "Keynotes"
 ---
 
 # Keynote 1 (August 8, 9:00-10:00)
