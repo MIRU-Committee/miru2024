@@ -144,13 +144,13 @@ canonifyURLs = true
     url = "/en/program/timetable/"
 
 [[languages.en.menu.main]]
-    name = "Keynote"
+    name = "Keynotes"
     weight = 2
     parent = "program"
     url = "/en/program/keynote/"
 
 [[languages.en.menu.main]]
-    name = "Tutorial"
+    name = "Tutorials"
     weight = 3
     parent = "program"
     url = "/en/program/tutorial/"
