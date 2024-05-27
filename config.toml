@@ -42,7 +42,7 @@ canonifyURLs = true
     url = "/submission/"
 
 [[menu.main]]
-    name = "参加"
+    name = "参加登録"
     weight = 3
     identifier = "/registration/"
     url = "/registration/"
