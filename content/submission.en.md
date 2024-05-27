@@ -102,12 +102,12 @@ Please use the CMT portal ([https://cmt3.research.microsoft.com/MIRU2024](https:
 - [Sldies (Japanese)](https://docs.google.com/presentation/d/13geMoHJKJmokkEq6SY3BXCxhJ55C7P5t/edit?usp=sharing&ouid=114774759612805341651&rtpof=true&sd=true)
 
 ## Poster track
-- Slides (English)
-- Slides (Japanese)
+- [Slides (English)](https://docs.google.com/presentation/d/1q-JnIZpeifMsVP5G4vsgRn3Z8kupuNlD/edit?usp=sharing&ouid=114774759612805341651&rtpof=true&sd=true)
+- [Slides (Japanese)](https://docs.google.com/presentation/d/1d59rP4lADIYkGoLkgbc37kIAUY45dS6z/edit?usp=sharing&ouid=114774759612805341651&rtpof=true&sd=true)
 
 ## Demo track
-- Slides (English)
-- Slides (Japanese)
+- [Slides (English)](https://docs.google.com/presentation/d/1Z5usPTuWM_6mD373Dp6jvnL3h4lWZcJY/edit?usp=sharing&ouid=114774759612805341651&rtpof=true&sd=true)
+- [Slides (Japanese)](https://docs.google.com/presentation/d/1NGMqyIPkjdCbyNbPDUjvwNiYX-fAL9yF/edit?usp=sharing&ouid=114774759612805341651&rtpof=true&sd=true)
 
 
 # Submission Areas

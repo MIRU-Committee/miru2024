@@ -90,12 +90,12 @@ title: "投稿"
 - [スライド英語](https://docs.google.com/presentation/d/1-QR-T2LFAMCQkZUQ0Ly0UFThVzxgl8s9/edit?usp=sharing&ouid=114774759612805341651&rtpof=true&sd=true)
 
 ## 一般論文の場合
-- スライド日本語
-- スライド英語
+- [スライド日本語](https://docs.google.com/presentation/d/1q-JnIZpeifMsVP5G4vsgRn3Z8kupuNlD/edit?usp=sharing&ouid=114774759612805341651&rtpof=true&sd=true)
+- [スライド英語](https://docs.google.com/presentation/d/1d59rP4lADIYkGoLkgbc37kIAUY45dS6z/edit?usp=sharing&ouid=114774759612805341651&rtpof=true&sd=true)
 
 ## デモ論文の場合
-- スライド日本語
-- スライド英語
+- [スライド日本語](https://docs.google.com/presentation/d/1Z5usPTuWM_6mD373Dp6jvnL3h4lWZcJY/edit?usp=sharing&ouid=114774759612805341651&rtpof=true&sd=true)
+- [スライド英語](https://docs.google.com/presentation/d/1NGMqyIPkjdCbyNbPDUjvwNiYX-fAL9yF/edit?usp=sharing&ouid=114774759612805341651&rtpof=true&sd=true)
 
 
 # 募集分野
