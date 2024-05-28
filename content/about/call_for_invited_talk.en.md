@@ -12,3 +12,11 @@ Please note that if we receive a large number of nominations, selections will be
 </ul>
 
 Please register the nomination information by the <strong>deadline (June 24 (Mon), 2024, 23:59 JST)</strong>.
+
+
+
+**[May 28 update] The submission for the poster track is also welcome for nomination.**
+
+
+
+
