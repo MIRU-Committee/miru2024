@@ -108,7 +108,7 @@ Registration Privileges
 
 - Complimentary registration will be provided for an organization. It is possible to share the registration pass in the same organization.
 - Corporate participants can attend the main conference, corporate exhibitions, and sponsor events. Individual registration is required for presenters who will give oral, poster, or demonstration presentations at the conference.
-- If you wish to increase the number of participants in the corporate exhibition or corporate event, please register separately as an individual or as a corporate participant.
+- If you wish to increase the number of participants in the corporate exhibition or corporate event, please register separately as an individual.
 
 Exhibits
 
@@ -163,7 +163,7 @@ Due to the convenience of the venue, the number of exhibitors will be limited to
 
 [Application form](https://docs.google.com/forms/d/e/1FAIpQLSfX-7MlnoQQbm7ih9hnD0CtKoOabqD2fPPxDuneTk82ofBwhQ/viewform?usp=sf_link) (Japanese)
 
-Please fill out the sponsor application form and submit it during the application period. After confirming the details of your application, we will contact you shortly regarding acceptance details and payment procedures. The application form will be open from February 14 to May 31.
+The application period has ended.
 
 - The deadline for payment of the sponsorship fee is July 20.
 - [Seibu Travel Co](https://www.seibutravel.co.jp/) will contact sponsors regarding the payment process. It may take up to 3 weeks to issue the invoice. Seibu Travel Co is a qualified invoice issuer (T2013301006266).
