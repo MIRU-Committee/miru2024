@@ -12,9 +12,6 @@ title: "タイムテーブル"
 
 
 
-
-
-
 <div class="d-flex justify-content-between">
     <a class="btn btn-secondary btn-lg" href="#8月6日火" role="button">8月6日（火）</a>
     <a class="btn btn-secondary btn-lg" href="#8月7日水" role="button">8月7日（水）</a>
@@ -62,7 +59,7 @@ title: "タイムテーブル"
 ## 14:40 - 16:10 オーラル2D（OS-2D）：4Fメインホール
 ## 16:20 - 18:20 インタラクティブ2A（IS-2A） / 企業展示（EX）：3F A会議室
 ## 16:20 - 18:20 インタラクティブ2B（IS-2B） / デモ（DS）：1F 展示ホール
-## 19:00 - 21:00 交流会 / バンケット（ホテル日航熊本）
+## 19:00 - 21:00 交流会 / バンケット：ホテル日航熊本
 
 ---
 
