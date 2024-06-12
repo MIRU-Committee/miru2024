@@ -11,7 +11,6 @@ title: "タイムテーブル"
 
 
 
-
 <div class="d-flex justify-content-between">
     <a class="btn btn-secondary btn-lg" href="#8月6日火" role="button">8月6日（火）</a>
     <a class="btn btn-secondary btn-lg" href="#8月7日水" role="button">8月7日（水）</a>
