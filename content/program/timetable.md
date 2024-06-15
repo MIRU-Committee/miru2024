@@ -2,7 +2,7 @@
 title: "タイムテーブル"
 ---
 
-[<img src="/program_jp.png" class="img-fluid">](/program_jp.png)
+<!-- [<img src="/program_jp.png" class="img-fluid">](/program_jp.png)
 ※特に場所の記載がない場合、全て4Fのメインホールで行われます。
 
 <div class="d-flex justify-content-between">
@@ -10,12 +10,9 @@ title: "タイムテーブル"
     <a class="btn btn-secondary btn-lg" href="#8月7日水" role="button">8月7日（水）</a>
     <a class="btn btn-secondary btn-lg" href="#8月8日木" role="button">8月8日（木）</a>
     <a class="btn btn-secondary btn-lg" href="#8月9日金" role="button">8月9日（金）</a>
-</div>
+</div> -->
 
 
----
----
----
 
 
 <style type="text/css">.ritz .waffle a { color: inherit; }.ritz .waffle .s2{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#ffffff;text-align:center;color:#000000;font-family:'Arial';font-size:11pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s10{border-right:1px SOLID #000000;background-color:#ffffff;text-align:center;font-weight:bold;color:#000000;font-family:'Arial';font-size:9pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s4{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#ffffff;text-align:center;color:#000000;font-family:'docs-aptos narrow',Arial;font-size:11pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s6{border-right:1px SOLID #000000;background-color:#ffffff;text-align:left;color:#000000;font-family:'Arial';font-size:11pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s13{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#d9ead3;text-align:center;font-weight:bold;color:#000000;font-family:'Arial';font-size:8pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s0{border-bottom:1px SOLID #000000;background-color:#ffffff;text-align:left;color:#000000;font-family:'Arial';font-size:11pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s3{border-right:1px SOLID #000000;background-color:#ffffff;text-align:left;color:#000000;font-family:'docs-aptos narrow',Arial;font-size:11pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s7{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#efefef;text-align:center;font-weight:bold;color:#000000;font-family:'Arial';font-size:9pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s12{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#ffedb9;text-align:center;font-weight:bold;color:#000000;font-family:'Arial';font-size:12pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s11{border-right:1px SOLID #000000;background-color:#ffffff;text-align:center;font-weight:bold;color:#000000;font-family:'Arial';font-size:12pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s17{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#f4cccc;text-align:center;font-weight:bold;color:#000000;font-family:'Arial';font-size:13pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s14{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#f2ceef;text-align:center;font-weight:bold;color:#000000;font-family:'Arial';font-size:8pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s16{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#ffffff;text-align:left;color:#000000;font-family:'Arial';font-size:11pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s1{border-right:1px SOLID #000000;background-color:#ffffff;text-align:center;color:#000000;font-family:'Arial';font-size:11pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s5{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#ffffff;text-align:right;font-weight:bold;color:#000000;font-family:'Arial';font-size:12pt;vertical-align:top;white-space:nowrap;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s8{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#c9daf8;text-align:center;font-weight:bold;color:#000000;font-family:'Arial';font-size:12pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s15{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#efefef;text-align:center;font-weight:bold;color:#000000;font-family:'Arial';font-size:12pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s9{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#f4cccc;text-align:center;font-weight:bold;color:#000000;font-family:'Arial';font-size:12pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:0px 3px 0px 3px;}</style>
@@ -38,11 +35,11 @@ title: "タイムテーブル"
             <td class="s6"></td>
             <td class="s7" dir="ltr" rowspan="12">受付</td>
             <td class="s3"></td>
-            <td class="s8" dir="ltr" colspan="2" rowspan="12"><a href="#9-00---10-00-オーラル1a（os-1a）：4fメインホール">オーラル1A</a><br> OS-1A</td>
+            <td class="s8" dir="ltr" colspan="2" rowspan="12"><a href="#900---1000-オーラル1aos-1a4fメインホール">オーラル1A<br> OS-1A</a></td>
             <td class="s3"></td>
-            <td class="s9" dir="ltr" colspan="2" rowspan="12">特別講演<br> 今井むつみ先生</td>
+            <td class="s9" dir="ltr" colspan="2" rowspan="12"><a href="#900---1000-特別講演4fメインホール">特別講演<br> 今井むつみ先生</a></td>   9:00 - 10:00 特別講演：4Fメインホール
             <td class="s3"></td>
-            <td class="s9" dir="ltr" colspan="2" rowspan="12">特別講演<br> 稲見 昌彦先生</td>
+            <td class="s9" dir="ltr" colspan="2" rowspan="12"><a href="#900---1000-特別講演4fメインホール-1">特別講演<br> 稲見 昌彦先生</a></td>
          </tr>
          <tr style="height: 4px">
             <td class="s6"></td>
@@ -130,7 +127,7 @@ title: "タイムテーブル"
          <tr style="height: 4px">
             <td class="s11"></td>
             <td class="s3"></td>
-            <td class="s8" dir="ltr" colspan="2" rowspan="12">オーラル1B<br> OS-1B</td>
+            <td class="s8" dir="ltr" colspan="2" rowspan="12"><a href="#1010---1110-オーラル1bos-1b4fメインホール">オーラル1B<br> OS-1B</td>
             <td class="s3"></td>
             <td class="s8" dir="ltr" colspan="2" rowspan="12">オーラル2A<br> OS-2A</td>
             <td class="s3"></td>
