@@ -300,7 +300,7 @@ title: "タイムテーブル"
             <td class="s3"></td>
             <td class="s7" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-企業イベント企画3f中会議室b">企業イベント企画<br> （3F中会議室B&E）</a><br>・ランチ<br> 12:20~13:30<br> 70分</td>
             <td class="s3"></td>
-            <td class="s7" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-インターナショナルイベント企画3f中会議室b">国際イベント企画<br> （3F中会議室B）<br>・ランチ<br> 12:20~13:30<br> 70分</td>
+            <td class="s7" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-インターナショナルイベント企画3f中会議室b">国際イベント企画<br> （3F中会議室B）</a><br>・ランチ<br> 12:20~13:30<br> 70分</td>
          </tr>
          <tr style="height: 4px">
             <td class="s6"></td>
@@ -347,7 +347,7 @@ title: "タイムテーブル"
          <tr style="height: 4px">
             <td class="s5" dir="ltr" rowspan="12">13:00</td>
             <td class="s11"></td>
-            <td class="s7" dir="ltr" rowspan="2"><a href="#1300---1310-チュートリアルイントロダクション4fメインホール">イントロダクション</a></td>
+            <td class="s7" dir="ltr" rowspan="2">イントロダクション</td>
             <td class="s3"></td>
             <td class="s3"></td>
             <td class="s3"></td>
