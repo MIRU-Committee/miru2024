@@ -48,8 +48,20 @@ canonifyURLs = true
     url = "/registration/"
 
 [[menu.main]]
-    name = "プログラム"
+    name = "現地参加"
     weight = 4
+    identifier = "attend"
+
+[[menu.main]]
+    name = "託児室"
+    weight = 1
+    parent = "attend"
+    url = "/attend/nursery/"
+
+
+[[menu.main]]
+    name = "プログラム"
+    weight = 5
     identifier = "program"
 
 [[menu.main]]
@@ -72,7 +84,7 @@ canonifyURLs = true
 
 [[menu.main]]
     name = "特別企画"
-    weight = 5
+    weight = 6
     identifier = "special"
 
 [[menu.main]]
@@ -90,7 +102,7 @@ canonifyURLs = true
 
 [[menu.main]]
     name = "スポンサー"
-    weight = 6
+    weight = 7
     identifier = "/sponsor/"
     url = "/sponsor/"
 
@@ -133,8 +145,20 @@ canonifyURLs = true
     url = "/en/registration/"
 
 [[languages.en.menu.main]]
-    name = "Program"
+    name = "Attend"
     weight = 4
+    identifier = "attend"
+
+[[languages.en.menu.main]]
+    name = "Nursery room"
+    weight = 1
+    parent = "attend"
+    url = "/en/attend/nursery/"
+
+
+[[languages.en.menu.main]]
+    name = "Program"
+    weight = 5
     identifier = "program"
 
 [[languages.en.menu.main]]
@@ -157,7 +181,7 @@ canonifyURLs = true
 
 [[languages.en.menu.main]]
     name = "Special events"
-    weight = 5
+    weight = 6
     identifier = "special"
 
 [[languages.en.menu.main]]
@@ -174,7 +198,7 @@ canonifyURLs = true
 
 [[languages.en.menu.main]]
     name = "Sponsor"
-    weight = 6
+    weight = 7
     identifier = "/en/sponsor/"
     url = "/en/sponsor/"
 
