@@ -83,6 +83,13 @@ canonifyURLs = true
     url = "/program/tutorial/"
 
 [[menu.main]]
+    name = "インターナショナルイベント"
+    weight = 4
+    parent = "program"
+    url = "https://sites.google.com/view/miru2024-internationallunch/"
+
+
+[[menu.main]]
     name = "特別企画"
     weight = 6
     identifier = "special"
@@ -178,6 +185,13 @@ canonifyURLs = true
     weight = 3
     parent = "program"
     url = "/en/program/tutorial/"
+
+[[languages.en.menu.main]]
+    name = "International event"
+    weight = 4
+    parent = "program"
+    url = "https://sites.google.com/view/miru2024-internationallunch/"
+
 
 [[languages.en.menu.main]]
     name = "Special events"

@@ -246,7 +246,7 @@ title: "Timetable"
          </tr>
          <tr style="height: 4px">
             <td class="s5"></td>
-            <td class="s6" dir="ltr" rowspan="14">Lunch<br> 11:50~13:00<br> 70 min.</td>
+            <td class="s6" dir="ltr" rowspan="14">Lunch break<br> 11:50~13:00<br> 70 min.</td>
             <td class="s3"></td>
             <td class="s3"></td>
             <td class="s3"></td>
@@ -1009,6 +1009,8 @@ All events will be held in the Main Hall on the 4th floor unless a specific loca
 ## 10:10 - 11:40 Oral session 3A (OS-3A): 4F Main Hall
 ## 11:40 - 12:20 Work life balance session: 4F Main Hall
 ## 12:20 - 13:30 International events: 3F Conference Room B
+- [MIRU2024 International Lunch](https://sites.google.com/view/miru2024-internationallunch/)
+
 ## 13:30 - 15:00 Interactive session 3A (IS-3A): 3F Conference Room A
 ## 13:30 - 15:00 Interactive session 3B (IS-3B): 1F Exhibition Hall
 ## 15:10 - 16:00 Special session: 4F Main Hall
