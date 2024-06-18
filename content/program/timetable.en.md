@@ -967,11 +967,11 @@ All events will be held in the Main Hall on the 4th floor unless a specific loca
 ## 10:20 - 11:50 Invited talks: 4F Main Hall
 ## 13:00 - 13:10 Tutorial introduction: 4F Main Hall
 ## 13:10 - 14:40 Tutorial 1: 4F Main Hall
-- [Vision Technologies for Autonomous Driving (Prof. Ikuro Sato) ](tutorial/#tutorial-1-august-6-1310-1440)
+- [Vision Technologies for Autonomous Driving (Prof. Ikuro Sato) ]({{< ref "/tutorial/#tutorial-1-august-6-1310-1440" >}})
 ## 14:50 - 16:20 Tutorial 2: 4F Main Hall
-- [Performance Evaluation for Computer Vision Research (Dr. Mayu Otani) ](tutorial/#tutorial-2-august-6-1450-1620)
+- [Performance Evaluation for Computer Vision Research (Dr. Mayu Otani) ]({{< ref "/tutorial/#tutorial-2-august-6-1450-1620" >}})
 ## 16:30 - 18:00 Tutorial 3: 4F Main Hall
-- [Scene state estimation using various sensors and modalities (Prof. Mariko Isogawa) ](tutorial/#tutorial-3-august-6-1630-1800)
+- [Scene state estimation using various sensors and modalities (Prof. Mariko Isogawa) ]({{< ref "/tutorial/#tutorial-3-august-6-1630-1800" >}})
 
 ---
 
@@ -990,7 +990,7 @@ All events will be held in the Main Hall on the 4th floor unless a specific loca
 
 # Aug. 8th (Thu)
 ## 9:00 - 10:00 Keynote session: 4F Main Hall
-- [How do humans connect the continuous visual world and discrete linguistic symbols? (Prof. Mutsumi Imai)](keynote/#keynote-1-august-8-900-1000)
+- [How do humans connect the continuous visual world and discrete linguistic symbols? (Prof. Mutsumi Imai)]({{< ref "/keynote/#keynote-1-august-8-900-1000" >}})
 ## 10:10 - 11:10 Oral session 2A (OS-2A): 4F Main Hall
 ## 11:20 - 12:20 Oral session 2B (OS-2B): 4F Main Hall
 ## 12:20 - 13:30 Sponsors events: 3F Conference Room B
@@ -1005,7 +1005,7 @@ All events will be held in the Main Hall on the 4th floor unless a specific loca
 
 # Aug. 9th (Fri)
 ## 9:00 - 10:00 Keynote session: 4F Main Hall
-- [JIZAI Body: beyond human limits (Prof. Masahiko Inami)](keynote/#keynote-2-august-9-900-1000)
+- [JIZAI Body: beyond human limits (Prof. Masahiko Inami)]({{< ref "/keynote/#keynote-2-august-9-900-1000" >}})
 ## 10:10 - 11:40 Oral session 3A (OS-3A): 4F Main Hall
 ## 11:40 - 12:20 Work life balance session: 4F Main Hall
 ## 12:20 - 13:30 International events: 3F Conference Room B
