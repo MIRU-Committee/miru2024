@@ -35,7 +35,7 @@ title: "投稿"
 - 日英Wordテンプレート（[ZIP形式](https://drive.google.com/uc?id=1DaVVp4hO3PDdQp0rhL5kgtCSr0pgSPdP&export=download)）
 
 ## サムネイル画像
-- サムネイル画像は，EA集(予稿集)とオンライン参加者向けのポータルサイトに使用します．
+- サムネイル画像は，[BMVC2020](https://www.bmvc2020-conference.com/conference/papers/)のような形でEA集(予稿集)に使用します．
 - サイズは幅484 x 高さ260 ピクセルとしてください．
 - ファイルサイズの上限は300K byteとします．
 - ファイル形式はjpgでお願いします．

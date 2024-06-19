@@ -42,7 +42,7 @@ Use the template provided below. It changed since last year, so make sure to dow
 - Word Template（[ZIP](https://drive.google.com/uc?id=1DaVVp4hO3PDdQp0rhL5kgtCSr0pgSPdP&export=download)）
 
 ## Thumbnail
-- Thumbnail images are used for the proceedings (EA collection) and the portal site for online participants.
+- Thumbnail images are used for the proceedings (EA collection) like [BMVC2020](https://www.bmvc2020-conference.com/conference/papers/).
 - The size should be 484 pixels wide by 260 pixels high. 
 - The maximum file size is 300K bytes. 
 - The thumbnail image should be in the JPEG format.
