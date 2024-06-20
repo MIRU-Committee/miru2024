@@ -34,11 +34,11 @@ title: "投稿"
 - 日英LaTeXスタイルファイル（[ZIP形式](https://drive.google.com/uc?id=1JGg5duYyB3ct0O1conoI3lwbQn8mm5To&export=download)） （[overleaf](https://www.overleaf.com/read/rqzysprtggtp)）
 - 日英Wordテンプレート（[ZIP形式](https://drive.google.com/uc?id=1DaVVp4hO3PDdQp0rhL5kgtCSr0pgSPdP&export=download)）
 
-## サムネイル画像
-- サムネイル画像は，[BMVC2020](https://www.bmvc2020-conference.com/conference/papers/)のような形でEA集(予稿集)に使用します．
-- サイズは幅484 x 高さ260 ピクセルとしてください．
-- ファイルサイズの上限は300K byteとします．
-- ファイル形式はjpgでお願いします．
+## サムネイル画像【6/21更新】
+- サムネイル画像は、[BMVC2020](https://www.bmvc2020-conference.com/conference/papers/)のような形でEA集(予稿集)に使用します。
+- サイズは幅484 x 高さ260 ピクセルとしてください。
+- ファイルサイズの上限は300K byteとします。
+- ファイル形式はjpgでお願いします。
 
 ## その他
 - 原稿の著作権は著者に帰属します。なお、MIRU Extended Abstract集はMIRU参加者にのみweb経由でMIRU期間中に公開します。
