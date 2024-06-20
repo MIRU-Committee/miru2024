@@ -9,7 +9,7 @@ title: "Submission"
 - 2024/3/18 (Mon): Oral Presentation Track Paper Deadline
 - 2024/5/27 (Mon): Poster Track Submission opens
 - 2024/5/31 (Fri): Oral Presentation Track Results Notification (tentative)
-- 2024/6/24 (Fri): Camera ready deadline (Oral Presentation Track, Poster Track, Demo Track), Invited Talk Recommendation deadline
+- 2024/6/24 (Fri): Camera ready and thumbnail image deadline (Oral Presentation Track, Poster Track, Demo Track), Invited Talk Recommendation deadline
 - 2024/7/31 (Wed): Extended Abstract will be published
 - 2024/8/6 (Tue) - 9 (Fri)：MIRU Main Event
 
@@ -41,6 +41,11 @@ Use the template provided below. It changed since last year, so make sure to dow
 - LaTeX Style Files（[ZIP](https://drive.google.com/uc?id=1JGg5duYyB3ct0O1conoI3lwbQn8mm5To&export=download)） （[Overleaf](https://www.overleaf.com/read/rqzysprtggtp)）
 - Word Template（[ZIP](https://drive.google.com/uc?id=1DaVVp4hO3PDdQp0rhL5kgtCSr0pgSPdP&export=download)）
 
+## Thumbnail [Updated 6/21]
+- Thumbnail images are used for the proceedings (EA collection) like [BMVC2020](https://www.bmvc2020-conference.com/conference/papers/).
+- The size should be 484 pixels wide by 260 pixels high. 
+- The maximum file size is 300K bytes. 
+- The thumbnail image should be in the JPEG format.
 
 ## Miscellaneous
 
