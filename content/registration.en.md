@@ -60,11 +60,11 @@ In order to understand which registration categories you may be eligible for, pl
 ※Note, that if you register for PRMU or CVIM as a standard member before registering for the "PRMU or CVIM Members" category, the total fee is cheaper than just registering for "Regular".
 
 - You are eligible for "PRMU or CVIM Members" registration if you are currently member of one of the following:
-    1. You are a 2024 member of the Special Interest Group on Computer Vision and Image Media (CVIM), Information Processing Society of Japan (including standard member, student member, senior member, or supporting member.) 
+    1. You are a member of the Special Interest Group on Computer Vision and Image Media (CVIM), Information Processing Society of Japan (including standard member, student member, senior member, or supporting member.) 
         - [Registration page](https://www.ipsj.or.jp/kenkyukai/toroku.html)
         - [Registration fees](https://www.ipsj.or.jp/kenkyukai/torokuhietc2024.html)
         - [Member services](https://www.ipsj.or.jp/member/service-ichiran.html)
-    2. You are an 2024 annual member of Pattern Recognition and Media Understanding (PRMU) at Institute of Electronics, Information and Communication Engineers, or you are an annual member of **all** research groups at Information and Systems Society (ISS) at Institute of Electronics, Information and Communication Engineers. 
+    2. You are an annual member of Pattern Recognition and Media Understanding (PRMU) at Institute of Electronics, Information and Communication Engineers, or you are an annual member of **all** research groups at Information and Systems Society (ISS) at Institute of Electronics, Information and Communication Engineers. 
         - [Registration page](https://www.ieice.org/jpn_r/event/kenkyukai/registration_fee.html?id=iss)
         - [Registration guide](https://www.ieice.org/cs/kensen/special/e_gihou/files/regist_payment.pdf)
     1. You are a supporting member of an organization which registered for an organization group which registered for Special Interest Group on Computer Vision and Image Media (CVIM) in 2024. In this case your organization group has a limited amount of registration slots. Please make sure within your organization if the quota is still available.
