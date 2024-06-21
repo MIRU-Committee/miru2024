@@ -78,7 +78,7 @@ In order to understand which registration categories you may be eligible for, pl
     2. You are only participating remotely.
 - You are eligible for "Senior" registration if you have been 65 years or older on April 1st, 2024.
 
-# 登録に関するFAQ
+# FAQ
 
 - **Q. Do you accept payment by bank transfer?**
     - A. No, we can only allow payment by credit card.
