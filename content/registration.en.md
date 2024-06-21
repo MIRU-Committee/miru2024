@@ -11,11 +11,6 @@ MIRU2024 fully takes place on-site and in-person.
 
 When registering for MIRU2024, the following tiers are available.
 
-<!-- 
-<font color="blue">【松井コメ：去年は以下の文言がありましたがどうしましょう？】※7月6日 14:00登録分まで（参加登録ID : 1203まで）については、お名前／ご所属を印刷した名札をご用意いたします。7月6日14:00以降の登録者については、お名前／ご所属の印刷ができませんので、予めご了承ください（お名前・ご所属の部分が空欄の名札を当日配布しますので、ご自分でご記入いただきます）。</font>
- -->
-
-
 <table class="table">
 <thead class="table-dark">
 <tr>
