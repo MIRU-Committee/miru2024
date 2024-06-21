@@ -47,7 +47,7 @@ When registering for MIRU2024, the following tiers are available.
 </tr>
 </tbody>
 </table>
-1: Only for students who remotely attend and are not (co-)authors of any papers or posters at the event.
+1: Only for students who remotely attend and are not (co-)authors of any presentation at the event.
 
 - <font color="red">Any paid registration allows for both on-site and online attendence, so you are able to, e.g., attend one day in person and another remotely. However, note that a "Student (Remote)" registration only allows for online participation.</font>
 - <font color="red">Note, that only the single session at the main hall will be available through streaming. Interactive session and other social events can only be participated in-person.</font>
@@ -60,22 +60,22 @@ In order to understand which registration categories you may be eligible for, pl
 ※Note, that if you register for PRMU or CVIM as a standard member before registering for the "PRMU or CVIM Members" category, the total fee is cheaper than just registering for "Regular".
 
 - You are eligible for "PRMU or CVIM Members" registration if you are currently member of one of the following:
-    1. You are a member of the Special Interest Group on Computer Vision and Image Media (CVIM), Information Processing Society of Japan (including standard member, student member, senior member, or supporting member.) 
+    1. You are a 2024 member of the Special Interest Group on Computer Vision and Image Media (CVIM), Information Processing Society of Japan (including standard member, student member, senior member, or supporting member.) 
         - [Registration page](https://www.ipsj.or.jp/kenkyukai/toroku.html)
         - [Registration fees](https://www.ipsj.or.jp/kenkyukai/torokuhietc2024.html)
         - [Member services](https://www.ipsj.or.jp/member/service-ichiran.html)
-    2. You are an annual member of Pattern Recognition and Media Understanding (PRMU) at Institute of Electronics, Information and Communication Engineers, or you are an annual member of **all** research groups at Information and Systems Society (ISS) at Institute of Electronics, Information and Communication Engineers. 
+    2. You are an 2024 annual member of Pattern Recognition and Media Understanding (PRMU) at Institute of Electronics, Information and Communication Engineers, or you are an annual member of **all** research groups at Information and Systems Society (ISS) at Institute of Electronics, Information and Communication Engineers. 
         - [Registration page](https://www.ieice.org/jpn_r/event/kenkyukai/registration_fee.html?id=iss)
         - [Registration guide](https://www.ieice.org/cs/kensen/special/e_gihou/files/regist_payment.pdf)
-    1. You are a supporting member of an organization which registered for an organization group which registered for Special Interest Group on Computer Vision and Image Media (CVIM). In this case your organization group has a limited amount of registration slots. Please make sure within your organization if the quota is still available.
+    1. You are a supporting member of an organization which registered for an organization group which registered for Special Interest Group on Computer Vision and Image Media (CVIM) in 2024. In this case your organization group has a limited amount of registration slots. Please make sure within your organization if the quota is still available.
 - You are eligible for "Student (Online)" registration if BOTH following points are true. If either point is false, please register for "Student (On-site)".
-    1. You are not an (co-)author on any poster or paper at this event.
+    1. You are not an (co-)author of any presentation at this event.
     2. You are only participating remotely.
 - You are eligible for "Senior" registration if you have been 65 years or older on April 1st, 2024.
 
 # FAQ
 
-- **Q. Do you accept payment by bank transfer?**
+- **Q. Do you accept payment by bank transfer or invoice?**
     - A. No, we can only allow payment by credit card.
 - **Q. Can you send a sale quotation?**
     - A. No, we are not able to.
@@ -91,7 +91,7 @@ In order to understand which registration categories you may be eligible for, pl
     - A. No, only participating the banquet is not possible. Please do a full registration for the event.
 - **Q. Are registrations part of the sponsoring bundles allowed to participate the banquet?**
     - A. Yes, you can join the banquet.
-- **Q. Can you give me a receipt?**
+- **Q. Can you give me an invoice-based receipt?**
     - A. Yes, this is possible.
 - **Q. I registered for the wrong registration category. What should I do?**
     - A. You will need to re-do your registration. Please contact miru@seibutravel.co.jp for canceling and refunding the current registration. Afterwards, please re-register in the correct category.
@@ -102,9 +102,9 @@ In order to understand which registration categories you may be eligible for, pl
 
 
 # Accompanying persons
-- Family of a registered participant who is middle school age or younger can accompany the registrant for free. Note, that we also provide a nursery service for younger participants. Please check the information on the nursery service [here]({{< ref "/attend/nursery" >}}).
-- For participants with disabilities, diseases, pregnancy, or similar reasons needing an accompanying person, or if there are other reasons which might make you eligible for an accompanying person, please discuss your circumstances with the organizing team through this [contact form](https://forms.gle/NdqSrYM1DtYa15C66).
-- Accompanying persons discussed above do not need to register.
+- Family of a registered participant who is junior high school age or younger can accompany the registrant for free. Note, that we also provide a nursery service for younger participants. Please check the information on the nursery service [here]({{< ref "/attend/nursery" >}}).
+- For participants with disabilities, diseases, pregnancy, or similar reasons needing an accompanying person, or if there are other reasons which might make you eligible for an accompanying person, please discuss your circumstances with the organizing team through this [contact form](https://forms.gle/NdqSrYM1DtYa15C66). 
+- Accompanying persons discussed above do not need to register. Accompanying persons are allowed to join the venue.
 
 
 # Contact
@@ -116,5 +116,5 @@ In order to understand which registration categories you may be eligible for, pl
     西武トラベル株式会社　セールス＆カスタマーサービス部
     〒170-0013東京都豊島区東3-1-5　サンシャインシティプリンスホテル3階
     E-mail miru@seibutravel.co.jp
-    [Opening times]　Mon-Fri 10:00～16:00
+    [Opening times]　Mon-Fri 10:00～16:00 (excluding holidays and weekends)
     ```
