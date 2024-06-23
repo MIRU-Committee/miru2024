@@ -980,6 +980,7 @@ All events will be held in the Main Hall on the 4th floor unless a specific loca
 ## 10:10 - 11:10 Oral session 1B (OS-1B): 4F Main Hall
 ## 11:20 - 12:20 Oral session 1C (OS-1C): 4F Main Hall
 ## 12:20 - 13:30 Work life balance events: 3F Conference Room B
+- [MIRU 2024 Work-Life Balance Project ～So that everyone can follow their own path.～](https://sites.google.com/view/miru2024wlb/english)
 ## 13:30 - 14:30 Oral session 1D (OS-1D): 4F Main Hall
 ## 14:40 - 16:10 Oral session 1E (OS-1E): 4F Main Hall
 ## 16:20 - 18:20 Interactive session 1A (IS-1A)  / Sponsor exhibition A (EX-A)  / Demo session (DS): 3F Conference Room A
