@@ -83,8 +83,14 @@ canonifyURLs = true
     url = "/program/tutorial/"
 
 [[menu.main]]
-    name = "インターナショナルイベント"
+    name = "ワークライフバランスイベント"
     weight = 4
+    parent = "program"
+    url = "https://sites.google.com/view/miru2024wlb/"
+
+[[menu.main]]
+    name = "インターナショナルイベント"
+    weight = 5
     parent = "program"
     url = "https://sites.google.com/view/miru2024-internationallunch/"
 
@@ -186,9 +192,16 @@ canonifyURLs = true
     parent = "program"
     url = "/en/program/tutorial/"
 
+
+[[languages.en.menu.main]]
+    name = "Work life balance event"
+    weight = 4
+    parent = "program"
+    url = "https://sites.google.com/view/miru2024wlb/english"
+
 [[languages.en.menu.main]]
     name = "International event"
-    weight = 4
+    weight = 5
     parent = "program"
     url = "https://sites.google.com/view/miru2024-internationallunch/"
 
