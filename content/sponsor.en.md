@@ -74,9 +74,9 @@ Check out the table below for exhibition fees and benefits.
 </tr>
 <tr>
   <th scope="row">Booth spec</th>
-  <td>Desks x2<br>Chairs x4<br>Power 500W x2<br>Name board<br>Panel</td>
-  <td>Desks x2<br>Chairs x4<br>Power 500W x1<br>Name board<br>Panel</td>
-  <td>Desks x1<br>Chairs x2<br>Power 500W x1<br>Name board<br>Panel</td>
+  <td>Desks x2<br>Chairs x4<br>Power 500W x2<br>Name board<br>Back and side panel</td>
+  <td>Desks x2<br>Chairs x4<br>Power 500W x1<br>Name board<br>Back panel</td>
+  <td>Desks x1<br>Chairs x2<br>Power 500W x1<br>Name board<br>Back and side panel</td>
   <td>-</td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@ Check out the table below for exhibition fees and benefits.
 <tr>
   <th scope="row">Availability</th>
   <td>4</td>
-  <td>18</td>
+  <td>24</td>
   <td>20</td>
   <td>-</td>
 </tr>
@@ -117,7 +117,7 @@ Exhibits
 - The name board will be 900 mm wide and 200 mm high with monochrome printing.
 - Free Wi-Fi will be available at the venue, but we cannot guarantee stable communication. If you require a stable network environment for your exhibit, please make your own arrangements.
 - If you require more power than is provided as the standard plan, please provide details on application.
-- We will provide an optional display for an additional fee of 99,000 yen for platinum and gold sponsors. The display size is 55'' for the platinum sponsor and 42'' for the gold sponsor. Please contact us for the details.
+- We will provide an optional display for an additional fee of 99,000 yen for platinum and gold sponsors. The display size is 55'' for the platinum sponsor and 42'' for the gold sponsor. Please contact us by June 30 for details.
 - A sponsor can arrange the booth layout. We show layout examples below:
 
 <div class="container text-center mb-4">
