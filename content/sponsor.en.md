@@ -74,9 +74,9 @@ Check out the table below for exhibition fees and benefits.
 </tr>
 <tr>
   <th scope="row">Booth spec</th>
-  <td>Desks x2<br>Chairs x4<br>Power 500W x2<br>Name board<br>Panel</td>
-  <td>Desks x2<br>Chairs x4<br>Power 500W x1<br>Name board<br>Panel</td>
-  <td>Desks x1<br>Chairs x2<br>Power 500W x1<br>Name board<br>Panel</td>
+  <td>Desks x2<br>Chairs x4<br>Power 500W x2<br>Name board<br>Back and side panel</td>
+  <td>Desks x2<br>Chairs x4<br>Power 500W x1<br>Name board<br>Back panel</td>
+  <td>Desks x1<br>Chairs x2<br>Power 500W x1<br>Name board<br>Back and side panel</td>
   <td>-</td>
 </tr>
 <tr>
