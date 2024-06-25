@@ -3,7 +3,7 @@ title: "Registration"
 ---
 
 
-# [Registration link (Opens on June 25)](https://reg-cloud.com/miru2024/Entry/RegTop.aspx)
+# [Registration link (Opened on June 25)](https://reg-cloud.com/miru2024/Entry/RegTop.aspx)
 
 MIRU2024 fully takes place on-site and in-person.
 
