@@ -5,6 +5,8 @@ title: "27th Meeting on Image Recognition and Understanding (MIRU2024)"
 The "Meeting on Image Recognition and Understanding", short "MIRU", is the largest Japanese annual symposium on image recognition and understanding. Unrelated of whether you are at a university, private company, or just interested in top-notch research of this field; this is the place for meeting, collaborating, and socializing with researchers and professionals.
 
 ## News
+
+- **2024.06.25**: [Registration](registration) has started.
 - **2024.06.24**: The [work life balance event](https://sites.google.com/view/miru2024wlb/english) has been announced. If you wish to participate, please [register](https://forms.gle/ix3vYhxYPmRAueZ86) (first come, first served). 
 - **2024.06.20**: The [international lunch event](https://sites.google.com/view/miru2024-internationallunch/) has been announced. If you wish to participate, please [register](https://forms.gle/nuiFwZ4hTuijgQ79A) (first come, first served). 
 - **2024.06.17**: We added [an FAQ to the registration page](registration#faq). The registration will be available from end of June. Also, we published information on [nursery room](attend/nursery) facilities available at MIRU2024. The registration for the nursery room will start soon.
