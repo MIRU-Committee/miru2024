@@ -107,7 +107,7 @@ Application
 Registration Privileges
 
 - Complimentary registration will be provided for an organization. It is possible to share the registration pass in the same organization.
-- Corporate participants can attend the main conference, corporate exhibitions, and sponsor events. Individual registration is required for presenters who will give oral, poster, or demonstration presentations at the conference.
+- Corporate participants can attend the main conference, corporate exhibitions, and sponsor events. Individual registration is required for presenters who will give oral, poster, or demonstration presentations at the conference. You may use the sponsor registration for the secondary presenter at the poster or demonstration session.
 - If you wish to increase the number of participants in the corporate exhibition or corporate event, please register separately as an individual.
 
 Exhibits
