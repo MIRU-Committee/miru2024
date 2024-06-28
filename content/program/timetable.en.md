@@ -977,14 +977,35 @@ All events will be held in the Main Hall on the 4th floor unless a specific loca
 
 # Aug. 7th (Wed)
 ## 9:00 - 10:00 Oral session 1A (OS-1A): 4F Main Hall
+- Paper ID: 1, 12, 37, 113, 191, 228, 246
+
+
 ## 10:10 - 11:10 Oral session 1B (OS-1B): 4F Main Hall
+- Paper ID: 35, 150, 152, 161, 169, 194, 257
+
+
 ## 11:20 - 12:20 Oral session 1C (OS-1C): 4F Main Hall
+- Paper ID: 26, 30, 55, 101, 107, 136, 158
+
+
 ## 12:20 - 13:30 Work life balance events: 3F Conference Room B
 - [MIRU 2024 Work-Life Balance Project ～So that everyone can follow their own path.～](https://sites.google.com/view/miru2024wlb/english)
 ## 13:30 - 14:30 Oral session 1D (OS-1D): 4F Main Hall
+- Paper ID: 36, 52, 53, 57, 133, 198, 211
+
+
 ## 14:40 - 16:10 Oral session 1E (OS-1E): 4F Main Hall
+- Paper ID: 20, 29, 76, 92, 103, 126, 127, 130, 153, 229
+
+
 ## 16:20 - 18:20 Interactive session 1A (IS-1A)  / Sponsor exhibition A (EX-A)  / Demo session (DS): 3F Conference Room A
+- IS1: Paper ID: 9, 27, 32, 40, 44, 50, 56, 59, 61, 64, 66, 67, 68, 80, 86, 99, 105, 111, 129, 144, 155, 156, 165, 168, 182, 190, 192, 193, 195, 199, 202, 206, 207, 215, 216, 217, 220, 223, 225, 230, 237, 239, 243, 247, 249, 252, 258, 261, 268, 272, 273, 276, 280, 285, 293, 301, 302, 303, 304, 305, 306, 307, 309, 315, 323, 326, 333, 334, 340, 343, 345, 355, 361, 362, 365, 366, 374, 375, 376, 378, 379, 380, 381, 382, 383, 384, 387, 388, 389, 395, 399, 403, 406, 409, 410, 416, 420, 424, 425, 426, 429, 433, 435, 437, 438, 439, 441, 442, 444, 446, 447, 451, 452, 453, 455, 458, 460, 461, 463, 469, 472, 473, 474, 475, 476, 480, 484, 486, 490, 496, 502, 503, 506, 507, 510, 514, 522, 524, 526, 533, 537, 538, 540, 542, 544, 545, 546, 547, 548, 549, 551, 556, 564, 566, 569, 570, 575, 585, 586, 590, 594, 596, 603, 606, 609, 611, 612, 613, 614, 615, 618, 622, 623, 632, 633, 637, 643, 646, 652, 655, 657, 664, 666, 669
+- DS: Paper ID: 311, 368, 418, 421, 430, 443, 511, 528, 550, 576, 598, 602, 610, 616, 624
+
 ## 16:20 - 18:20 Interactive session 1B (IS-1B)  / Sponsor exhibition B (EX-B): 1F Exhibition Hall
+
+
+
 ## 18:30 - 19:00 Town meeting: 4F Main Hall
 
 ---
@@ -993,12 +1014,28 @@ All events will be held in the Main Hall on the 4th floor unless a specific loca
 ## 9:00 - 10:00 Keynote session: 4F Main Hall
 - [How do humans connect the continuous visual world and discrete linguistic symbols? (Prof. Mutsumi Imai)]({{< ref "/program/keynote#keynote-1-august-8-900-1000" >}})
 ## 10:10 - 11:10 Oral session 2A (OS-2A): 4F Main Hall
+- Paper ID: 22, 58, 79, 102, 119, 162, 185
+
+
 ## 11:20 - 12:20 Oral session 2B (OS-2B): 4F Main Hall
+- Paper ID: 34, 73, 139, 142, 176, 210, 248
+
 ## 12:20 - 13:30 Sponsors events: 3F Conference Room B
 ## 12:20 - 13:30 Sponsors events: 3F Conference Room E
 ## 13:30 - 14:30 Oral session 2C (OS-2C): 4F Main Hall
+- Paper ID: 17, 46, 74, 106, 145, 154, 262
+
+
 ## 14:40 - 16:10 Oral session 2D (OS-2D): 4F Main Hall
+- Paper ID: 10, 65, 69, 78, 82, 114, 124, 170, 214, 238
+
+
 ## 16:20 - 18:20 Interactive session 2A (IS-2A)  / Sponsor exhibition A (EX-A)  / Demo session (DS): 3F Conference Room A
+- IS2: Paper ID: 5, 6, 11, 28, 33, 38, 39, 41, 47, 48, 49, 54, 60, 63, 70, 85, 88, 89, 93, 95, 96, 98, 104, 110, 112, 117, 118, 120, 122, 123, 125, 128, 131, 141, 146, 147, 148, 149, 151, 157, 163, 171, 173, 174, 179, 181, 184, 187, 188, 200, 201, 203, 204, 209, 221, 224, 226, 227, 236, 240, 242, 250, 251, 253, 254, 256, 259, 260, 264, 266, 270, 287, 289, 297, 299, 312, 314, 318, 320, 321, 322, 325, 328, 330, 332, 336, 338, 339, 346, 347, 348, 349, 350, 351, 354, 356, 358, 360, 363, 371, 372, 377, 392, 396, 400, 401, 405, 412, 414, 419, 422, 427, 434, 440, 445, 454, 456, 462, 467, 468, 470, 477, 478, 481, 482, 483, 492, 497, 498, 499, 500, 505, 509, 513, 515, 518, 519, 520, 527, 530, 531, 532, 534, 535, 536, 543, 553, 557, 560, 563, 565, 567, 572, 573, 574, 577, 578, 579, 581, 583, 584, 587, 589, 591, 592, 595, 597, 599, 600, 608, 617, 619, 626, 634, 635, 639, 640, 641, 642, 644, 650, 653, 654, 656, 658, 660, 661, 665, 667
+- DS: Paper ID: 311, 368, 418, 421, 430, 443, 511, 528, 550, 576, 598, 602, 610, 616, 624
+
+
+
 ## 16:20 - 18:20 Interactive session 2B (IS-2B)  / Sponsor exhibition B (EX-B): 1F Exhibition Hall
 ## 19:00 - 21:00 Networking banquet: Hotel Nikko Kumamoto
 
@@ -1008,11 +1045,17 @@ All events will be held in the Main Hall on the 4th floor unless a specific loca
 ## 9:00 - 10:00 Keynote session: 4F Main Hall
 - [JIZAI Body: beyond human limits (Prof. Masahiko Inami)]({{< ref "/program/keynote#keynote-2-august-9-900-1000" >}})
 ## 10:10 - 11:40 Oral session 3A (OS-3A): 4F Main Hall
+- Paper ID: 15, 51, 71, 83, 134, 138, 143, 159, 175, 263
+
+
 ## 11:40 - 12:20 Work life balance session: 4F Main Hall
 ## 12:20 - 13:30 International events: 3F Conference Room B
 - [MIRU2024 International Lunch](https://sites.google.com/view/miru2024-internationallunch/)
 
 ## 13:30 - 15:00 Interactive session 3A (IS-3A): 3F Conference Room A
+- Paper ID: 13, 14, 16, 18, 21, 23, 24, 25, 31, 42, 45, 62, 72, 75, 81, 84, 87, 90, 91, 97, 100, 108, 109, 115, 116, 121, 132, 140, 172, 177, 180, 183, 186, 189, 196, 197, 205, 212, 218, 222, 231, 232, 233, 234, 241, 244, 245, 255, 271, 274, 278, 279, 292, 298, 317, 319, 324, 327, 335, 337, 341, 344, 352, 357, 359, 367, 370, 373, 385, 386, 391, 393, 394, 397, 398, 402, 404, 407, 408, 411, 413, 415, 417, 423, 428, 431, 432, 436, 448, 450, 457, 459, 464, 465, 466, 471, 479, 485, 487, 489, 491, 494, 495, 501, 504, 508, 512, 516, 521, 523, 525, 529, 539, 541, 552, 554, 555, 559, 562, 568, 571, 580, 588, 593, 601, 604, 605, 607, 620, 621, 625, 627, 628, 629, 630, 631, 636, 638, 645, 647, 648, 649, 651, 659, 662, 663, 668
+
+
 ## 13:30 - 15:00 Interactive session 3B (IS-3B): 1F Exhibition Hall
 ## 15:10 - 16:00 Special session: 4F Main Hall
 ## 16:00 - 16:30 Closing: 4F Main Hall
