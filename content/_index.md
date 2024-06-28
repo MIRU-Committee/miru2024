@@ -5,6 +5,7 @@ title: "第27回 画像の認識・理解シンポジウム MIRU2024"
 画像の認識・理解シンポジウム（MIRU）は、画像の認識と理解技術に関する国内最大規模の会議です．大学/産業を問わず，研究者，技術者，そして次世代を担う学生の議論・交流の場であり，基礎から応用まで最新の研究発表と討論の場です．
 
 ## お知らせ
+- **2024.06.28**: [各発表のスロット割当](program/timetable)を公開しました。もし都合が悪ければ[フォーム](https://forms.gle/NdqSrYM1DtYa15C66)にてご連絡ください．
 - **2024.06.25**: [レジストレーション](registration)を開始しました．
 - **2024.06.24**: [ワークライフバランスイベント](https://sites.google.com/view/miru2024wlb/)を公開しました．参加希望者は[レジストレーション](https://forms.gle/ix3vYhxYPmRAueZ86)をお願いします．
 - **2024.06.20**: [インターナショナルイベント](https://sites.google.com/view/miru2024-internationallunch/)を公開しました．参加希望者は[レジストレーション](https://forms.gle/nuiFwZ4hTuijgQ79A)をお願いします．
