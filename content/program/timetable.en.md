@@ -573,7 +573,7 @@ title: "Timetable"
             <td class="s3"></td>
             <td class="s3"></td>
             <td class="s3"></td>
-            <td class="s14" dir="ltr" colspan="2" rowspan="6">Closing</td>
+            <td class="s14" dir="ltr" colspan="2" rowspan="6">Closing and award ceremony</td>
          </tr>
          <tr style="height: 4px">
             <td class="s5"></td>
@@ -1058,4 +1058,4 @@ All events will be held in the Main Hall on the 4th floor unless a specific loca
 
 ## 13:30 - 15:00 Interactive session 3B (IS-3B): 1F Exhibition Hall
 ## 15:10 - 16:00 Special session: 4F Main Hall
-## 16:00 - 16:30 Closing: 4F Main Hall
+## 16:00 - 16:30 Closing and award ceremony: 4F Main Hall

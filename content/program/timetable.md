@@ -583,7 +583,7 @@ title: "タイムテーブル"
             <td class="s3"></td>
             <td class="s3"></td>
             <td class="s3"></td>
-            <td class="s15" dir="ltr" colspan="2" rowspan="6">クロージング</td>
+            <td class="s15" dir="ltr" colspan="2" rowspan="6">クロージング/表彰式</td>
          </tr>
          <tr style="height: 4px">
             <td class="s6"></td>
@@ -1067,6 +1067,6 @@ title: "タイムテーブル"
 
 ## 13:30 - 15:00 インタラクティブ3B（IS-3B）：1F展示ホール
 ## 15:10 - 16:00 特別企画：4Fメインホール
-## 16:00 - 16:30 クロージング：4Fメインホール
+## 16:00 - 16:30 クロージング / 表彰式：4Fメインホール
 
 
