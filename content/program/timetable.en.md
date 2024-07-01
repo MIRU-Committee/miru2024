@@ -957,7 +957,8 @@ title: "Timetable"
    </table>
 </div>
 
-All events will be held in the Main Hall on the 4th floor unless a specific location is indicated.
+- All events will be held in the Main Hall on the 4th floor unless a specific location is indicated.
+- Lunch will not be provided during lunch hours. If you are attending a lunch event, lunch may be provided, so please check each event page for details.
 
 
 ---
