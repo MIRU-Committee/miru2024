@@ -27,8 +27,6 @@ To preserve security, the details will be posted to applicants on a later date.
 ## 6. Pricing: Free
 
 ## 7. Registration
-- Please check and acknowledge the Childcare Terms of Use before registering for the nursery room. By registering, you agree to all terms and conditions.
-
 - Submit the registration form via e-mail or fax to the contact details below.
 
 - [Registration form (Japanese only)](/託児利用申込書（第27回画像の認識・理解シンポジウム）.xlsx)
