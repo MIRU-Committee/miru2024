@@ -115,6 +115,7 @@ Exhibits
 - Corporate exhibits will be held on August 7 and 8. August 6 and August 9 are for logistics and setup.
 - The size of the desk is 1800 mm wide, 600 mm deep and 700 mm high.
 - The name board will be 900 mm wide and 200 mm high with monochrome printing.
+- The size of the back and side panels will be 900 mm wide, 2100 mm high arranged according to the booth space.
 - Free Wi-Fi will be available at the venue, but we cannot guarantee stable communication. If you require a stable network environment for your exhibit, please make your own arrangements.
 - If you require more power than is provided as the standard plan, please provide details on application.
 - We will provide an optional display for an additional fee of 99,000 yen for platinum and gold sponsors. The display size is 55'' for the platinum sponsor and 42'' for the gold sponsor. Please contact us by June 30 for details.
