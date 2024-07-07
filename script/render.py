@@ -5,8 +5,8 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--src', default='timetable.csv', help='Path to the filtered master csv file')
     parser.add_argument('--template', default='template_jp.md', help='Path to the template of the markdown.')
-    parser.add_argument('--out', default='output.md', help='Path to the output markdown file')
-    parser.add_argument('--lang', default='jp', choices=['jp', 'en'], help='If en, render the English paper title')
+    parser.add_argument('--out', default='output_jp.md', help='Path to the output markdown file')
+    parser.add_argument('--lang', default='jp', choices=['jp', 'en'], help='If en, render the English paper title if possible')
     args = parser.parse_args()
 
     df = pd.read_csv(args.src)

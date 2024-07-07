@@ -6,7 +6,8 @@ import pandas as pd
 def abbriviate(name):
     """
     Convert the name of a conference/journal to its abbreviation, e.g.,
-    'Computer Vision and Pattern Recognition' -> 'CVPR'
+    'Computer Vision and Pattern Recognition' -> 'CVPR', and
+    'ICCV 2024' -> 'ICCV'.
     """
     if not isinstance(name, str):
         return name
