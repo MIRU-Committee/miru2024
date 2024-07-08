@@ -18,11 +18,12 @@ def render_body(row, lang):
 
     poster_id = str(row['Poster ID'])
 
-    # If English title is available and render-language is English, use English title.
+    title = str(row['Paper Title'])
+
+    # If English title is available and render-language is English, add English title.
+    # e.g., "強いトランスフォーマー (Strong Transformer)"
     if type(row['英文タイトル | English title']) == str and lang == 'en':
-        title = str(row['英文タイトル | English title'])
-    else:
-        title = str(row['Paper Title'])
+        title += " (" + str(row['英文タイトル | English title']) + ")"
 
     authors = str(row['著者リスト'])
 
