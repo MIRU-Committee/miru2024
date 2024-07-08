@@ -112,6 +112,12 @@ canonifyURLs = true
     parent = "special"
     url = "https://sites.google.com/view/miru2024wakate/"
 
+[[menu.main]]
+    name = "朝ランの会"
+    weight = 3
+    parent = "special"
+    url = "https://ohym.org/MIRU2024_Running.html"
+
 
 [[menu.main]]
     name = "スポンサー"
@@ -222,6 +228,14 @@ canonifyURLs = true
     weight = 2
     parent = "special"
     url = "https://sites.google.com/view/miru2024wakate/"
+
+[[languages.en.menu.main]]
+    name = "Morning Run Club"
+    weight = 3
+    parent = "special"
+    url = "https://ohym.org/MIRU2024_Running.html"
+
+
 
 [[languages.en.menu.main]]
     name = "Sponsor"
