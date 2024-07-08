@@ -22,7 +22,7 @@ def render_body(row, lang):
 
     # If English title is available and render-language is English, add English title.
     # e.g., "強いトランスフォーマー (Strong Transformer)"
-    if type(row['英文タイトル | English title']) == str and lang == 'en':
+    if type(row['英文タイトル | English title']) == str and lang == 'en' and row['英文タイトル | English title'] != row['Paper Title']:
         title += " (" + str(row['英文タイトル | English title']) + ")"
 
     authors = str(row['著者リスト'])
