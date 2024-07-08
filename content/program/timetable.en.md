@@ -1121,11 +1121,25 @@ title: "Timetable"
 - IS1-077: 橋口凌大, 玉木徹 (名工大), **"動作区間検出データセットの動作区間長に応じたノイズ除去"**
 - IS1-078: 日高聡希, 堀田一弘 (名城大), **"Segment Anythingを用いた投球動作の識別と癖発見"**
 - IS1-079: 松永道香, 近藤壮真, 斎藤英雄 (慶大), **"Comparison and Evaluation of Action Recognition Methods in Equestrian Videos"**
+- IS1-080: 内田大智, 金森由博, 遠藤結城 (筑波大), **"3Dビュー探索による画像審美性の向上"**
+- IS1-081: 佐藤竜雅, 星澤知宙, 入山太嗣, 小室孝 (埼玉大), **"視点補間ネットワークによる質感を再現した任意視点画像生成"**
+- IS1-082: 伊藤瑠海 (千葉大), Supatta Viriyavisuthisakul (Panyapiwat Institute of Management), 川本一彦, 計良宥志 (千葉大), **"Determination of image degradation levels for super-resolution data set generation by VAE"**
+- IS1-083: 益田裕也, 石川博 (早大), **"部分的な超解像"**
+- IS1-084: 松山諒大, 植木一也 (明星大), **"ChatGPTを用いた印象語とモチーフ画像からの俳句検索システムの検討"**
 - IS1-085: 田中諒汰, 鈴木智大, 藤井慶輔 (名大), **"Temporal Action Segmentation Using 3D Pose in Figure Skating Jumps"**
 - IS1-086: 齊藤温人, 金崎朝子 (東工大), **"オープンセット認識におけるクラス間の類似度に基づく学習クラス選択"**
 - IS1-087: 中西慶一, 徳永旭将 (九工大), **"半教師あり協調学習に基づく画素単位の注釈が不要な画像領域分割の提案"**
+- IS1-088: 古川陽一 (名城大), 櫻田庸一, 柏木賢治 (山梨大), 堀田一弘 (名城大), **"Genetic Analysis of Age-related Macular Degeneration Using Multi-modal Selective Vision Transformer"**
 - IS1-089: 高橋翔, 宮崎智, 大町真一郎 (東北大), **"Anomaly detection method using instance segmentation for complexity removal"**
+- IS1-090: Haimin Yan (Ritsumeikan Univ.), Xiangbo Kong (Toyama Prefectural Univ.), Juncheng Wang, Hiroyuki Tomiyama (Ritsumeikan Univ.), **"Advanced Detector for Small Object Detection in UAV Aerial Imagery"**
+- IS1-091: Eisei Nakahara (Nihon Univ.), Xiaomeng Wu (NTT), **"Small-size Object Detection with Adaptive Anchor-Based Detectors"**
+- IS1-092: 山内俊典, 計良宥志, 川本一彦 (千葉大), **"ピクセル間の相互作用値を考慮した物体検出モデルに対する視覚的説明手法"**
+- IS1-093: Yaohou Fan, Tomo Miyazaki, Shinichiro Omachi (Tohoku Univ.), **"Scene Text Reconstructor: A Pre-training Approach for Scene Text Detection with Mask Image Modeling"**
+- IS1-094: 中山晴斗, 辻栄翔, 竹長慎太朗 (筑波大, 産総研), 大西正輝 (産総研), **"P2PNetの実応用における追加学習の有用性の検証"**
 - IS1-095: 植木一也 (明星大), 鈴木裕真, 佐藤開, 堀隆之, 宅島寛貴, 髙田拓実, 田之上隼人, Aiswariya Manoj Kumar, 西原大輝 (ソフトバンク), **"マルチモーダル映像検索 ～テキスト・画像生成モデルを駆使した検索の高精度化～"**
+- IS1-096: 増田大河, 平川翼, 山下隆義, 藤吉弘亘, 足立浩規 (中部大), 田中翔平, 齋藤邦章, 牛久祥孝 (オムロンサイニックエックス), **"Figure Captioning Focused on the Attention Region by Manipulating Attention Weights"**
+- IS1-097: 田村直樹 (サイバーエージェント, 名大), 関井大気 (サイバーエージェント), **"SkeletonChain: 時系列骨格情報を通じたモダリティ共通文埋め込みのマルチモーダル学習"**
+- IS1-098: 戸倉健登, 松田一起, 和田唯我, 杉浦孔明 (慶大), **"対照学習と階層的特徴抽出に基づく画像キャプション生成の自動評価"**
 - IS1-099: 田浦愛華, 植木一也 (明星大), 望月浩平, 南雲淳也, 小平孝之, 草野勝大 (三菱電機), **"画像と言語のマルチモーダルモデルによる異常行動検知のための効果的なテキストの調査"**
 - IS1-100: 永田大輝, 武淑瓊, 大倉史生, 八木康史 (阪大), **"デュアルタスク時のAction Unitを用いた表情分析に基づく認知機能障害の検出"**
 - IS1-101: 井伊瑞姫, 金澤靖 (豊橋技科大), **"Bride and Groom Tracking by Cooperated Action for Automatic Tracking Spotlight System"**
@@ -1136,20 +1150,6 @@ title: "Timetable"
 - IS1-106: 山邊紘子, 川原貫太 (立命館大), 蔭山享佑 (近大), 熊木武志 (立命館大), **"Authenticity determination method for human face by using generative AI"**
 - IS1-107: 尾崎瞬, 宮崎智, 大町真一郎 (東北大), 藤井康寿 (Google DeepMind), **"Training of video Summarization with frame captioning"**
 - IS1-108: 松村碧海 (九大), 大町真一郎 (東北大), 内田誠一 (九大), **"高圧縮可能な画像への変換"**
-- IS1-080: 内田大智, 金森由博, 遠藤結城 (筑波大), **"3Dビュー探索による画像審美性の向上"**
-- IS1-081: 佐藤竜雅, 星澤知宙, 入山太嗣, 小室孝 (埼玉大), **"視点補間ネットワークによる質感を再現した任意視点画像生成"**
-- IS1-082: 伊藤瑠海 (千葉大), Supatta Viriyavisuthisakul (Panyapiwat Institute of Management), 川本一彦, 計良宥志 (千葉大), **"Determination of image degradation levels for super-resolution data set generation by VAE"**
-- IS1-083: 益田裕也, 石川博 (早大), **"部分的な超解像"**
-- IS1-084: 松山諒大, 植木一也 (明星大), **"ChatGPTを用いた印象語とモチーフ画像からの俳句検索システムの検討"**
-- IS1-088: 古川陽一 (名城大), 櫻田庸一, 柏木賢治 (山梨大), 堀田一弘 (名城大), **"Genetic Analysis of Age-related Macular Degeneration Using Multi-modal Selective Vision Transformer"**
-- IS1-090: Haimin Yan (Ritsumeikan Univ.), Xiangbo Kong (Toyama Prefectural Univ.), Juncheng Wang, Hiroyuki Tomiyama (Ritsumeikan Univ.), **"Advanced Detector for Small Object Detection in UAV Aerial Imagery"**
-- IS1-091: Eisei Nakahara (Nihon Univ.), Xiaomeng Wu (NTT), **"Small-size Object Detection with Adaptive Anchor-Based Detectors"**
-- IS1-092: 山内俊典, 計良宥志, 川本一彦 (千葉大), **"ピクセル間の相互作用値を考慮した物体検出モデルに対する視覚的説明手法"**
-- IS1-093: Yaohou Fan, Tomo Miyazaki, Shinichiro Omachi (Tohoku Univ.), **"Scene Text Reconstructor: A Pre-training Approach for Scene Text Detection with Mask Image Modeling"**
-- IS1-094: 中山晴斗, 辻栄翔, 竹長慎太朗 (筑波大, 産総研), 大西正輝 (産総研), **"P2PNetの実応用における追加学習の有用性の検証"**
-- IS1-096: 増田大河, 平川翼, 山下隆義, 藤吉弘亘, 足立浩規 (中部大), 田中翔平, 齋藤邦章, 牛久祥孝 (オムロンサイニックエックス), **"Figure Captioning Focused on the Attention Region by Manipulating Attention Weights"**
-- IS1-097: 田村直樹 (サイバーエージェント, 名大), 関井大気 (サイバーエージェント), **"SkeletonChain: 時系列骨格情報を通じたモダリティ共通文埋め込みのマルチモーダル学習"**
-- IS1-098: 戸倉健登, 松田一起, 和田唯我, 杉浦孔明 (慶大), **"対照学習と階層的特徴抽出に基づく画像キャプション生成の自動評価"**
 - DS-01: 中村大輝 (高清会高井病院), 増江達彦, 福田光希, 浅野尊比古 (岐阜県総合医療センター), Kim Wonjik, 野里博和 (産総研), **"The development of real-time airway recognition system for infant intubation with YOLOv8"**
 - DS-02: 村地遼平, 髙橋龍平, 大萩優哉, 中村雄大, 小島太一 (三菱電機), 國廣和樹 (三菱電機モビリティ), **"車載システム向けカメラでの脈拍推定技術の開発"**
 - DS-03: 石毛真修, 吉村康弘, 河野陽日, 岩見彰太, 米谷竜 (サイバーエージェント), **"Opt-In Camera: Person Identification in Video via UWB Device Positioning and Its Application to Opt-In Systems for Camera"**
@@ -1170,46 +1170,46 @@ title: "Timetable"
 
 ## 16:20 - 18:20 Interactive session 1B (IS-1B)  / Sponsor exhibition B (EX-B): 1F Exhibition Hall
 
-- IS1-111: 永井隆昌, 江崎健司, 後藤充裕, 瀬下仁志 (NTT), **"Repetitive Action Countingにおけるインターバル区間を考慮したデータ拡張の有効性の検証"**
-- IS1-116: 伊藤泰希, 武藤良, 植木一也 (明星大), **"大規模マルチモーダルモデルを用いた画像内における潜在リスクの検知"**
-- IS1-120: 北上裕太郎 (阪府大), 井上勝文, 吉岡理文 (阪公大), **"食材領域に着目した一人称視点動画における詳細調理行動認識"**
-- IS1-121: Jiatong Zhang, Seiichiro Kamata (Waseda Univ.), **"Advanced Feature Fusion Networks for 3D Hand Reconstruction from Single Image"**
-- IS1-126: 長友紀興, 石川博 (早大), **"Visualization of Classification Criteria for Pitcher's Pickoff Throws and Pitches Using AOSA"**
-- IS1-127: Liangyang Ouyang, Ruicong Liu, Yifei Huang, Ryosuke Furuta, Yoichi Sato (Univ. of Tokyo), **"ActionVOS: Actions as Prompts for Video Object Segmentation"**
-- IS1-131: 山口廉斗, 柳井啓司 (電通大), **"Zero-shot Segmentation by the MM-DiT Based Stable Diffusion 3"**
-- IS1-132: 鈴木智之, ズデニェクヤン, 山口光太 (サイバーエージェント), **"Towards Text Decomposition for Graphic Design Re-editing"**
-- IS1-133: 岡田啓佑, 小林智哉, 奥野弘嗣 (阪工大), **"Border-Ownership選択性細胞の応答特性に学んだ図地分離アルゴリズムの性能評価"**
-- IS1-134: Yuta Goto (Tokyo Univ. of Science), Satoshi Yamazaki, Takashi Shibata, Jianquan Liu (NEC), **"Open-vocabulary Scene Graph Generation via Synonym-based Predicate Descriptor"**
-- IS1-136: Haiyang Liu (Univ. of Tokyo), Xingchao Yang, Shigeru Kuriyama, Takafumi Taketomi (CyberAgent), **"VideoMotionGraph++: Co-Speech Gesture Video Reenactment with Blending Diffusion Model and Neural Rhythm Embedding"**
-- IS1-143: 大山佑太, 今川孝久, 榎田修一 (九工大), **"Diffusion Action Segmentationにおけるフレーム特徴量へのマスキングに関する研究"**
-- IS1-144: 原口大地, 井上直人, 下田和, 山口光太 (サイバーエージェント), **"GPTはグラフィックデザインの評価に利用できるのか？"**
-- IS1-148: Zongyao Li (NEC), ThaoNhu Nguyen (Dublin City Univ.), Satoshi Yamazaki, Jianquan Liu (NEC), Cathal Gurrin (Dublin City Univ.), **"Enhancing Video Moment Retrieval with Scene Graphs"**
 - IS1-109: 中村遼平, 金崎朝子 (東工大), **"単一画像からの関節付き物体の新規視点画像生成"**
 - IS1-110: 阪田征之助, 山藤浩明, 大倉史生, 松下康之 (阪大), **"多視点全天球画像を用いた画像合成による不要領域を補間した環境マップ作成"**
+- IS1-111: 永井隆昌, 江崎健司, 後藤充裕, 瀬下仁志 (NTT), **"Repetitive Action Countingにおけるインターバル区間を考慮したデータ拡張の有効性の検証"**
 - IS1-112: 内山泰熙, 五十川麻理子 (慶大), **"No-Reference Image Quality Assessmentを用いた画像インペインティングのための修復領域最適化"**
 - IS1-113: Naoto Inoue, Kento Masui, Wataru Shimoda, Kota Yamaguchi (CyberAgent), **"OpenCOLE: Towards Reproducible Automatic Graphic Design Generation"**
 - IS1-114: 入谷茉季, 坂上文彦, 佐藤淳 (名工大), **"Automatic Coloring and Layering for Illustration Images"**
 - IS1-115: 加藤恩妃, 久保田彰 (中大), **"ゼロショット学習を用いた，可視光画像と近赤外線画像の融合による靄除去"**
+- IS1-116: 伊藤泰希, 武藤良, 植木一也 (明星大), **"大規模マルチモーダルモデルを用いた画像内における潜在リスクの検知"**
 - IS1-117: Yongsong Huang, Tomo Miyazaki (Tohoku Univ.), Xiaofeng Liu (Yale Univ.), Zhengmi Tang, Kaiyuan Jiang, Yaohou Fan, Dongming Yu, Shinichiro Omachi (Tohoku Univ.), **"Radiograph Super-Resolution with Pixel-Level Masked D-MNet Transformer"**
 - IS1-118: 閆穎心, 坂上文彦, 佐藤淳 (名工大), **"Visual Acuity Estimation and Correction by using Pre-Deblurring"**
 - IS1-119: 小杉哲 (東工大), **"Neural Lookup TableとPrompt Guidance Lossを用いた解釈可能な画像補正"**
+- IS1-120: 北上裕太郎 (阪府大), 井上勝文, 吉岡理文 (阪公大), **"食材領域に着目した一人称視点動画における詳細調理行動認識"**
+- IS1-121: Jiatong Zhang, Seiichiro Kamata (Waseda Univ.), **"Advanced Feature Fusion Networks for 3D Hand Reconstruction from Single Image"**
 - IS1-122: Yuto Shibata, Yusuke Oumi (Keio Univ.), Go Irie (Tokyo Univ. of Science), Akisato Kimura (NTT), Yoshimitsu Aoki, Mariko Isogawa (Keio Univ.), **"BGM2Pose: Active 3D Human Pose Estimation with Background Music"**
 - IS1-123: Qianru Qiu, Jiafeng Mao, Xueting Wang (CyberAgent), **"ControlColor: Palette-Guided Image Colorization with Latent Diffusion Models"**
 - IS1-124: Chen Fu (Univ. of Tokyo), Yuesong Liu, Naoto Tanji, Hiroyuki Seshime (Septeni Japan), Shengzhou Yi, Ling Xiao and Toshihiko Yamasaki (Univ. of Tokyo), **"Constrianed advertisement layout generation based on Graph Neural Networks"**
 - IS1-125: 今泉健太, 宮川和, 深津真二 (NTT), **"映像情報を用いた音源分離による空間再構成"**
+- IS1-126: 長友紀興, 石川博 (早大), **"Visualization of Classification Criteria for Pitcher's Pickoff Throws and Pitches Using AOSA"**
+- IS1-127: Liangyang Ouyang, Ruicong Liu, Yifei Huang, Ryosuke Furuta, Yoichi Sato (Univ. of Tokyo), **"ActionVOS: Actions as Prompts for Video Object Segmentation"**
 - IS1-128: 竹原諒真, 篠澤佳久 (慶大), 飯村結香子, 斎藤忍 (NTT), **"Detection of UI parts from Screenshots with Small Dataset"**
 - IS1-129: 若林勲, 嵩裕一郎, 杉浦恒 (ヤンマーホールディングス), **"Development of fish counting system using fish tracking and counting area"**
 - IS1-130: Motoharu Sonogashira (RIKEN), Masaaki Iiyama (Shiga Univ.), Yasutomo Kawanishi (RIKEN), **"Pseudo-label-based training for unknown-aware scene graph generation"**
+- IS1-131: 山口廉斗, 柳井啓司 (電通大), **"Zero-shot Segmentation by the MM-DiT Based Stable Diffusion 3"**
+- IS1-132: 鈴木智之, ズデニェクヤン, 山口光太 (サイバーエージェント), **"Towards Text Decomposition for Graphic Design Re-editing"**
+- IS1-133: 岡田啓佑, 小林智哉, 奥野弘嗣 (阪工大), **"Border-Ownership選択性細胞の応答特性に学んだ図地分離アルゴリズムの性能評価"**
+- IS1-134: Yuta Goto (Tokyo Univ. of Science), Satoshi Yamazaki, Takashi Shibata, Jianquan Liu (NEC), **"Open-vocabulary Scene Graph Generation via Synonym-based Predicate Descriptor"**
 - IS1-135: 隅山慎, 吉澤真太郎, 森優人 (トヨタ自動車), **"交差点におけるオクルージョンに頑健なMultiple Object Trackingの提案"**
+- IS1-136: Haiyang Liu (Univ. of Tokyo), Xingchao Yang, Shigeru Kuriyama, Takafumi Taketomi (CyberAgent), **"VideoMotionGraph++: Co-Speech Gesture Video Reenactment with Blending Diffusion Model and Neural Rhythm Embedding"**
 - IS1-137: 島田泰智 (室蘭工大), 平澤宏祐 (コニカミノルタ), 近藤敏志 (室蘭工大), **"物体検出における特徴量距離を考慮した学習データ選択方法"**
 - IS1-138: Qingrui Hu, Atom Scott, Calvin Yeung, Keisuke Fujii (Nagoya Univ.), **"Basketball-SORT: A Multi-Object Tracking Algorithm for Complex Occlusions in Basketball"**
 - IS1-139: 富谷竜一 (神戸大), 勝部芳久, Roversi Fernando, 小村淳浩 (イーグリッド), 高島遼一, 滝口哲也 (神戸大), **"Road Damage Detection using Multi-Object Tracking"**
 - IS1-140: 大島慈温, 堀史門, 玉木徹 (名工大), **"時空間動作検出のための人物クエリマッチングのAVAデータセットに対する性能評価"**
 - IS1-141: 河野友香, 右田雅裕 (熊本大), 中野善, 山口聖, 湯浅光貴 (水産技術研究所), 戸田真志 (熊本大), **"海上設置型顕微鏡seaMS映像を対象とした深層学習による赤潮プランクトン検知"**
 - IS1-142: 森江梨花 (慶大, 産総研), Qiu Yue, 片岡裕雄 (産総研), 青木義満 (慶大), **"Enhancing Social Intelligence with Large Language Models: A Feedback Loop Approach for Video Question Answering"**
+- IS1-143: 大山佑太, 今川孝久, 榎田修一 (九工大), **"Diffusion Action Segmentationにおけるフレーム特徴量へのマスキングに関する研究"**
+- IS1-144: 原口大地, 井上直人, 下田和, 山口光太 (サイバーエージェント), **"GPTはグラフィックデザインの評価に利用できるのか？"**
 - IS1-145: Shun Takashige, Hermann Blum, Marc Pollefeys (ETH Zurich), **"Ontology-based evaluation for truly open-vocabulary segmentation"**
 - IS1-146: 田上鈴奈, 小林大起, 秋月秀一, 橋本学 (中京大), **"画像クラスタリングに基づくincorrectペアの生成によるCLIPモデルの対照学習性能の向上"**
 - IS1-147: 佐藤雅也, 前田圭介, 藤後廉, 小川貴弘, 長谷山美紀 (北大), **"Identify-and-generate: Enhancing the integration of acquired knowledge and visual information in LMMs for VQA"**
+- IS1-148: Zongyao Li (NEC), ThaoNhu Nguyen (Dublin City Univ.), Satoshi Yamazaki, Jianquan Liu (NEC), Cathal Gurrin (Dublin City Univ.), **"Enhancing Video Moment Retrieval with Scene Graphs"**
 - IS1-149: 熊本優斗, 大谷健登 (名大), 鈴木大輝, 山高大乗 (デンソー), 武田一哉 (名大), **"注視領域と視行動を用いた運転手の注意散漫検出"**
 - IS1-150: Ryo Fujii (Keio Univ.), Ryo Hachiuma (NVIDIA), Hideo Saito (Keio Univ.), **"Is Tracking Necessary for the Trajectory Prediction?"**
 - IS1-151: 松本一稀, 井上裕大, 栗達, 小野晋太郎 (福岡大), **"Inpainting of a preceding vehicle from in-vehicle camera video using spatio-temporal image processing"**
@@ -1394,8 +1394,12 @@ title: "Timetable"
 - IS2-084: 横山晃士, 山本豪志朗, 劉暢, 御手洗彰, 岸本和昌, 森由希子, 黒田知宏 (京大), **"Variational Autoencoderを用いた手術室監視カメラ映像に映る個人行動の異常値推定とクラスタリングの試み"**
 - IS2-085: 平井悠喜, 山本洋太, 古田諒佑, 谷口行信 (東京理科大), **"Weakly Semi-Supervised Action Segmentation using Few-shot Labels and Standard Operating Procedures"**
 - IS2-086: 山根大河, 鈴木聡志, 増村亮, 東羅翔太郎 (NTT), **"RGB-based Multi-View Spatio-Temporal Action Recognition with Transformer"**
+- IS2-087: 阿部裕文, 西村俊彦, 村崎和彦, 吉田大我, 谷田隆一 (NTT), **"Recognition and completion of window panes using window frames as cues during metaverse space generation"**
+- IS2-088: 佐藤花音, 中林拓也 (慶大), 山口真弘, 比嘉恭太, 藤原稜 (NEC), 斎藤英雄 (慶大), **"Ball Trajectory Estimation in Sports Using Event Cameras"**
 - IS2-089: 澤田知也, 桂井麻里衣 (同志社大), **"ファッションスタイルを考慮した衣服特徴抽出器の構築"**
 - IS2-090: 濱田龍之介, 峰松翼, 唐成, 島田敬士 (九大), **"変化検出ViTのattentionへのadapter導入に関する分析"**
+- IS2-091: 平尾努 (NTT), 小林尚輝, 上垣外英剛, 奥村学 (東工大), 木村昭悟 (NTT), **"マルチモーダル要約における談話構造の有効性について"**
+- IS2-092: Zhaoyi An, Rei Kawakami (Tokyo Tech), **"Generating Sign Language Poses with Pretrained Large Language Model"**
 - IS2-093: 梅村歩, 吉田和哉 (東北大), 櫻田健, 大西正輝 (産総研), **"地形の周波数特性に着目した大域的特徴量による場所認識及び踏破性解析"**
 - IS2-094: 村田晴彦 (名城大), 南野尚樹 (熊本大), 上田貴志 (基礎生物学研究所), 近藤洋平 (京都大学), 堀田一弘 (名城大), **"チャンネル情報を強化したVideo Vision Transformerによるゼニゴケ動画像の分類"**
 - IS2-095: 山本陸, 武村紀子 (九工大), **"角度による距離学習を用いた基本感情に基づく複合感情推定"**
@@ -1419,10 +1423,6 @@ title: "Timetable"
 - IS2-113: 入山太嗣, 星澤知宙, 小室孝 (埼玉大), **"視点移動に伴う物体の見え方の自然さを考慮した視点補間画像生成"**
 - IS2-114: Diego Hernández Rodríguez (NAIST, RIKEN), Motoharu Sonogashira (RIKEN, NAIST), Kazuya Kitano, Yuki Fujimura, Takuya Funatomi, Yasuhiro Mukaigawa (NAIST), Yasutomo Kawanishi (RIKEN, NAIST), **"Arbitrary Viewpoint Event Camera Simulation by Neural Radiance Fields"**
 - IS2-115: 野田栞穂, 堀田大地, 相澤清晴 (東大), **"テキストと条件付けによる事前学習済み生成モデルを利用した画像の超圧縮"**
-- IS2-087: 阿部裕文, 西村俊彦, 村崎和彦, 吉田大我, 谷田隆一 (NTT), **"Recognition and completion of window panes using window frames as cues during metaverse space generation"**
-- IS2-088: 佐藤花音, 中林拓也 (慶大), 山口真弘, 比嘉恭太, 藤原稜 (NEC), 斎藤英雄 (慶大), **"Ball Trajectory Estimation in Sports Using Event Cameras"**
-- IS2-091: 平尾努 (NTT), 小林尚輝, 上垣外英剛, 奥村学 (東工大), 木村昭悟 (NTT), **"マルチモーダル要約における談話構造の有効性について"**
-- IS2-092: Zhaoyi An, Rei Kawakami (Tokyo Tech), **"Generating Sign Language Poses with Pretrained Large Language Model"**
 - DS-01: 中村大輝 (高清会高井病院), 増江達彦, 福田光希, 浅野尊比古 (岐阜県総合医療センター), Kim Wonjik, 野里博和 (産総研), **"The development of real-time airway recognition system for infant intubation with YOLOv8"**
 - DS-02: 村地遼平, 髙橋龍平, 大萩優哉, 中村雄大, 小島太一 (三菱電機), 國廣和樹 (三菱電機モビリティ), **"車載システム向けカメラでの脈拍推定技術の開発"**
 - DS-03: 石毛真修, 吉村康弘, 河野陽日, 岩見彰太, 米谷竜 (サイバーエージェント), **"Opt-In Camera: Person Identification in Video via UWB Device Positioning and Its Application to Opt-In Systems for Camera"**
@@ -1446,10 +1446,6 @@ title: "Timetable"
 
 ## 16:20 - 18:20 Interactive session 2B (IS-2B)  / Sponsor exhibition B (EX-B): 1F Exhibition Hall
 
-- IS2-127: 田村駿弥, 下西慶, 近藤一晃, 中村裕一 (京大), **"意図を考慮した組み立て作業者の手の遷移位置予測"**
-- IS2-130: 大槻微子 (慶大), 嘉本海大, 渡邊偉志, 藤松健 (パナソニックコネクト), 青木義満 (慶大), **"Weakly Supervised Video Anomaly Detection Using Point Cloud"**
-- IS2-131: 石原湧大, 井上光平, 原健二 (九大), **"360-Degree Image Superpixel Segmentation Using Yin-Yang Grid"**
-- IS2-140: 芦原新太郎, 徳永旭将 (九工大), **"EVSによる共振撮影を利用した透明物体のインスタンスセグメンテーションの検討"**
 - IS2-116: 大海佑介, 柴田優斗 (慶大), 入江豪 (東京理科大), 木村昭悟 (NTT), 青木義満, 五十川麻理子 (慶大), **"Acoustic-based 3D human pose estimation which robust to human position"**
 - IS2-117: Yaozong Gan, Guang Li, Ren Togo, Keisuke Maeda, Takahiro Ogawa, Miki Haseyama (Hokkaido Univ.), **"Fine-grained Traffic Sign Recognition Via Cross-domain Few-shot In-context Learning"**
 - IS2-118: Ziwen Lan, Keisuke Maeda, Takahiro Ogawa, Miki Haseyama (Hokkaido Univ.), **"Adversarial Attack Focused on Manipulating Semantic Information for Personalized Text-to-Image Diffusion Models"**
@@ -1461,8 +1457,11 @@ title: "Timetable"
 - IS2-124: Yusuke Marumo, Kazuhiko Kawamoto, Hiroshi Kera (Chiba Univ.), **"Matching Non-Identical Objects"**
 - IS2-125: 金川征樹 (筑波大), 高畑修平 (藍野大), 寺山慧 (横浜市大), 黒田嘉宏, 家永直人 (筑波大), **"Spatially unbalanced handwriting detection"**
 - IS2-126: 新谷祐生, 上瀧剛 (熊本大), **"Hashed templates:Highly accurate and fast specific object recognition method"**
+- IS2-127: 田村駿弥, 下西慶, 近藤一晃, 中村裕一 (京大), **"意図を考慮した組み立て作業者の手の遷移位置予測"**
 - IS2-128: 齋藤健太, 数藤恭子 (東邦大), **"物体候補領域の超解像に基づく低解像度小物体検出"**
 - IS2-129: Momoe Yamane, Akimasa Kondo, Masashi Hatano, Ryosuke Hori, Hideo Saito (Keio Univ.), **"Occlusion Free Mutli-Object Tracking With Multiple Camera"**
+- IS2-130: 大槻微子 (慶大), 嘉本海大, 渡邊偉志, 藤松健 (パナソニックコネクト), 青木義満 (慶大), **"Weakly Supervised Video Anomaly Detection Using Point Cloud"**
+- IS2-131: 石原湧大, 井上光平, 原健二 (九大), **"360-Degree Image Superpixel Segmentation Using Yin-Yang Grid"**
 - IS2-132: Atsuyuki Miyai (Univ. of Tokyo), Jingkang Yang (Nanyang Technology Univ.), Jingyang Zhang (Duke Univ.), Yifei Ming (Univ. of Wisconsin-Madison), Qing Yu (Univ. of Tokyo, LY), Go Irie (Tokyo Univ. of Science), Yixuan Li (Univ. of Wisconsin-Madison), Hai Li (Duke Univ.), Ziwei Liu (Nanyang Technology Univ.), Kiyoharu Aizawa (Univ. of Tokyo), **"Exploring Unsolvable Problem Detection toward Reliable Vision Language Models"**
 - IS2-133: Shogo Iwakata, Ryosuke Oshima, Hideki Tsunashima (Waseda Univ.), Fumiya Matsuzawa (Univ. of Tsukuba), Yue Qiu, Hirokatsu Kataoka (AIST), Shigeo Morishima (Waseda Univ.), **"A New Benchmark for 3D Visual Grounding using Robotic Viewpoints"**
 - IS2-134: 松平茅隼 (名大), カストナーマークアウレル (広島市大, 名大), 駒水孝裕 (名大), 平山高嗣 (人間環境大, 名大), 井手一郎 (名大), **"Estimating the visual impression of a concept for quantifying human perception of nonwords"**
@@ -1471,6 +1470,7 @@ title: "Timetable"
 - IS2-137: Riku Inoue, Yuta Goto (Tokyo Univ. of Science), Takashi Shibata (NEC), Yukinobu Taniguchi, Go Irie (Tokyo Univ. of Science), **"Learning to “Escape” Visual Concepts"**
 - IS2-138: 池田昂太郎, 松平茅隼, 加藤大貴 (名大), カストナーマークアウレル (広島市大, 名大), 平山高嗣 (人間環境大, 名大), 駒水孝裕, 井手一郎 (名大), **"歌唱時の口唇形状の類似性を考慮した歌詞の自動翻訳の検討"**
 - IS2-139: 貝津俊一, 中村和晃 (東京理科大), **"テキストガイド付き画像変換モデルを利用したImage Captioningの性能改善の試み"**
+- IS2-140: 芦原新太郎, 徳永旭将 (九工大), **"EVSによる共振撮影を利用した透明物体のインスタンスセグメンテーションの検討"**
 - IS2-141: Ryo Fujii (Keio Univ.), Ryo Hachiuma (NVIDIA), Hideo Saito (Keio Univ.), **"CrowdMAC: Masked Crowd Density Completion for Robust Crowd Density Forecasting"**
 - IS2-142: 平岡翼, 原田翔太, 満上育久 (広島市大), **"歩容解析のためのNeRFを用いた歩行映像生成"**
 - IS2-143: 高市将吾 (阪大), 青木工太 (鳥取大), 西野 (林) 美都子, 西野邦彦, 八木康史 (阪大), **"薬剤耐性菌トモグラムからの粒子検出"**
