@@ -1,6 +1,39 @@
 import pandas as pd
 import argparse
 
+
+
+def render_body(row, lang):
+    """
+    Render the body of a paper based on the given row and language.
+
+    Args:
+        row (pandas.Series): The row containing the data for the paper.
+        lang (str): The language to be used for rendering.
+
+    Returns:
+        str: The rendered body of the paper.
+    """
+    assert lang in ['jp', 'en'], f"Unknown language: {lang}"
+
+    poster_id = str(row['Poster ID'])
+
+    # If English title is available and render-language is English, use English title.
+    if type(row['英文タイトル | English title']) == str and lang == 'en':
+        title = str(row['英文タイトル | English title'])
+    else:
+        title = str(row['Paper Title'])
+
+    authors = str(row['著者リスト'])
+
+    if row['SessionID'] == 'IT':
+        # If the paper is in the top-conference session, add the conference/journal name.
+        conf_name = str(row['会議・論文誌名の入力 | Enter the name of the conference/journal'])
+        return f'- {poster_id}: {authors}, **"{title}"**, [{conf_name}]'
+    else:
+        return f'- {poster_id}: {authors}, **"{title}"**'
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--src', default='timetable.csv', help='Path to the filtered master csv file')
@@ -16,33 +49,23 @@ if __name__ == '__main__':
 
     session_ids = [
         'IT',
-        'DS',
-        'IS1-A', 'IS1-B', 'IS2-A', 'IS2-B', 'IS3-A', 'IS3-B',
         'OS1-A', 'OS1-B', 'OS1-C', 'OS1-D', 'OS1-E',
         'OS2-A', 'OS2-B', 'OS2-C', 'OS2-D',
         'OS3-A'
     ]
 
+    interactive_session_ids = [
+        'DS',
+        'IS1-A', 'IS1-B', 'IS2-A', 'IS2-B', 'IS3-A', 'IS3-B',
+    ]
+
+    # For each session (w/o interactive sessions), render the body of the papers and replace the placeholder.
     for session_id in session_ids:
         body = ""
         
         # e.g., select rows with SessionID == 'OS1-A'
         for _, row in df[df['SessionID'] == session_id].iterrows():
-            poster_id = str(row['Poster ID'])
-         
-            # If English title is available and render-language is English, use English title.
-            if type(row['英文タイトル | English title']) == str and args.lang == 'en':
-                title = str(row['英文タイトル | English title'])
-            else:
-                title = str(row['Paper Title'])
-
-            authors = str(row['著者リスト'])
-
-            if session_id == 'IT':
-                conf_name = str(row['会議・論文誌名の入力 | Enter the name of the conference/journal'])
-                body += f'- {poster_id}: {authors}, **"{title}"**, [{conf_name}]\n'
-            else:
-                body += f'- {poster_id}: {authors}, **"{title}"**\n'
+            body += render_body(row, args.lang) + '\n'
 
         # e.g., replace "{% OS1-A %}" with
         # """
@@ -50,6 +73,16 @@ if __name__ == '__main__':
         # - OS1-A-02: Ziro Foo (Tokyo Tech.), Saburo Bar (Micro$oft), **"Deep Learning is Cool"**
         # """
         tmpl = tmpl.replace(f"{{% {session_id} %}}", body)
-    
+
+
+    # Do the similar things for interactive sessions.
+    # For each interactive session, render the body of the papers and replace the placeholder.
+    # IT and OS papers are alos included here.
+    for interactive_session_id in interactive_session_ids:
+        body = ""
+        for _, row in df[df['IS-session'] == interactive_session_id].iterrows():
+            body += render_body(row, args.lang) + '\n'
+        tmpl = tmpl.replace(f"{{% {interactive_session_id} %}}", body)
+
     with open(args.out, 'w') as f:
         f.write(tmpl)

@@ -1150,6 +1150,34 @@ title: "Timetable"
 - IS1-106: 山邊紘子, 川原貫太 (立命館大), 蔭山享佑 (近大), 熊木武志 (立命館大), **"Authenticity determination method for human face by using generative AI"**
 - IS1-107: 尾崎瞬, 宮崎智, 大町真一郎 (東北大), 藤井康寿 (Google DeepMind), **"Training of video Summarization with frame captioning"**
 - IS1-108: 松村碧海 (九大), 大町真一郎 (東北大), 内田誠一 (九大), **"高圧縮可能な画像への変換"**
+- OS1-A-01: 岩井翔真 (東北大), 長内淳樹, 北田俊輔 (LINEヤフー), 大町真一郎 (東北大), **"Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model"**
+- OS1-A-02: 久保俊介, 松尾信之介 (九大), 末廣大貴 (横浜市大), 寺田和弘, 伊藤寛朗 (京大), 吉澤明彦 (奈良県立医科大), 備瀬竜馬 (九大), **"巨大バッグに対するLearning from Label Proportionのための理論的ラベル比率摂動"**
+- OS1-A-03: 砂田達巳, 塩原楓 (東大), 劉岳松, 丹治直人, 勢〆弘幸 (Septeni Japan), 肖玲, 山崎俊彦 (東大), **"大規模マルチモーダルモデルを用いた広告画像の評価・改善"**
+- OS1-A-04: He Zhu, Ren Togo, Takahiro Ogawa, Miki Haseyama (Hokkaido Univ.), **"Reliable and Personalized Federated Learning with Prompt-based Method for Visual Question Answering in Medical Domain"**
+- OS1-A-05: 石山遼, 白川嵩大, 内田誠一, 松尾信之介 (九大), **"組合せ最適化問題の画像的扱いによる高精度解法 --- 巡回セールスパーソン問題へのTest-Time Augmentationの適用"**
+- OS1-A-06: Yusuke Kuwana, Yuta Goto (Tokyo Univ. of Science), Takashi Shibata (NEC), Go Irie (Tokyo Univ. of Science), **"Black-Box Forgetting"**
+- OS1-A-07: 藤村友貴 (奈良先端大), 櫛田貴弘 (立命館大), 北野和哉, 舩冨卓哉, 向川康博 (奈良先端大), **"学習ベース両眼ステレオが持つ事前知識のNeRFへの導入"**
+- OS1-B-01: 広橋佑紀 (中部大, オムロン), 平川翼, 山下隆義, 藤吉弘亘 (中部大), **"視覚言語モデルの特徴空間分析に基づく極少数サンプルによるプロンプトラーニング"**
+- OS1-B-02: 伊藤光一郎 (日立), **"Referring Image Segmentationに向けたCLIPとSAM併用のための特徴量設計"**
+- OS1-B-03: Jane Wu (Stanford Univ.), Diego Thomas (Kyushu Univ.), Ronald Fedkiw (Stanford Univ., Epic Games), **"3D reconstruction of clothed human bodies from a few views via normal maps"**
+- OS1-B-04: 森合遼, 井上中順, 田中正行, 川上玲 (東工大), 池畑諭 (東工大, 国立情報学研究所), 佐藤育郎 (東工大, デンソーアイティーラボラトリ), **"分布外データの棄却機能を持つモダンホップフィールドネットワーク"**
+- OS1-B-05: 柗本侑也, 小倉一峰, 中野学 (NEC), **"SimGlue: Local Feature Matching for Image Pairs with Large Scale and Rotation Changes"**
+- OS1-B-06: Shota Harada (Hiroshima City Univ.), Ryoma Bise (Kyushu Univ.), Kiyohito Tanaka (Kyoto Second Red Cross Hospital), Seiichi Uchida (Kyushu Univ.), **"Semi-supervised Domain Adaptation Using Class Order for Severity Classification"**
+- OS1-B-07: Takayuki Katsuki, Haoxiang Qiu, Tomoya Sakai, Takayuki Osogami, Tadanobu Inoue, Daiki Kimura, Cristiano Malossi (IBM), **"Domain Adaptation from Sequentially Arriving Target Images with Online Deep Sets"**
+- OS1-C-01: Yasufumi Kawano, Yoshimitsu Aoki (Keio Univ.), **"TAG: Guidance-free Open-Vocabulary Semantic Segmentation"**
+- OS1-C-02: Huaying Zhang, Rintaro Yanagi, Ren Togo, Takahiro Ogawa, Miki Haseyama (Hokkaido Univ.), **"Integrating Query-target Relationship to Zero-shot Composed Image Retrieval from Masked Image-text Pairs"**
+- OS1-C-03: Tomoya Sugihara, Shuntaro Masuda, Ling Xiao, Toshihiko Yamasaki (Univ. of Tokyo), **"Language-Guided Self-Supervised Video Summarization Using Text Semantic Matching"**
+- OS1-C-04: 黒木理宏, 山崎俊彦 (東大), **"Explainig 3D Object Detection through Shapley Value-Based Attribution Map"**
+- OS1-C-05: 松藤憲吾, 石林, 川原僚 (九工大), 岡部孝弘 (岡山大), **"任意視点における直接・大域成分の生成とその質感編集への応用"**
+- OS1-C-06: Takanobu Furuhashi, Hidekata Hontani (Nagoya Institute of Technology), Tatsuya Yokota (Nagoya Institute of Technology, RIKEN), **"Adaptive Block Sparse Regularization under Arbitrary Linear Transform"**
+- OS1-C-07: 上田樹 (筑波大), 千葉直也 (東北大), 相澤宏旭 (広島大), 片岡裕雄 (産総研), 北原格 (筑波大), **"Neural Density-Distance Fieldを用いたニューラルレンダリングの透過率バウンドおよび高速化"**
+- OS1-D-01: 鬼久保拓人, 松井勇佑 (東大), **"画像生成モデルの追加学習に対する敵対的高周波領域攻撃"**
+- OS1-D-02: Yugo Kubota, Daichi Haraguchi, Seiichi Uchida (Kyushu Univ.), **"Co-embedding Font Shapes and Impressions by Contrastive Learning"**
+- OS1-D-03: 門田健明 (慶大), 備瀬竜馬 (九大), 田中聖人 (京都第二赤十字病院), 早志英朗 (阪大), **"重症度比較における不確実性と信頼度に基づく教師なしドメイン適応"**
+- OS1-D-04: Ryosuke Furuta, Yoichi Sato (Univ. of Tokyo), **"Seeking Flat Minima with Mean Teacher on Semi- and Weakly-Supervised Domain Generalization for Object Detection"**
+- OS1-D-05: 山倉隆太, 柳井啓司 (電通大), **"微分可能レンダラーを用いたロゴ画像生成"**
+- OS1-D-06: 西田悠真, 櫛田貴弘, 田中賢一郎 (立命館大), **"遠赤外領域におけるBRDFの計測と解析"**
+- OS1-D-07: Yang Yang, HIiroaki Santo, Yasuyuki Matsushita, Fumio Okura (Osaka Univ.), **"NeuraLeaf: Neural Parametric Leaf Models with Shape and Deformation Disentanglement"**
 - DS-01: 中村大輝 (高清会高井病院), 増江達彦, 福田光希, 浅野尊比古 (岐阜県総合医療センター), Kim Wonjik, 野里博和 (産総研), **"The development of real-time airway recognition system for infant intubation with YOLOv8"**
 - DS-02: 村地遼平, 髙橋龍平, 大萩優哉, 中村雄大, 小島太一 (三菱電機), 國廣和樹 (三菱電機モビリティ), **"車載システム向けカメラでの脈拍推定技術の開発"**
 - DS-03: 石毛真修, 吉村康弘, 河野陽日, 岩見彰太, 米谷竜 (サイバーエージェント), **"Opt-In Camera: Person Identification in Video via UWB Device Positioning and Its Application to Opt-In Systems for Camera"**
@@ -1247,6 +1275,22 @@ title: "Timetable"
 - IS1-183: 時山千里, 天野敏之 (和歌山大), **"SOTを用いた物質性を置き換えるプロジェクションマッピング"**
 - IS1-184: 本庄郁弥, 植松郁哉 (立命館大), 眞田慎 (立命館グローバル・イノベーション研究機構), 森佳樹, 島田伸敬 (立命館大), **"HMD搭載深度センサによる物体形状の取得と物体把持方法のMR提示"**
 - IS1-185: 繁田愛夕, 天野敏之 (和歌山大), **"Color Compensation for Color Bleeding Caused by Chromatic Illumination Using a Projector-Camera System"**
+- IT-01: Nobuhiko Wakai, Satoshi Sato, Yasunori Ishii (Panasonic Holdings), Takayoshi Yamashita (Chubu Univ.), **"Deep Single Image Camera Calibration by Heatmap Regression to Recover Fisheye Images Under Manhattan World Assumption"**, [CVPR]
+- IT-02: Yuzuru Nakamura, Yasunori Ishii (Panasonic Holdings), Takayoshi Yamashita (Chubu Univ.), **"Active Domain Adaptation with False Negative Prediction for Object Detection"**, [CVPR]
+- IT-03: Shintaro Shiba (Keio Univ., TU Berlin), Friedhelm Hamann (TU Berlin), Yoshimitsu Aoki (Keio Univ.), Guillermo Gallego (TU Berlin), **"Event-Based Background-Oriented Schlieren"**, [TPAMI]
+- IT-04: Lang Huang (Univ. of Tokyo), Chao Zhang (Peking Univ.), Hongyang Zhang (Univ. of Waterloo), **"Self-Adaptive Training: Bridging Supervised and Self-Supervised Learning"**, [TPAMI]
+- IT-18: Takahiro Maeda, Norimichi Ukita (Toyota Technological Institute), **"Fast Inference and Update of Probabilistic Density Estimation on Trajectory Prediction"**, [ICCV]
+- IT-19: Xu Cao, Takafumi Taketomi (CyberAgent), **"SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration"**, [CVPR]
+- OS1-E-01: Jiafeng Mao (Univ. of Tokyo), Xueting Wang (CyberAgent), Kiyoharu Aizawa (Univ. of Tokyo), **"Towards Semantic-Driven Initialization: Winning Tickets in Initial Noise"**
+- OS1-E-02: 松井勇佑 (東大), 横田達也 (名工大), **"ブロードキャスト積：テンソル形状を揃えた要素積演算"**
+- OS1-E-03: 堀川健太, 五十川麻理子, 斎藤秀雄 (慶大), 森尚平 (グラーツ工科大), **"Depth Estimation from Event Focal Stack"**
+- OS1-E-04: 渡邊諒 (東大), 椋田悠介, 原田達也 (東大, 理研), **"Fully Spiking Denoising Diffusion Implicit Models"**
+- OS1-E-05: 謝舒翔 (東大, 産総研), 周舒意 (東大), 櫻田健 (産総研), 石川涼一 (東大), 大西正輝 (産総研), 大石岳史 (東大), **"グリッドベースNeRFにおける周波数正則化"**
+- OS1-E-06: 下津曲将, 竹崎隼平, 原口大地, 内田誠一 (九大), **"Cyclic Diffusion Modelの提案とその文字画像変換への応用"**
+- OS1-E-07: Diego Thomas (Kyushu Univ.), JeanSebastien Franco, Edmond Boyer (Inria), **"3D Shape Modeling with Adaptive Centroidal Voronoi Tesselation on Signed Distance Field"**
+- OS1-E-08: 近藤暖, 金崎朝子 (東工大), **"説明文生成を補助タスクとする意味的視聴覚ナビゲーション"**
+- OS1-E-09: Ryoya Nara, Yusuke Matsui (Univ. of Tokyo), **"Human-drawable and Interpretable Adversarial Attack"**
+- OS1-E-10: Hitoshi Teshima, Diego Thomas, Hiroshi Kawasaki (Kyushu Univ.), Yuta Nakashima (Osaka Univ.), Naoki Wake, Katsushi Ikeuchi (Microsoft), **"Text-Guided Diverse Scene Interaction Synthesis by Disentangling Actions from Scenes"**
 
 
 ## 18:30 - 19:00 Town meeting: 4F Main Hall
@@ -1423,6 +1467,27 @@ title: "Timetable"
 - IS2-113: 入山太嗣, 星澤知宙, 小室孝 (埼玉大), **"視点移動に伴う物体の見え方の自然さを考慮した視点補間画像生成"**
 - IS2-114: Diego Hernández Rodríguez (NAIST, RIKEN), Motoharu Sonogashira (RIKEN, NAIST), Kazuya Kitano, Yuki Fujimura, Takuya Funatomi, Yasuhiro Mukaigawa (NAIST), Yasutomo Kawanishi (RIKEN, NAIST), **"Arbitrary Viewpoint Event Camera Simulation by Neural Radiance Fields"**
 - IS2-115: 野田栞穂, 堀田大地, 相澤清晴 (東大), **"テキストと条件付けによる事前学習済み生成モデルを利用した画像の超圧縮"**
+- OS2-A-01: 佐々木謙人 (Turing, 筑波大), 井ノ上雄一 (Turing, 慶大), 藤井一喜 (Turing, 東工大), 棚橋耕太郎 (Turing), 山口祐 (Turing, 慶大), **"Constructing and Evaluating Japanese Vision Language Models Using Large Language Models"**
+- OS2-A-02: Naoya Sogi, Takashi Shibata, Makoto Terao (NEC), **"Object-Aware Query Perturbation for Cross-Modal Image-Text Retrieval"**
+- OS2-A-03: 竹崎隼平 (九大), 田中聖人 (京都第二赤十字病院), 内田誠一 (九大), **"誤りのある順序付きラベルでの自己緩和型共同学習による重症度推定"**
+- OS2-A-04: 新田常顧, 小濱大和, 伊藤天詞, 平川翼, 山下隆義, 藤吉弘亘 (中部大), **"事前学習モデルの特徴表現を維持したSingle-shot Foresight Pruning"**
+- OS2-A-05: 松井勇佑 (東大), **"学習型足切り表による高速な多様近傍探索"**
+- OS2-A-06: Mana Masuda, Jinhyung Park, Shun Iwase, Rawal Khirodkar, Kris M. Kitani (CMU), **"Generalizable Neural Human Renderer"**
+- OS2-A-07: Tomoya Sakai, Haoxiang Qiu, Takayuki Katsuki, Daiki Kimura, Takayuki Osogami, Tadanobu Inoue (IBM), **"Simple Class Relation Helps Generalized Few-Shot Semantic Segmentation"**
+- OS2-B-01: Jiaqi Bao, Ryo Yonetani (CyberAgent), **"Path Planning using Language-Guided Probabilistic Roadmaps"**
+- OS2-B-02: 鈴木共生, 前野一樹, 橋本潔 (パナソニックコネクト), 石井育規 (パナソニックホールディングス), 山下隆義 (中部大), **"物体特徴を捉えるためのFDSLとCGを組合せた事前学習"**
+- OS2-B-03: 山本耕平, 大岸茉由, 柳井啓司 (電通大), **"画像生成モデルによるカロリー量を考慮した食事画像編集"**
+- OS2-B-04: 山西博雅, 山崎俊彦 (東大), **"LLaVA-Tour: Large Language and Vision Assistant for Japanese Tourism"**
+- OS2-B-05: 趙在瀛, 熊野創一郎, 山崎俊彦 (東大), **"Vision-Languageモデルを利用した画像分類におけるバイアスの言語的抽出と緩和"**
+- OS2-B-06: 藤本悠太, 北野和哉, 藤村友貴, 舩冨卓哉, 向川康博 (奈良先端大), **"Petrographic Thin Plate Based Non-Uniform Spectral Filter for One-Shot Hyperspectral Imaging"**
+- OS2-B-07: 安倍次朗, 中野学 (NEC), **"Visual localization on textureless point cloud by rendering geometric features"**
+- OS2-C-01: Ryota Ishizaki, Shunya Yamagami, Yuta Goto, Go Irie (Tokyo Univ. of Science), **"Linear Calibration Approach to Knowledge-free Group-Robust Classification"**
+- OS2-C-02: 今宿祐希, 山肩洋子, 相澤清晴 (東大), **"Recipe generation from food images using multimodal VLM"**
+- OS2-C-03: 岩井翔真, 宮崎智, 大町真一郎 (東北大), **"Dual Conditioned Training for Exploiting VQGAN in Image Compression"**
+- OS2-C-04: 河野創祐, 平尾寿希, 上田宇起, 川原僚 (九工大), 岡部孝弘 (岡山大), **"ライトトランスポート獲得のための照明・露光パタンと復号処理の同時学習"**
+- OS2-C-05: 鈴木雅司, 平川翼, 山下隆義, 藤吉弘亘 (中部大), 杉浦孔明 (慶大), **"Reactive Bias to embed human knowledge in ViT through tuning"**
+- OS2-C-06: 小栗悠太郎, 松井勇佑 (東大), **"グラフベース近似最近傍探索における適応的開始点選択の理論的・実証的解析"**
+- OS2-C-07: Weng Ian Chan, Santo Hiroaki, Yasuyuki Matsushita, Fumio Okura (Osaka Univ.), **"Instance-wise Distribution Control of Text-to-image Diffusion Models"**
 - DS-01: 中村大輝 (高清会高井病院), 増江達彦, 福田光希, 浅野尊比古 (岐阜県総合医療センター), Kim Wonjik, 野里博和 (産総研), **"The development of real-time airway recognition system for infant intubation with YOLOv8"**
 - DS-02: 村地遼平, 髙橋龍平, 大萩優哉, 中村雄大, 小島太一 (三菱電機), 國廣和樹 (三菱電機モビリティ), **"車載システム向けカメラでの脈拍推定技術の開発"**
 - DS-03: 石毛真修, 吉村康弘, 河野陽日, 岩見彰太, 米谷竜 (サイバーエージェント), **"Opt-In Camera: Person Identification in Video via UWB Device Positioning and Its Application to Opt-In Systems for Camera"**
@@ -1518,6 +1583,22 @@ title: "Timetable"
 - IS2-185: 久保勇貴 (NTT), 志築文太郎 (筑波大), **"装着型センサを用いた手形状深度画像再構成手法"**
 - IS2-186: 馬渕佑真, 小篠裕子 (電機大), **"個人の視覚特性に合わせた画像強調エージェント"**
 - IS2-187: 平野稔祐, 小池英樹 (東工大), **"AlchemyCode: 重ね合わせ可能な魔法陣風2Dマーカー"**
+- IT-05: Daichi Horita (Univ. of Tokyo), Naoto Inoue, Kotaro Kikuchi, Kota Yamaguchi (CyberAgent), Kiyoharu Aizawa (Univ. of Tokyo), **"Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation"**, [CVPR]
+- IT-06: Tianwei Chen, Yusuke Hirota (Osaka Univ.), Mayu Otani (CyberAgent), Noa Garcia, Yuta Nakashima (Osaka Univ.), **"Would Deep Generative Models Amplify Bias in Future Models?"**, [CVPR]
+- IT-07: Kosuke Sumiyasu, Kazuhiko Kawamoto, Hiroshi Kera (Chiba Univ.), **"Identifying Important Group of Pixels using Interactions"**, [CVPR]
+- IT-08: Mikihiro Tanaka, Kent Fujiwara (LY), **"Role-aware Interaction Generation from Textual Description"**, [ICCV]
+- IT-09: Qing Yu, Mikihiro Tanaka, Kent Fujiwara (LY), **"Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches"**, [CVPR]
+- IT-10: Jiaxuan Li, Duc Minh Vo (Univ. of Tokyo), Akihiro Sugimoto (NII), Hideki Nakayama (Univ. of Tokyo), **"EVCap: Retrieval-Augmented Image Captioning with External Visual-Name Memory for Open-World Comprehension"**, [CVPR]
+- OS2-D-01: Shogo Sato, Takuhiro Kaneko, Taiga Yoshida, Kazuhiko Murasaki, Ryuichi Tanida, Akisato Kimura (NTT), **"Unsupervised Intrinsic Image Decomposition with LiDAR Intensity Enhanced Training"**
+- OS2-D-02: Taro Togo, Ren TogoKeisuke MaedaTakahiro OgawaMiki Haseyama (Hokkaido Univ.), **"Refining Generative Class Incremental Learning Performance through Model Forgetting Strategies"**
+- OS2-D-03: 東大樹, 松井勇佑 (東大), 牧淳人 (スウェーデン王立工科大), **"ZoDi:拡散モデルに基づく画像変換を用いたゼロショットドメイン適応"**
+- OS2-D-04: 江口達大, 竹崎隼平, 備瀬竜馬 (九大), **"撮像条件情報を用いたガイダンスを導入した拡散モデルによる光超音波画像の画質改善"**
+- OS2-D-05: 北沢一真 (筑波大), 青砥隆仁 (Optech Innovation), 池畑諭 (NII, 東工大), 髙谷剛志 (筑波大), **"イベントカメラと運動光源を用いた法線推定"**
+- OS2-D-06: 松本玲音 (九工大), 岡部孝弘 (岡山大), 川原僚 (九工大), **"多焦点偏光画像群からの不透明微小物体の形状復元"**
+- OS2-D-07: Shunta Kimura, Kodai Kawamura, Shunya Yamagami (Tokyo Univ. of Science), Qing Yu, Kiyoharu Aizawa (Univ. of Tokyo), Go irie (Tokyo Univ. of Science), **"One-shot Test-Time Adaptation with Textual Inversion"**
+- OS2-D-08: 篠田理沙 (京大), 塩原楓 (東大), **"動物の顔認識に対する大規模データセット構築"**
+- OS2-D-09: Yohanssen Pratama, Kazuya Kitano (NAIST), Takahiro Kushida (Ritsumeikan Univ.), Yuki Fujimura, Takuya Funatomi, Yasuhiro Mukaigawa (NAIST), **"Pixel-Wise Material Classification Using Deep Learning by Utilizing Transient Responses"**
+- OS2-D-10: Futa Waseda (Univ. of Tokyo), Antonio TejerodePablos (CyberAgent), **"How to Defend Image-Text Matching Tasks against Adversarial Attacks"**
 
 
 
@@ -1621,6 +1702,16 @@ title: "Timetable"
 - IS3-070: 黒肥地立樹, 吉村優大, 八谷大岳 (和歌山大), **"周波数空間MLP-Mixerを用いた鏡面物体検出"**
 - IS3-071: 吉村優大, 八谷大岳 (和歌山大), **"RGBと偏光情報の深層マルチモーダル統合による鏡面検出"**
 - IS3-072: 内田輝 (東工大), 吉田悠一 (デンソーアイティーラボラトリ/東工大), 池畑諭 (東工大), 佐藤育郎 (デンソーアイティーラボラトリ/東工大), **"不良品検出のためのデワーピング拡散モデル"**
+- OS3-A-01: 有川尚輝, 前田涼汰, 日浦慎作 (兵庫県立大), **"偏光計測系と分類器の同時最適化による材質認識"**
+- OS3-A-02: Shuhei M. Yoshida, Takashi Shibata, Makoto Terao (NEC), Takayuki Okatani (Tohoku Univ., RIKEN), Masashi Sugiyama (RIKEN, Univ. of Tokyo), **"Action-Agnostic Point-Level Supervision for Temporal Action Detection"**
+- OS3-A-03: 河内穂高, 中村友哉, 槇原靖, 長原一, 八木康史 (阪大), **"Single-Image Depth from Defocus with Coded Aperture and Diffusion Posterior Sampling"**
+- OS3-A-04: Masatoshi Tateno (Univ. of Tokyo, AIST), Takuma Yagi (AIST), Ryosuke Furuta, Yoichi Sato (Univ. of Tokyo), **"Learning Object States from Actions via Large Language Models"**
+- OS3-A-05: Yuto Shibata (Keio Univ.), Yasunori Kudo, Yohei Sugawara (PFN), **"Anatomical 3D Style Transfer Enables Efficient Federated Learning with Extremely Low Communication Costs"**
+- OS3-A-06: 松尾信之介 (九大), 末廣大貴 (横浜市大), 計良宥志 (千葉大), 内田誠一, 備瀬竜馬 (九大), **"Prototypeに基づいたAttentionによるLearning from Label Proportions"**
+- OS3-A-07: 池内健心, 毛家豊, 郁青 (東大), 入江豪 (東京理科大), 相澤清晴 (東大), **"Membership inference against fine-tuned diffusion models"**
+- OS3-A-08: Sandra Zhang Ding, Jiafeng Mao, Kiyoharu Aizawa (Univ. of Tokyo), **"Latent Optimization for Training-Free Sketch-Guided Diffusion"**
+- OS3-A-09: 田所龍 (産総研, 東北大), 中村凌 (産総研, 福岡大), 山田亮佑 (産総研, 筑波大), Yuki M. Asano (Univ. of Amsterdam), Iro Laina, Christian Rupprecht (Univ. of Oxford), 井上中順, 横田理央 (東工大), 片岡裕雄 (産総研), **"Scaling Backwards: Minimal Synthetic Pre-training?"**
+- OS3-A-10: 大谷豪 (慶大, 産総研), 田所龍 (産総研), 山田亮佑 (筑波大, 産総研), Yuki Asano (Univ. of Amsterdam), Iro Laina, Christian Rupprecht (Univ. of Oxford), 井上中順, 横田理央 (東工大, 産総研), 片岡裕雄 (産総研), 青木義満 (慶大, 産総研), **"Rethinking Construction of Training Data in Image Super-Resolution"**
 
 
 ## 13:30 - 15:00 Interactive session 3B (IS-3B): 1F Exhibition Hall
@@ -1698,6 +1789,13 @@ title: "Timetable"
 - IS3-143: 篠原陸玖 (奈良先端大), 橋本敦史, 小津野将, 吉田成朗 (オムロンサイニックエックス), 平尾悠太朗, ペルスキアエルナンデスモニカ, 内山英昭, 清川清 (奈良先端大), **"ユーザ適応型アバタ姿勢操作法"**
 - IS3-144: 杉崎勇介, 中里仁, 塚田学 (東大), **"Development and Evaluation of XR Escape Game with Web-based Digital Twin"**
 - IS3-145: 辻真彦, 横張和也, 谷田隆一 (NTT), **"リアル/バーチャル空間を重畳させる非対称CVEにおける空間の重畳ずれが与える影響の一考察"**
+- IT-11: Yusuke Takimoto, Hikari Takehara, Hiroyuki Sato (Huawei Technologies Japan K.K.), Zihao Zhu (Keio Univ., Huawei Technologies Japan K.K.), Bo Zheng (Huawei Technologies Japan K.K.), **"Dr.Hair: Reconstructing Scalp-Connected Hair Strands without Pre-training via Differentiable Rendering of Line Segments"**, [CVPR]
+- IT-12: Zhixiang Wang (Univ. of Tokyo, NII), Baiang Li (Hefei Univ. of Technology), Jian Wang (Snapchat), Yu-Lun Liu (National Yang Ming Chiao Tung Univ.), Jinwei Gu (Univ. of Hong Kong), Yung-Yu Chuang (National Taiwan Univ.), Shin'ichi Satoh (NII, Univ. of Tokyo), **"Matting by Generation"**, [SIGGRAPH]
+- IT-13: Yusuke Sekikawa, Shingo Yashima (DENSO IT Laboratory), **"SAS: Structured Activation Sparsificatio"**, [ICLR]
+- IT-14: Soichiro Kumano (Univ. of Tokyo), Hiroshi Kera (Chiba Univ.), Toshihiko Yamasaki (Univ. of Tokyo), **"Theoretical Understanding of Learning from Adversarial Perturbations"**, [ICLR]
+- IT-15: Atsuyuki Miyai (Univ. of Tokyo), Qing Yu (LY , Univ. of Tokyo), Go Irie (Tokyo Univ. of Science), Kiyoharu Aizawa (Univ. of Tokyo), **"LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning"**, [NeurIPS]
+- IT-16: Yuki Fujimura (NAIST), Masaaki Iiyama (Shiga Univ.), Takuya Funatomi, Yasuhiro Mukaigawa (NAIST), **"Deep Depth from Focal Stack with Defocus Model for Camera-Setting Invariance"**, [IJCV]
+- IT-17: Qingxiuxiong Dong, Toshimitsu Kaneko (Toshiba), Masashi Sugiyama (Riken, Univ. of Tokyo), **"An Offline Learning of Behavior Correction Policy for Vision-Based Robotic Manipulation"**, [ICRA]
 
 
 
