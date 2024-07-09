@@ -28,7 +28,11 @@ def render_body(row, lang):
     if row['英文タイトル | English title'] and lang == 'en' and row['英文タイトル | English title'] != row['Paper Title']:
         title += " (" + row['英文タイトル | English title'] + ")"
 
-    authors = row['著者リスト']
+    # If English name is available (meaning that English title is available) and rendering mode is English, use it for the author list
+    if row['CMT著者名'] and lang == 'en':
+        authors = row['CMT著者名']
+    else:
+        authors = row['著者リスト']
 
     if row['SessionID'] == 'ES':
         # If the paper is in the sponser session, don't show authors. Don't use `"` for title.

@@ -75,12 +75,14 @@ if __name__ == '__main__':
     #     - Japanese title
     # - 著者リスト
     #     - Authors
+    # - CMT著者名
+    #     - Authors in English
     # - 英文タイトル | English title
     #     - English title (optional)
     # - 会議・論文誌名の入力 | Enter the name of the conference/journal
     #     - Only used for top-conference sission (IT). Confereence/journal name such as 'Computer Vision and Pattern Recognition'
     df_filtered = df_filtered[['SessionID', 'IS-session', 'Poster ID', 'Paper Title',
-                               '著者リスト', '英文タイトル | English title', '会議・論文誌名の入力 | Enter the name of the conference/journal']]
+                               '著者リスト', 'CMT著者名', '英文タイトル | English title', '会議・論文誌名の入力 | Enter the name of the conference/journal']]
 
     # For IT session (top-conference session), abbreviate the conference/journal names, e.g., 'Computer Vision and Pattern Recognition' -> 'CVPR'    
     df_filtered['会議・論文誌名の入力 | Enter the name of the conference/journal'] = df_filtered['会議・論文誌名の入力 | Enter the name of the conference/journal'].apply(abbriviate)

@@ -1180,7 +1180,6 @@ title: "タイムテーブル"
 - IS1-051: 三山晃季, 中西慶一, 徳永旭将 (九工大), **"クラス事前確率を用いた半教師あり多クラス分類におけるコスト関数の提案"**
 - IS1-052: 桐山琳歌 (東京農工大), 幸島明男 (産総研), 清水郁子 (東京農工大), **"低次元表現の組み合わせによるmixup手法の提案"**
 - IS1-053: 志久開人, 西村和也 (九大), 末廣大貴 (横浜市大), 田中聖人 (京都第二赤十字病院), 備瀬竜馬 (九大), **"潰瘍性大腸炎の重症度推定を目的とした選択的集約トランスフォーマーによる順序ありクラスのマルチインスタンス学習"**
-- IS1-054: 原田優輝, 岡本直樹, 平川翼, 山下隆義, 藤吉弘亘 (中部大), **"知識転移グラフによる自己教師あり共同学習の自動設計"**
 - IS1-055: Tatsukichi Shibuya (Sony Semiconductor Solutions), Atsushi Irie, Jun Nishikawa, Leo Hoshikawa (Sony Group), Toshiyuki Sasaki, Yasuhiro Suto (Sony Semiconductor Solutions), **"Cooperative Learning of Quantization Levels and Thresholds for Binary Decomposable Quantization"**
 - IS1-056: 日髙楓雅, 松井勇佑 (東大), **"効率的に更新可能な学習型多次元索引"**
 - IS1-057: 金子智一, 坂井亮介, 柴田剛志, 白石壮馬 (NEC), **"物体中心表現学習に基づく弱教師アモーダルセグメンテーション"**
