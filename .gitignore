@@ -3,4 +3,8 @@
 Makefile
 key.pem
 
+script/timetable0.csv
+script/output_jp.md
+script/output_en.md
+
 public/
