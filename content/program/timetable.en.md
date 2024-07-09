@@ -1042,20 +1042,20 @@ title: "Timetable"
 
 ## 16:20 - 18:20 Interactive session 1A (IS-1A)  / Sponsor exhibition A (EX-A)  / Demo session (DS): 3F Conference Room A
 
-- S1: **GO株式会社 (GO Inc.)**
-- S2: **グーグル合同会社 (Google Japan)**
-- S3: **チームラボ株式会社 (teamLab)**
-- S4: **株式会社ELEMENTS (ELEMENTS, Inc.)**
-- S5: **ファーストアカウンティング株式会社 (Fast Accounting Co., Ltd.)**
-- S6: **エムスリー株式会社 (M3, Inc.)**
-- S7: **株式会社IMAGICA GROUP (IMAGICA GROUP Inc.)**
-- S8: **フューチャー株式会社 (Future Corporation)**
-- S9: **八千代エンジニヤリング株式会社 (Yachiyo Engineering Co., Ltd.)**
-- S10: **アジア航測株式会社 (Asia Air Survey Co.,Ltd.)**
-- S11: **株式会社アダコテック (Adacotech Incorporated)**
-- S12: **株式会社エクサウィザーズ (ExaWizards Inc.)**
-- S13: **データ・タング株式会社 (Datatang Inc.)**
-- S14: **株式会社ジーデップ・アドバンス (GDEP ADVANCE,Inc)**
+- EX-S1: **GO株式会社 (GO Inc.)**
+- EX-S2: **グーグル合同会社 (Google Japan)**
+- EX-S3: **チームラボ株式会社 (teamLab)**
+- EX-S4: **株式会社ELEMENTS (ELEMENTS, Inc.)**
+- EX-S5: **ファーストアカウンティング株式会社 (Fast Accounting Co., Ltd.)**
+- EX-S6: **エムスリー株式会社 (M3, Inc.)**
+- EX-S7: **株式会社IMAGICA GROUP (IMAGICA GROUP Inc.)**
+- EX-S8: **フューチャー株式会社 (Future Corporation)**
+- EX-S9: **八千代エンジニヤリング株式会社 (Yachiyo Engineering Co., Ltd.)**
+- EX-S10: **アジア航測株式会社 (Asia Air Survey Co.,Ltd.)**
+- EX-S11: **株式会社アダコテック (Adacotech Incorporated)**
+- EX-S12: **株式会社エクサウィザーズ (ExaWizards Inc.)**
+- EX-S13: **データ・タング株式会社 (Datatang Inc.)**
+- EX-S14: **株式会社ジーデップ・アドバンス (GDEP ADVANCE,Inc)**
 - DS-01: 中村大輝 (高清会高井病院), 増江達彦, 福田光希, 浅野尊比古 (岐阜県総合医療センター), Kim Wonjik, 野里博和 (産総研), **"YOLOv8を用いた乳児気管挿管時のリアルタイム声門認識システムの開発 (The development of real-time airway recognition system for infant intubation with YOLOv8)"**
 - DS-02: 村地遼平, 髙橋龍平, 大萩優哉, 中村雄大, 小島太一 (三菱電機), 國廣和樹 (三菱電機モビリティ), **"車載システム向けカメラでの脈拍推定技術の開発"**
 - DS-03: 石毛真修, 吉村康弘, 河野陽日, 岩見彰太, 米谷竜 (サイバーエージェント), **"オプトインカメラ: UWBデバイスを用いた位置推定に基づく映像中の人物同定とオプトインシステムへの応用 (Opt-In Camera: Person Identification in Video via UWB Device Positioning and Its Application to Opt-In Systems for Camera)"**
@@ -1212,33 +1212,33 @@ title: "Timetable"
 
 ## 16:20 - 18:20 Interactive session 1B (IS-1B)  / Sponsor exhibition B (EX-B): 1F Exhibition Hall
 
-- P1: **株式会社サイバーエージェント (CyberAgent, Inc.)**
-- P2: **株式会社日立製作所 (Hitachi, Ltd.)**
-- P3: **HPCテック (HPCTECH)**
-- P4: **華為技術日本株式会社 (Huawei Technologies Japan K.K.)**
-- G1: **株式会社デンソーアイティ―ラボラトリ (DENSO IT Laboratory)**
-- G2: **株式会社センスタイムジャパン (Sense Time Japan Ltd.)**
-- G3: **LINEヤフー株式会社 (LY Corporation)**
-- G4: **オムロン株式会社 (OMRON Corporation)**
-- G5: **キャディ株式会社 (CADDi Inc.)**
-- G6: **株式会社ZOZO NEXT (ZOZO NEXT, Inc.)**
-- G7: **株式会社BuySell Technologies (BuySell Technologies Co., Ltd.)**
-- G8: **株式会社ネットコンパス (NetCOMPASS Ltd.)**
-- G9: **日本電信電話株式会社（NTT R&D） (NIPPON TELEGRAPH AND TELEPHONE CORPORATION)**
-- G10: **株式会社メルカリ (Mercari, inc.)**
-- G11: **Turing株式会社 (Turing Inc.)**
-- G12: **日産自動車株式会社 (Nissan Motor Co., Ltd.)**
-- G13: **株式会社東芝 (Toshiba corporation)**
-- G14: **SB Intuitions株式会社 (SB Intuitions Corp.)**
-- G15: **ダイキン工業株式会社 (DAIKIN INDUSTRIES, LTD.)**
-- G16: **株式会社ＮＴＴドコモ (NTT DOCOMO, INC.)**
-- G17: **株式会社tiwaki (tiwaki Co., Ltd.)**
-- G18: **Sansan株式会社 (Sansan, Inc.)**
-- G19: **Mantra株式会社 (Mantra Inc.)**
-- G20: **三菱重工業株式会社 (Mitsubishi Heavy Industries. Ltd.)**
-- G21: **日本電気株式会社 (NEC Corporation)**
-- G22: **住友重機械工業株式会社 (Sumitomo Heavy Industries, Ltd)**
-- G23: **株式会社本田技術研究所 (Honda R&D Co., Ltd.)**
+- EX-P1: **株式会社サイバーエージェント (CyberAgent, Inc.)**
+- EX-P2: **株式会社日立製作所 (Hitachi, Ltd.)**
+- EX-P3: **HPCテック (HPCTECH)**
+- EX-P4: **華為技術日本株式会社 (Huawei Technologies Japan K.K.)**
+- EX-G1: **株式会社デンソーアイティ―ラボラトリ (DENSO IT Laboratory)**
+- EX-G2: **株式会社センスタイムジャパン (Sense Time Japan Ltd.)**
+- EX-G3: **LINEヤフー株式会社 (LY Corporation)**
+- EX-G4: **オムロン株式会社 (OMRON Corporation)**
+- EX-G5: **キャディ株式会社 (CADDi Inc.)**
+- EX-G6: **株式会社ZOZO NEXT (ZOZO NEXT, Inc.)**
+- EX-G7: **株式会社BuySell Technologies (BuySell Technologies Co., Ltd.)**
+- EX-G8: **株式会社ネットコンパス (NetCOMPASS Ltd.)**
+- EX-G9: **日本電信電話株式会社（NTT R&D） (NIPPON TELEGRAPH AND TELEPHONE CORPORATION)**
+- EX-G10: **株式会社メルカリ (Mercari, inc.)**
+- EX-G11: **Turing株式会社 (Turing Inc.)**
+- EX-G12: **日産自動車株式会社 (Nissan Motor Co., Ltd.)**
+- EX-G13: **株式会社東芝 (Toshiba corporation)**
+- EX-G14: **SB Intuitions株式会社 (SB Intuitions Corp.)**
+- EX-G15: **ダイキン工業株式会社 (DAIKIN INDUSTRIES, LTD.)**
+- EX-G16: **株式会社ＮＴＴドコモ (NTT DOCOMO, INC.)**
+- EX-G17: **株式会社tiwaki (tiwaki Co., Ltd.)**
+- EX-G18: **Sansan株式会社 (Sansan, Inc.)**
+- EX-G19: **Mantra株式会社 (Mantra Inc.)**
+- EX-G20: **三菱重工業株式会社 (Mitsubishi Heavy Industries. Ltd.)**
+- EX-G21: **日本電気株式会社 (NEC Corporation)**
+- EX-G22: **住友重機械工業株式会社 (Sumitomo Heavy Industries, Ltd)**
+- EX-G23: **株式会社本田技術研究所 (Honda R&D Co., Ltd.)**
 - IT-01: Nobuhiko Wakai, Satoshi Sato, Yasunori Ishii (Panasonic Holdings), Takayoshi Yamashita (Chubu Univ.), **"Deep Single Image Camera Calibration by Heatmap Regression to Recover Fisheye Images Under Manhattan World Assumption"**, [CVPR]
 - IT-02: Yuzuru Nakamura, Yasunori Ishii (Panasonic Holdings), Takayoshi Yamashita (Chubu Univ.), **"Active Domain Adaptation with False Negative Prediction for Object Detection"**, [CVPR]
 - IT-03: Shintaro Shiba (Keio Univ., TU Berlin), Friedhelm Hamann (TU Berlin), Yoshimitsu Aoki (Keio Univ.), Guillermo Gallego (TU Berlin), **"Event-Based Background-Oriented Schlieren"**, [TPAMI]
@@ -1393,20 +1393,20 @@ title: "Timetable"
 
 ## 16:20 - 18:20 Interactive session 2A (IS-2A)  / Sponsor exhibition A (EX-A)  / Demo session (DS): 3F Conference Room A
 
-- S1: **GO株式会社 (GO Inc.)**
-- S2: **グーグル合同会社 (Google Japan)**
-- S3: **チームラボ株式会社 (teamLab)**
-- S4: **株式会社ELEMENTS (ELEMENTS, Inc.)**
-- S5: **ファーストアカウンティング株式会社 (Fast Accounting Co., Ltd.)**
-- S6: **エムスリー株式会社 (M3, Inc.)**
-- S7: **株式会社IMAGICA GROUP (IMAGICA GROUP Inc.)**
-- S8: **フューチャー株式会社 (Future Corporation)**
-- S9: **八千代エンジニヤリング株式会社 (Yachiyo Engineering Co., Ltd.)**
-- S10: **アジア航測株式会社 (Asia Air Survey Co.,Ltd.)**
-- S11: **株式会社アダコテック (Adacotech Incorporated)**
-- S12: **株式会社エクサウィザーズ (ExaWizards Inc.)**
-- S13: **データ・タング株式会社 (Datatang Inc.)**
-- S14: **株式会社ジーデップ・アドバンス (GDEP ADVANCE,Inc)**
+- EX-S1: **GO株式会社 (GO Inc.)**
+- EX-S2: **グーグル合同会社 (Google Japan)**
+- EX-S3: **チームラボ株式会社 (teamLab)**
+- EX-S4: **株式会社ELEMENTS (ELEMENTS, Inc.)**
+- EX-S5: **ファーストアカウンティング株式会社 (Fast Accounting Co., Ltd.)**
+- EX-S6: **エムスリー株式会社 (M3, Inc.)**
+- EX-S7: **株式会社IMAGICA GROUP (IMAGICA GROUP Inc.)**
+- EX-S8: **フューチャー株式会社 (Future Corporation)**
+- EX-S9: **八千代エンジニヤリング株式会社 (Yachiyo Engineering Co., Ltd.)**
+- EX-S10: **アジア航測株式会社 (Asia Air Survey Co.,Ltd.)**
+- EX-S11: **株式会社アダコテック (Adacotech Incorporated)**
+- EX-S12: **株式会社エクサウィザーズ (ExaWizards Inc.)**
+- EX-S13: **データ・タング株式会社 (Datatang Inc.)**
+- EX-S14: **株式会社ジーデップ・アドバンス (GDEP ADVANCE,Inc)**
 - DS-01: 中村大輝 (高清会高井病院), 増江達彦, 福田光希, 浅野尊比古 (岐阜県総合医療センター), Kim Wonjik, 野里博和 (産総研), **"YOLOv8を用いた乳児気管挿管時のリアルタイム声門認識システムの開発 (The development of real-time airway recognition system for infant intubation with YOLOv8)"**
 - DS-02: 村地遼平, 髙橋龍平, 大萩優哉, 中村雄大, 小島太一 (三菱電機), 國廣和樹 (三菱電機モビリティ), **"車載システム向けカメラでの脈拍推定技術の開発"**
 - DS-03: 石毛真修, 吉村康弘, 河野陽日, 岩見彰太, 米谷竜 (サイバーエージェント), **"オプトインカメラ: UWBデバイスを用いた位置推定に基づく映像中の人物同定とオプトインシステムへの応用 (Opt-In Camera: Person Identification in Video via UWB Device Positioning and Its Application to Opt-In Systems for Camera)"**
@@ -1566,33 +1566,33 @@ title: "Timetable"
 
 ## 16:20 - 18:20 Interactive session 2B (IS-2B)  / Sponsor exhibition B (EX-B): 1F Exhibition Hall
 
-- P1: **株式会社サイバーエージェント (CyberAgent, Inc.)**
-- P2: **株式会社日立製作所 (Hitachi, Ltd.)**
-- P3: **HPCテック (HPCTECH)**
-- P4: **華為技術日本株式会社 (Huawei Technologies Japan K.K.)**
-- G1: **株式会社デンソーアイティ―ラボラトリ (DENSO IT Laboratory)**
-- G2: **株式会社センスタイムジャパン (Sense Time Japan Ltd.)**
-- G3: **LINEヤフー株式会社 (LY Corporation)**
-- G4: **オムロン株式会社 (OMRON Corporation)**
-- G5: **キャディ株式会社 (CADDi Inc.)**
-- G6: **株式会社ZOZO NEXT (ZOZO NEXT, Inc.)**
-- G7: **株式会社BuySell Technologies (BuySell Technologies Co., Ltd.)**
-- G8: **株式会社ネットコンパス (NetCOMPASS Ltd.)**
-- G9: **日本電信電話株式会社（NTT R&D） (NIPPON TELEGRAPH AND TELEPHONE CORPORATION)**
-- G10: **株式会社メルカリ (Mercari, inc.)**
-- G11: **Turing株式会社 (Turing Inc.)**
-- G12: **日産自動車株式会社 (Nissan Motor Co., Ltd.)**
-- G13: **株式会社東芝 (Toshiba corporation)**
-- G14: **SB Intuitions株式会社 (SB Intuitions Corp.)**
-- G15: **ダイキン工業株式会社 (DAIKIN INDUSTRIES, LTD.)**
-- G16: **株式会社ＮＴＴドコモ (NTT DOCOMO, INC.)**
-- G17: **株式会社tiwaki (tiwaki Co., Ltd.)**
-- G18: **Sansan株式会社 (Sansan, Inc.)**
-- G19: **Mantra株式会社 (Mantra Inc.)**
-- G20: **三菱重工業株式会社 (Mitsubishi Heavy Industries. Ltd.)**
-- G21: **日本電気株式会社 (NEC Corporation)**
-- G22: **住友重機械工業株式会社 (Sumitomo Heavy Industries, Ltd)**
-- G23: **株式会社本田技術研究所 (Honda R&D Co., Ltd.)**
+- EX-P1: **株式会社サイバーエージェント (CyberAgent, Inc.)**
+- EX-P2: **株式会社日立製作所 (Hitachi, Ltd.)**
+- EX-P3: **HPCテック (HPCTECH)**
+- EX-P4: **華為技術日本株式会社 (Huawei Technologies Japan K.K.)**
+- EX-G1: **株式会社デンソーアイティ―ラボラトリ (DENSO IT Laboratory)**
+- EX-G2: **株式会社センスタイムジャパン (Sense Time Japan Ltd.)**
+- EX-G3: **LINEヤフー株式会社 (LY Corporation)**
+- EX-G4: **オムロン株式会社 (OMRON Corporation)**
+- EX-G5: **キャディ株式会社 (CADDi Inc.)**
+- EX-G6: **株式会社ZOZO NEXT (ZOZO NEXT, Inc.)**
+- EX-G7: **株式会社BuySell Technologies (BuySell Technologies Co., Ltd.)**
+- EX-G8: **株式会社ネットコンパス (NetCOMPASS Ltd.)**
+- EX-G9: **日本電信電話株式会社（NTT R&D） (NIPPON TELEGRAPH AND TELEPHONE CORPORATION)**
+- EX-G10: **株式会社メルカリ (Mercari, inc.)**
+- EX-G11: **Turing株式会社 (Turing Inc.)**
+- EX-G12: **日産自動車株式会社 (Nissan Motor Co., Ltd.)**
+- EX-G13: **株式会社東芝 (Toshiba corporation)**
+- EX-G14: **SB Intuitions株式会社 (SB Intuitions Corp.)**
+- EX-G15: **ダイキン工業株式会社 (DAIKIN INDUSTRIES, LTD.)**
+- EX-G16: **株式会社ＮＴＴドコモ (NTT DOCOMO, INC.)**
+- EX-G17: **株式会社tiwaki (tiwaki Co., Ltd.)**
+- EX-G18: **Sansan株式会社 (Sansan, Inc.)**
+- EX-G19: **Mantra株式会社 (Mantra Inc.)**
+- EX-G20: **三菱重工業株式会社 (Mitsubishi Heavy Industries. Ltd.)**
+- EX-G21: **日本電気株式会社 (NEC Corporation)**
+- EX-G22: **住友重機械工業株式会社 (Sumitomo Heavy Industries, Ltd)**
+- EX-G23: **株式会社本田技術研究所 (Honda R&D Co., Ltd.)**
 - IT-05: Daichi Horita (Univ. of Tokyo), Naoto Inoue, Kotaro Kikuchi, Kota Yamaguchi (CyberAgent), Kiyoharu Aizawa (Univ. of Tokyo), **"Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation"**, [CVPR]
 - IT-06: Tianwei Chen, Yusuke Hirota (Osaka Univ.), Mayu Otani (CyberAgent), Noa Garcia, Yuta Nakashima (Osaka Univ.), **"Would Deep Generative Models Amplify Bias in Future Models?"**, [CVPR]
 - IT-07: Kosuke Sumiyasu, Kazuhiko Kawamoto, Hiroshi Kera (Chiba Univ.), **"Identifying Important Group of Pixels using Interactions"**, [CVPR]

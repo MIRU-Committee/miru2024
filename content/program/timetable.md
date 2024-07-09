@@ -1070,20 +1070,20 @@ title: "タイムテーブル"
 
 ## 16:20 - 18:20 インタラクティブ1A（IS-1A） / 企業展示A（EX-A） / デモ（DS）：3F大会議室A
 
-- S1: **GO株式会社**
-- S2: **グーグル合同会社**
-- S3: **チームラボ株式会社**
-- S4: **株式会社ELEMENTS**
-- S5: **ファーストアカウンティング株式会社**
-- S6: **エムスリー株式会社**
-- S7: **株式会社IMAGICA GROUP**
-- S8: **フューチャー株式会社**
-- S9: **八千代エンジニヤリング株式会社**
-- S10: **アジア航測株式会社**
-- S11: **株式会社アダコテック**
-- S12: **株式会社エクサウィザーズ**
-- S13: **データ・タング株式会社**
-- S14: **株式会社ジーデップ・アドバンス**
+- EX-S1: **GO株式会社**
+- EX-S2: **グーグル合同会社**
+- EX-S3: **チームラボ株式会社**
+- EX-S4: **株式会社ELEMENTS**
+- EX-S5: **ファーストアカウンティング株式会社**
+- EX-S6: **エムスリー株式会社**
+- EX-S7: **株式会社IMAGICA GROUP**
+- EX-S8: **フューチャー株式会社**
+- EX-S9: **八千代エンジニヤリング株式会社**
+- EX-S10: **アジア航測株式会社**
+- EX-S11: **株式会社アダコテック**
+- EX-S12: **株式会社エクサウィザーズ**
+- EX-S13: **データ・タング株式会社**
+- EX-S14: **株式会社ジーデップ・アドバンス**
 - DS-01: 中村大輝 (高清会高井病院), 増江達彦, 福田光希, 浅野尊比古 (岐阜県総合医療センター), Kim Wonjik, 野里博和 (産総研), **"YOLOv8を用いた乳児気管挿管時のリアルタイム声門認識システムの開発"**
 - DS-02: 村地遼平, 髙橋龍平, 大萩優哉, 中村雄大, 小島太一 (三菱電機), 國廣和樹 (三菱電機モビリティ), **"車載システム向けカメラでの脈拍推定技術の開発"**
 - DS-03: 石毛真修, 吉村康弘, 河野陽日, 岩見彰太, 米谷竜 (サイバーエージェント), **"オプトインカメラ: UWBデバイスを用いた位置推定に基づく映像中の人物同定とオプトインシステムへの応用"**
@@ -1239,33 +1239,33 @@ title: "タイムテーブル"
 
 ## 16:20 - 18:20 インタラクティブ1B（IS-1B） / 企業展示B（EX-B）：1F展示ホール
 
-- P1: **株式会社サイバーエージェント**
-- P2: **株式会社日立製作所**
-- P3: **HPCテック**
-- P4: **華為技術日本株式会社**
-- G1: **株式会社デンソーアイティ―ラボラトリ**
-- G2: **株式会社センスタイムジャパン**
-- G3: **LINEヤフー株式会社**
-- G4: **オムロン株式会社**
-- G5: **キャディ株式会社**
-- G6: **株式会社ZOZO NEXT**
-- G7: **株式会社BuySell Technologies**
-- G8: **株式会社ネットコンパス**
-- G9: **日本電信電話株式会社（NTT R&D）**
-- G10: **株式会社メルカリ**
-- G11: **Turing株式会社**
-- G12: **日産自動車株式会社**
-- G13: **株式会社東芝**
-- G14: **SB Intuitions株式会社**
-- G15: **ダイキン工業株式会社**
-- G16: **株式会社ＮＴＴドコモ**
-- G17: **株式会社tiwaki**
-- G18: **Sansan株式会社**
-- G19: **Mantra株式会社**
-- G20: **三菱重工業株式会社**
-- G21: **日本電気株式会社**
-- G22: **住友重機械工業株式会社**
-- G23: **株式会社本田技術研究所**
+- EX-P1: **株式会社サイバーエージェント**
+- EX-P2: **株式会社日立製作所**
+- EX-P3: **HPCテック**
+- EX-P4: **華為技術日本株式会社**
+- EX-G1: **株式会社デンソーアイティ―ラボラトリ**
+- EX-G2: **株式会社センスタイムジャパン**
+- EX-G3: **LINEヤフー株式会社**
+- EX-G4: **オムロン株式会社**
+- EX-G5: **キャディ株式会社**
+- EX-G6: **株式会社ZOZO NEXT**
+- EX-G7: **株式会社BuySell Technologies**
+- EX-G8: **株式会社ネットコンパス**
+- EX-G9: **日本電信電話株式会社（NTT R&D）**
+- EX-G10: **株式会社メルカリ**
+- EX-G11: **Turing株式会社**
+- EX-G12: **日産自動車株式会社**
+- EX-G13: **株式会社東芝**
+- EX-G14: **SB Intuitions株式会社**
+- EX-G15: **ダイキン工業株式会社**
+- EX-G16: **株式会社ＮＴＴドコモ**
+- EX-G17: **株式会社tiwaki**
+- EX-G18: **Sansan株式会社**
+- EX-G19: **Mantra株式会社**
+- EX-G20: **三菱重工業株式会社**
+- EX-G21: **日本電気株式会社**
+- EX-G22: **住友重機械工業株式会社**
+- EX-G23: **株式会社本田技術研究所**
 - IT-01: Nobuhiko Wakai, Satoshi Sato, Yasunori Ishii (Panasonic Holdings), Takayoshi Yamashita (Chubu Univ.), **"Deep Single Image Camera Calibration by Heatmap Regression to Recover Fisheye Images Under Manhattan World Assumption"**, [CVPR]
 - IT-02: Yuzuru Nakamura, Yasunori Ishii (Panasonic Holdings), Takayoshi Yamashita (Chubu Univ.), **"Active Domain Adaptation with False Negative Prediction for Object Detection"**, [CVPR]
 - IT-03: Shintaro Shiba (Keio Univ., TU Berlin), Friedhelm Hamann (TU Berlin), Yoshimitsu Aoki (Keio Univ.), Guillermo Gallego (TU Berlin), **"Event-Based Background-Oriented Schlieren"**, [TPAMI]
@@ -1421,20 +1421,20 @@ title: "タイムテーブル"
 
 ## 16:20 - 18:20 インタラクティブ2A（IS-2A） / 企業展示A（EX-A） / デモ（DS）：3F大会議室A
 
-- S1: **GO株式会社**
-- S2: **グーグル合同会社**
-- S3: **チームラボ株式会社**
-- S4: **株式会社ELEMENTS**
-- S5: **ファーストアカウンティング株式会社**
-- S6: **エムスリー株式会社**
-- S7: **株式会社IMAGICA GROUP**
-- S8: **フューチャー株式会社**
-- S9: **八千代エンジニヤリング株式会社**
-- S10: **アジア航測株式会社**
-- S11: **株式会社アダコテック**
-- S12: **株式会社エクサウィザーズ**
-- S13: **データ・タング株式会社**
-- S14: **株式会社ジーデップ・アドバンス**
+- EX-S1: **GO株式会社**
+- EX-S2: **グーグル合同会社**
+- EX-S3: **チームラボ株式会社**
+- EX-S4: **株式会社ELEMENTS**
+- EX-S5: **ファーストアカウンティング株式会社**
+- EX-S6: **エムスリー株式会社**
+- EX-S7: **株式会社IMAGICA GROUP**
+- EX-S8: **フューチャー株式会社**
+- EX-S9: **八千代エンジニヤリング株式会社**
+- EX-S10: **アジア航測株式会社**
+- EX-S11: **株式会社アダコテック**
+- EX-S12: **株式会社エクサウィザーズ**
+- EX-S13: **データ・タング株式会社**
+- EX-S14: **株式会社ジーデップ・アドバンス**
 - DS-01: 中村大輝 (高清会高井病院), 増江達彦, 福田光希, 浅野尊比古 (岐阜県総合医療センター), Kim Wonjik, 野里博和 (産総研), **"YOLOv8を用いた乳児気管挿管時のリアルタイム声門認識システムの開発"**
 - DS-02: 村地遼平, 髙橋龍平, 大萩優哉, 中村雄大, 小島太一 (三菱電機), 國廣和樹 (三菱電機モビリティ), **"車載システム向けカメラでの脈拍推定技術の開発"**
 - DS-03: 石毛真修, 吉村康弘, 河野陽日, 岩見彰太, 米谷竜 (サイバーエージェント), **"オプトインカメラ: UWBデバイスを用いた位置推定に基づく映像中の人物同定とオプトインシステムへの応用"**
@@ -1593,33 +1593,33 @@ title: "タイムテーブル"
 
 ## 16:20 - 18:20 インタラクティブ2B（IS-2B） / 企業展示B（EX-B）：1F展示ホール
 
-- P1: **株式会社サイバーエージェント**
-- P2: **株式会社日立製作所**
-- P3: **HPCテック**
-- P4: **華為技術日本株式会社**
-- G1: **株式会社デンソーアイティ―ラボラトリ**
-- G2: **株式会社センスタイムジャパン**
-- G3: **LINEヤフー株式会社**
-- G4: **オムロン株式会社**
-- G5: **キャディ株式会社**
-- G6: **株式会社ZOZO NEXT**
-- G7: **株式会社BuySell Technologies**
-- G8: **株式会社ネットコンパス**
-- G9: **日本電信電話株式会社（NTT R&D）**
-- G10: **株式会社メルカリ**
-- G11: **Turing株式会社**
-- G12: **日産自動車株式会社**
-- G13: **株式会社東芝**
-- G14: **SB Intuitions株式会社**
-- G15: **ダイキン工業株式会社**
-- G16: **株式会社ＮＴＴドコモ**
-- G17: **株式会社tiwaki**
-- G18: **Sansan株式会社**
-- G19: **Mantra株式会社**
-- G20: **三菱重工業株式会社**
-- G21: **日本電気株式会社**
-- G22: **住友重機械工業株式会社**
-- G23: **株式会社本田技術研究所**
+- EX-P1: **株式会社サイバーエージェント**
+- EX-P2: **株式会社日立製作所**
+- EX-P3: **HPCテック**
+- EX-P4: **華為技術日本株式会社**
+- EX-G1: **株式会社デンソーアイティ―ラボラトリ**
+- EX-G2: **株式会社センスタイムジャパン**
+- EX-G3: **LINEヤフー株式会社**
+- EX-G4: **オムロン株式会社**
+- EX-G5: **キャディ株式会社**
+- EX-G6: **株式会社ZOZO NEXT**
+- EX-G7: **株式会社BuySell Technologies**
+- EX-G8: **株式会社ネットコンパス**
+- EX-G9: **日本電信電話株式会社（NTT R&D）**
+- EX-G10: **株式会社メルカリ**
+- EX-G11: **Turing株式会社**
+- EX-G12: **日産自動車株式会社**
+- EX-G13: **株式会社東芝**
+- EX-G14: **SB Intuitions株式会社**
+- EX-G15: **ダイキン工業株式会社**
+- EX-G16: **株式会社ＮＴＴドコモ**
+- EX-G17: **株式会社tiwaki**
+- EX-G18: **Sansan株式会社**
+- EX-G19: **Mantra株式会社**
+- EX-G20: **三菱重工業株式会社**
+- EX-G21: **日本電気株式会社**
+- EX-G22: **住友重機械工業株式会社**
+- EX-G23: **株式会社本田技術研究所**
 - IT-05: Daichi Horita (Univ. of Tokyo), Naoto Inoue, Kotaro Kikuchi, Kota Yamaguchi (CyberAgent), Kiyoharu Aizawa (Univ. of Tokyo), **"Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation"**, [CVPR]
 - IT-06: Tianwei Chen, Yusuke Hirota (Osaka Univ.), Mayu Otani (CyberAgent), Noa Garcia, Yuta Nakashima (Osaka Univ.), **"Would Deep Generative Models Amplify Bias in Future Models?"**, [CVPR]
 - IT-07: Kosuke Sumiyasu, Kazuhiko Kawamoto, Hiroshi Kera (Chiba Univ.), **"Identifying Important Group of Pixels using Interactions"**, [CVPR]
