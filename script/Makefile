@@ -1,4 +1,6 @@
-.PHONY: filter test clean render
+.PHONY: filter test clean render all
+
+all: filter render
 
 filter:
 	python filter.py --src timetable0.csv --out timetable.csv

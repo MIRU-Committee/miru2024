@@ -31,8 +31,8 @@ def render_body(row, lang):
     authors = row['著者リスト']
 
     if row['SessionID'] == 'ES':
-        # If the paper is in the sponser session, don't show authors.
-        return f'- {poster_id}: **"{title}"**'
+        # If the paper is in the sponser session, don't show authors. Don't use `"` for title.
+        return f'- {poster_id}: **{title}**'
     elif row['SessionID'] == 'IT':
         # If the paper is in the top-conference session, add the conference/journal name.
         conf_name = row['会議・論文誌名の入力 | Enter the name of the conference/journal']
