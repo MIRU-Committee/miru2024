@@ -42,10 +42,11 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     session_ids = [
-        'IT',
-        'DS',
-        'IS1', 'IS2', 'IS3',
-        'OS1-A', 'OS1-B', 'OS1-C', 'OS1-D', 'OS1-E',
+        'ES', # Sponser 
+        'IT', # Invited talk, e.g., top-conference session
+        'DS', # Demo session
+        'IS1', 'IS2', 'IS3', # Interactive session = Poster session
+        'OS1-A', 'OS1-B', 'OS1-C', 'OS1-D', 'OS1-E', # Oral session
         'OS2-A', 'OS2-B', 'OS2-C', 'OS2-D',
         'OS3-A'
     ]
@@ -59,11 +60,15 @@ if __name__ == '__main__':
     # The columns are:
     # - SessionID
     #     - Seission ID, e.g., 'IT', 'DS', 'IS1', 'OS1-A'
-    # - IS-session
-    #     - Interactive session ID (Poster session ID), e.g., 'IS1-A', 'IS1-B', 'IS2-A', 'IS2-B', 'DS'
-    #     - For IS papers: e.g, "IS1" papers are divided into "IS1-A" and "IS1-B", and so on.
-    #     - For DS papers: "DS".
-    #     - For other papers: Poster session ID is assigned. E.g., "IS1-A" is assigned to "OS1-B"
+    # - IS-session. There is "sort order" for each category. We need to show them in this order.
+    #     - For ES: (No number after IS, meaning that they show for all the three days)
+    #         - 'IS-A-1_S03'. # "1" is the sort order. "S03" means the 3rd silver sponser.
+    #         - 'IS-B-1_P02'. # "1" is the sort order. "GP02" means the 2nd pratinum sponser.
+    #         - 'IS-B-2_G06'. # "2" is the sort order. "G06" means the 6th gold sponser.
+    #     - For DS: (No number after DS, meaning that they show for all the three days) 
+    #         - 'IS-A-2'. # "2" is the sort order.
+    #     - For IS, IT, and OS (Ther is number after IS, such as IS2. IS2 means the 2nd day)
+    #         - 'IS2-A-6'.   # "6" is the sort-order
     # - Poster ID
     #     - Unique ID. e.g., IS3-096
     # - Paper Title

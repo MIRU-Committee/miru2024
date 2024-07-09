@@ -16,20 +16,26 @@ def render_body(row, lang):
     """
     assert lang in ['jp', 'en'], f"Unknown language: {lang}"
 
-    poster_id = str(row['Poster ID'])
+    # Convert the pandas-row to a usual python dict. Empty cell will be an empty string.
+    row = row.fillna('').to_dict()
 
-    title = str(row['Paper Title'])
+    poster_id = row['Poster ID']
+
+    title = row['Paper Title']
 
     # If English title is available and render-language is English, add English title.
     # e.g., "強いトランスフォーマー (Strong Transformer)"
-    if type(row['英文タイトル | English title']) == str and lang == 'en' and row['英文タイトル | English title'] != row['Paper Title']:
-        title += " (" + str(row['英文タイトル | English title']) + ")"
+    if row['英文タイトル | English title'] and lang == 'en' and row['英文タイトル | English title'] != row['Paper Title']:
+        title += " (" + row['英文タイトル | English title'] + ")"
 
-    authors = str(row['著者リスト'])
+    authors = row['著者リスト']
 
-    if row['SessionID'] == 'IT':
+    if row['SessionID'] == 'ES':
+        # If the paper is in the sponser session, don't show authors.
+        return f'- {poster_id}: **"{title}"**'
+    elif row['SessionID'] == 'IT':
         # If the paper is in the top-conference session, add the conference/journal name.
-        conf_name = str(row['会議・論文誌名の入力 | Enter the name of the conference/journal'])
+        conf_name = row['会議・論文誌名の入力 | Enter the name of the conference/journal']
         return f'- {poster_id}: {authors}, **"{title}"**, [{conf_name}]'
     else:
         return f'- {poster_id}: {authors}, **"{title}"**'
@@ -48,6 +54,7 @@ if __name__ == '__main__':
     with open(args.template, 'r') as f:
         tmpl = f.read()
 
+    # Not interactive session
     session_ids = [
         'IT',
         'OS1-A', 'OS1-B', 'OS1-C', 'OS1-D', 'OS1-E',
@@ -55,8 +62,11 @@ if __name__ == '__main__':
         'OS3-A'
     ]
 
+    # Interactive session.
+    # IS-A means; All three days. A-session.
+    # IS2-B means: Second-day. B-session.
     interactive_session_ids = [
-        'DS',
+        'IS-A', 'IS-B',
         'IS1-A', 'IS1-B', 'IS2-A', 'IS2-B', 'IS3-A', 'IS3-B',
     ]
 
@@ -78,10 +88,9 @@ if __name__ == '__main__':
 
     # Do the similar things for interactive sessions.
     # For each interactive session, render the body of the papers and replace the placeholder.
-    # IT and OS papers are alos included here.
     for interactive_session_id in interactive_session_ids:
         body = ""
-        for _, row in df[df['IS-session'] == interactive_session_id].iterrows():
+        for _, row in df[df['IS-session'].str.startswith(interactive_session_id)].iterrows():
             body += render_body(row, args.lang) + '\n'
         tmpl = tmpl.replace(f"{{% {interactive_session_id} %}}", body)
 

@@ -1004,12 +1004,12 @@ title: "Timetable"
 
 ## 16:20 - 18:20 Interactive session 1A (IS-1A)  / Sponsor exhibition A (EX-A)  / Demo session (DS): 3F Conference Room A
 
-{% IS1-A %}{% DS %}
+{% IS-A %}{% IS1-A %}
 
 
 ## 16:20 - 18:20 Interactive session 1B (IS-1B)  / Sponsor exhibition B (EX-B): 1F Exhibition Hall
 
-{% IS1-B %}
+{% IS-B %}{% IS1-B %}
 
 ## 18:30 - 19:00 Town meeting: 4F Main Hall
 
@@ -1039,7 +1039,7 @@ title: "Timetable"
 
 ## 16:20 - 18:20 Interactive session 2A (IS-2A)  / Sponsor exhibition A (EX-A)  / Demo session (DS): 3F Conference Room A
 
-{% IS2-A %}{% DS %}
+{% IS-A %}{% IS2-A %}
 
 
 
@@ -1047,7 +1047,7 @@ title: "Timetable"
 
 ## 16:20 - 18:20 Interactive session 2B (IS-2B)  / Sponsor exhibition B (EX-B): 1F Exhibition Hall
 
-{% IS2-B %}
+{% IS-B %}{% IS2-B %}
 
 
 ## 19:00 - 21:00 Networking banquet: Hotel Nikko Kumamoto
