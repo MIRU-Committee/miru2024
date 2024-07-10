@@ -11,9 +11,8 @@ title: "Interactive presentation"
 # Time slot
 
 - One of August 7, 8, or 9 (during the interactive session).
-- You may leave your poster in place for the three days of the conference. 
-Please be sure to affix your poster before your presentation time. After your presentation, please remove it by yourself and take it home.
 - You cannot leave your poster up except on the day of your presentation.
+Please be sure to affix your poster before your presentation time. After your presentation, please remove it by yourself and take it home.
 
 # Size of Poster Panel
 
