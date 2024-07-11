@@ -94,6 +94,12 @@ canonifyURLs = true
     parent = "program"
     url = "https://sites.google.com/view/miru2024-internationallunch/"
 
+[[menu.main]]
+    name = "企業イベント"
+    weight = 6
+    parent = "program"
+    url = "/program/sponsor-events/"
+
 
 [[menu.main]]
     name = "特別企画"
@@ -210,6 +216,12 @@ canonifyURLs = true
     weight = 5
     parent = "program"
     url = "https://sites.google.com/view/miru2024-internationallunch/"
+
+[[languages.en.menu.main]]
+    name = "Sponsor events"
+    weight = 6
+    parent = "program"
+    url = "/en/program/sponsor-events/"
 
 
 [[languages.en.menu.main]]
