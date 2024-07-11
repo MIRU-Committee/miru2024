@@ -158,7 +158,7 @@ Due to the convenience of the venue, the number of exhibitors will be limited to
 - February 14, 2024: Sponsorship application begins
 - May 31, 2024: Sponsorship application deadline
 - June 30, 2024: Logo and video submission deadline
-- <del>July 5, 2024</del> July 12, 2024: Booklet and signboard check
+- <del>July 5, 2024</del> TBD: Booklet and signboard check
 
 ### Procedure
 
