@@ -8,8 +8,8 @@ title: "Oral presentation"
 
 # Presentation Preparation
 - Please bring your own PC for the presentation.
-<!-- - The available connectors for the projector are HDMI, D-sub, and USB-C. -->
 - On the day of your presentation, please inform the session chair of your attendance before the session begins.
+<!-- - The available connectors for the projector are HDMI, D-sub, and USB-C. -->
 <!-- - The projector in the main hall supports a 16:9 aspect ratio. -->
 
 # Monitor Connection Test
@@ -21,7 +21,7 @@ title: "Oral presentation"
 	- Friday, 9th: 8:30-8:55
 
 # Interactive Presentation
-- All presenters of oral presentations and invited talks are also asked to present in the interactive session. Please refer to the guidelines for interactive presentations here.
+- All presenters of oral presentations and invited talks are also asked to present in the interactive session. Please refer to the guidelines for interactive presentations [here](interactive).
 
 # Recording and Streaming of Presentations
 - At MIRU2024, presentations will be streamed live online and recorded for limited-time access exclusively to MIRU participants. Please understand and agree to the streaming and recording by the organizers in advance.
