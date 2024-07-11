@@ -32,7 +32,7 @@ TBD
 
 - If you do not want your poster to be photographed in the interactive session, please clearly indicate “No Photography” on your poster.
 
-# Inquiry about Interactive Presentations
+# Contact
 
 - Interactive/Demo chair: Yasutomo Kawanishi (RIKEN GRP)
 - e-mail: yasutomo.kawanishi ( @riken.jp )
