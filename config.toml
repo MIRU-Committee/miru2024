@@ -1,6 +1,5 @@
 languageCode = 'ja-jp'
-#baseURL = 'https://miru-committee.github.io/miru2024/'
-baseURL = 'http://ec2-54-238-219-28.ap-northeast-1.compute.amazonaws.com/miru2024/'
+baseURL = 'https://miru-committee.github.io/miru2024/'
 title = 'MIRU2024'
 theme = "main"
 defaultContentLanguage = 'ja'
