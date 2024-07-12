@@ -106,14 +106,14 @@ canonifyURLs = true
     name = "参加登録"
     weight = 1
     parent = "attend"
-    url = "attend/registration/"
+    url = "/attend/registration/"
 
 # ### TODO: 会場情報を載せる
 # [[menu.main]]
 #     name = "会場情報"
 #     weight = 2
 #     parent = "attend"
-#     url = "attend/map/"
+#     url = "/attend/map/"
 
 [[menu.main]]
     name = "託児室"
@@ -126,7 +126,7 @@ canonifyURLs = true
 #     name = "遠隔参加"
 #     weight = 4
 #     parent = "attend"
-#     url = "attend/slack/"
+#     url = "/attend/slack/"
 
 
 
@@ -335,7 +335,7 @@ canonifyURLs = true
 #     name = "会場情報"
 #     weight = 2
 #     parent = "attend"
-#     url = "/enattend/map/"
+#     url = "/en/attend/map/"
 
 [[languages.en.menu.main]]
     name = "Nursery room"
