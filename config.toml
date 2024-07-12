@@ -83,6 +83,25 @@ canonifyURLs = true
     url = "/program/tutorial/"
 
 [[menu.main]]
+    name = "ワークライフバランスイベント"
+    weight = 4
+    parent = "program"
+    url = "https://sites.google.com/view/miru2024wlb/"
+
+[[menu.main]]
+    name = "インターナショナルイベント"
+    weight = 5
+    parent = "program"
+    url = "https://sites.google.com/view/miru2024-internationallunch/"
+
+[[menu.main]]
+    name = "企業イベント"
+    weight = 6
+    parent = "program"
+    url = "/program/sponsor-events/"
+
+
+[[menu.main]]
     name = "特別企画"
     weight = 6
     identifier = "special"
@@ -98,6 +117,12 @@ canonifyURLs = true
     weight = 2
     parent = "special"
     url = "https://sites.google.com/view/miru2024wakate/"
+
+[[menu.main]]
+    name = "朝ランの会"
+    weight = 3
+    parent = "special"
+    url = "https://ohym.org/MIRU2024_Running.html"
 
 [[menu.main]]
     name = "発表"
@@ -199,6 +224,26 @@ canonifyURLs = true
     parent = "program"
     url = "/en/program/tutorial/"
 
+
+[[languages.en.menu.main]]
+    name = "Work life balance event"
+    weight = 4
+    parent = "program"
+    url = "https://sites.google.com/view/miru2024wlb/english"
+
+[[languages.en.menu.main]]
+    name = "International event"
+    weight = 5
+    parent = "program"
+    url = "https://sites.google.com/view/miru2024-internationallunch/"
+
+[[languages.en.menu.main]]
+    name = "Sponsor events"
+    weight = 6
+    parent = "program"
+    url = "/en/program/sponsor-events/"
+
+
 [[languages.en.menu.main]]
     name = "Special events"
     weight = 6
@@ -215,6 +260,14 @@ canonifyURLs = true
     weight = 2
     parent = "special"
     url = "https://sites.google.com/view/miru2024wakate/"
+
+
+[[languages.en.menu.main]]
+    name = "Morning Run Club"
+    weight = 3
+    parent = "special"
+    url = "https://ohym.org/MIRU2024_Running.html"
+
 
 [[languages.en.menu.main]]
     name = "Presentation"

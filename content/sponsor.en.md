@@ -74,9 +74,9 @@ Check out the table below for exhibition fees and benefits.
 </tr>
 <tr>
   <th scope="row">Booth spec</th>
-  <td>Desks x2<br>Chairs x4<br>Power 500W x2<br>Name board<br>Panel</td>
-  <td>Desks x2<br>Chairs x4<br>Power 500W x1<br>Name board<br>Panel</td>
-  <td>Desks x1<br>Chairs x2<br>Power 500W x1<br>Name board<br>Panel</td>
+  <td>Desks x2<br>Chairs x4<br>Power 500W x2<br>Name board<br>Back and side panel</td>
+  <td>Desks x2<br>Chairs x4<br>Power 500W x1<br>Name board<br>Back panel</td>
+  <td>Desks x1<br>Chairs x2<br>Power 500W x1<br>Name board<br>Back and side panel</td>
   <td>-</td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@ Check out the table below for exhibition fees and benefits.
 <tr>
   <th scope="row">Availability</th>
   <td>4</td>
-  <td>18</td>
+  <td>24</td>
   <td>20</td>
   <td>-</td>
 </tr>
@@ -107,7 +107,7 @@ Application
 Registration Privileges
 
 - Complimentary registration will be provided for an organization. It is possible to share the registration pass in the same organization.
-- Corporate participants can attend the main conference, corporate exhibitions, and sponsor events. Individual registration is required for presenters who will give oral, poster, or demonstration presentations at the conference.
+- Corporate participants can attend the main conference, corporate exhibitions, and sponsor events. Individual registration is required for presenters who will give oral, poster, or demonstration presentations at the conference. You may use the sponsor registration for the secondary presenter at the poster or demonstration session.
 - If you wish to increase the number of participants in the corporate exhibition or corporate event, please register separately as an individual.
 
 Exhibits
@@ -115,9 +115,10 @@ Exhibits
 - Corporate exhibits will be held on August 7 and 8. August 6 and August 9 are for logistics and setup.
 - The size of the desk is 1800 mm wide, 600 mm deep and 700 mm high.
 - The name board will be 900 mm wide and 200 mm high with monochrome printing.
+- The size of the back and side panels will be 900 mm wide, 2100 mm high arranged according to the booth space. Sponsors may use pins for attaching posters to the panels.
 - Free Wi-Fi will be available at the venue, but we cannot guarantee stable communication. If you require a stable network environment for your exhibit, please make your own arrangements.
 - If you require more power than is provided as the standard plan, please provide details on application.
-- We will provide an optional display for an additional fee of 99,000 yen for platinum and gold sponsors. The display size is 55'' for the platinum sponsor and 42'' for the gold sponsor. Please contact us for the details.
+- We will provide an optional display for an additional fee of 99,000 yen for platinum and gold sponsors. The display size is 55'' for the platinum sponsor and 42'' for the gold sponsor. Please contact us by June 30 for details.
 - A sponsor can arrange the booth layout. We show layout examples below:
 
 <div class="container text-center mb-4">
@@ -157,7 +158,7 @@ Due to the convenience of the venue, the number of exhibitors will be limited to
 - February 14, 2024: Sponsorship application begins
 - May 31, 2024: Sponsorship application deadline
 - June 30, 2024: Logo and video submission deadline
-- July 5, 2024: Booklet and signboard check
+- <del>July 5, 2024</del> TBD: Booklet and signboard check
 
 ### Procedure
 
