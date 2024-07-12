@@ -9,9 +9,9 @@ title: "Oral presentation"
 # Presentation Preparation
 - Please bring your own PC for the presentation.
 - On the day of your presentation, please inform the session chair of your attendance before the session begins.
+- You can put MIRU Logo on your presentation slide. Click [here]({{< ref "/organization/logo" >}}) for more info.
 <!-- - The available connectors for the projector are HDMI, D-sub, and USB-C. -->
 <!-- - The projector in the main hall supports a 16:9 aspect ratio. -->
-- You can put MIRU Logo on your presentation slide. Click [here]({{< ref "/organization/logo" >}}) for more info.
 
 # Monitor Connection Test
 - At MIRU2024, oral presentations will be streamed online. As there might be issues when connecting laptops to the projector, we kindly ask you to perform a connection test in advance.
