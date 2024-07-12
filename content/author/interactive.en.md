@@ -14,11 +14,12 @@ title: "Interactive presentation"
 - You cannot leave your poster up except on the day of your presentation.
 Please be sure to affix your poster before your presentation time. After your presentation, please remove it by yourself and take it home.
 
-# Size of Poster Panel
+# Poster specification
 
 - W900mm x H1800mm (Posters are in the A0 portrait size.)
 - Desks, chairs, and power supplies will not be provided.
 - Please bring your own poster. Posters cannot be carried in and out by courier companies.
+- You can put MIRU Logo on your poster. Click [here]({{< ref "/en/organization/logo" >}}) for more info.
 
 # Layout
 
