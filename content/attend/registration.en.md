@@ -11,6 +11,8 @@ MIRU2024 fully takes place on-site and in-person.
 
 When registering for MIRU2024, the following tiers are available.
 
+(We will prepare nametags for all registrants until July 18th, 14:00. We apologize for the inconvenince, but registrations after this will receive empty name tags where you can add your handwritten name and affiliation.)
+
 <table class="table">
 <thead class="table-dark">
 <tr>
@@ -73,8 +75,38 @@ In order to understand which registration categories you may be eligible for, pl
     2. You are only participating remotely.
 - You are eligible for "Senior" registration if you have been 65 years or older on April 1st, 2024.
 
-# FAQ
+# Notes
 
+- At least one author of each paper must register for a paid participation ("PRMU or CVIM Members" "Regular," "Student (On-site)," or "Senior").
+- One regular participant registration can be linked to multiple papers. There is no limit to the number of papers that can be linked. For example, if two students from the same lab each submit a paper as the first author, a supervising co-author should register as a regular participant and link all paper numbers. Students responsible for presentations must register under the "Student (On-site)" category.
+- <font color="red">Please complete the registration linked to all your papers by noon on July 8 (early registration deadline).</font>
+- For the paper number, please enter the Paper ID number displayed in Microsoft CMT. <font color="red">If you forget to enter the Paper ID, please contact Seibu Travel (miru@seibutravel.co.jp).</font>
+- <font color="red">Please note that cancellations after registration are not possible.</font>
+- The Extended Abstract is a closed document, so please do not redistribute it.
+
+# Payment Methods
+
+- Please make a credit card payment at the time of registration. (The only payment method available is credit card.)
+- For "Student (Online)" registrations, no payment is required as the participation fee is free.
+
+# Registration Process
+
+1. Please enter the required information on the application page and make a credit card payment.
+2. After registration and credit card payment, we will send your registration details via email.
+3. Regarding receipts, you are able to issue receipts yourself from the URL provided in the email. For more details on receipts, please read the FAQ below. (Please note that a "Student (Online)" registration, which is free of charge, does not have a receipt.)
+4. Later, we will send additional details on remote attendance and the download link for the Extended Abstract to your registered email address.
+
+# FAQ
+- **Q. About receipts**
+    - A. A URL for issuing receipts will be sent via email after registration. Please log in with your reception number and password. (Recommended browsers: Latest version of Microsoft Edge, Latest version of Firefox, Latest version of Google Chrome, Latest version of Safari)
+        - How to issue a receipt
+            1. After logging in, your registration details will be displayed.
+            2. Please enter the name and press the "確認する" button.
+            3. The confirmation screen will be displayed, so please check the contents and if there are no mistakes, press the "領収書を発行する" button.
+            4. The receipt issuance will be completed. The receipt PDF will be displayed in a new window or new tab, so please save the PDF. (If it is not displayed, please check if the popup is locked.)
+        - Notes　　
+            - Parts other than your name and title cannot be changed.
+            - In principle, the receipt can only be issued once. The issuance date will be displayed as the date you press the "領収書を発行する" button. If you issue the receipt more than once due to printing issues, it will be marked as reissued, and the issuance date will be updated each time, so please be aware of this in advance. (You can print up to 5 times from the URL. If you cannot issue the receipt after 5 times, please contact miru@seibutravel.co.jp.)
 - **Q. Do you accept payment by bank transfer or invoice?**
     - A. No, we can only allow payment by credit card.
 - **Q. Can you send a sale quotation?**
@@ -98,14 +130,12 @@ In order to understand which registration categories you may be eligible for, pl
 - **Q. I found out I cannot participate the event anymore. Can I refund?**
     - A. No, registrations are final and cannot be cancelled.
 - **Q. I want to confirm which category to register in.**
-    - A. Please check the page above. If you have any remaining questions, please reach out to the MIRU2024 organizing committee via [the contact form](https://forms.gle/NdqSrYM1DtYa15C66)..
-
+    - A. Please check the page above. If you have any remaining questions, please reach out to the MIRU2024 organizing committee via [the contact form](https://forms.gle/NdqSrYM1DtYa15C66).
 
 # Accompanying persons
 - Family of a registered participant who is junior high school age or younger can accompany the registrant for free. Note, that we also provide a nursery service for younger participants. Please check the information on the nursery service [here]({{< ref "/attend/nursery" >}}).
 - For participants with disabilities, diseases, pregnancy, or similar reasons needing an accompanying person, or if there are other reasons which might make you eligible for an accompanying person, please discuss your circumstances with the organizing team through this [contact form](https://forms.gle/NdqSrYM1DtYa15C66). 
 - Accompanying persons discussed above do not need to register. Accompanying persons are allowed to join the venue.
-
 
 # Contact
 
@@ -118,3 +148,9 @@ In order to understand which registration categories you may be eligible for, pl
     E-mail miru@seibutravel.co.jp
     [Opening times]　Mon-Fri 10:00～16:00 (excluding holidays and weekends)
     ```
+
+# Disclaimer
+- MIRU2024 does not compensate for any damages to participants caused by natural disasters or similar.
+- Communication fees required for remote attendance are the responsibility of the participant.
+- The copyrights for presentation materials (including text, images, videos, audio, etc.) belong entirely to the presenter. Reuse, modification, distribution, and broadcasting of these is prohibited.
+- Additionally, at the request of the presenter, capturing and recording may also be prohibited. If such actions or misuse are discovered, the MIRU Committee may ask the individual to refrain from participating in future conferences.
