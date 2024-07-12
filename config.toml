@@ -124,13 +124,35 @@ canonifyURLs = true
     parent = "special"
     url = "https://ohym.org/MIRU2024_Running.html"
 
+[[menu.main]]
+    name = "発表"
+    weight = 7
+    identifier = "presentation"
+    url = "/presentation/"
+
+[[menu.main]]
+    name = "オーラル発表"
+    weight = 1
+    parent = "presentation"
+    url = "/presentation/oral/"
+
+[[menu.main]]
+    name = "インタラクティブ発表"
+    weight = 2
+    parent = "presentation"
+    url = "/presentation/interactive/"
+
+[[menu.main]]
+    name = "デモ発表"
+    weight = 3
+    parent = "presentation"
+    url = "/presentation/demo/"
 
 [[menu.main]]
     name = "スポンサー"
-    weight = 7
+    weight = 8
     identifier = "/sponsor/"
     url = "/sponsor/"
-
 
 [[languages.en.menu.main]]
     name = "About MIRU"
@@ -154,8 +176,6 @@ canonifyURLs = true
     weight = 3
     parent = "about"
     url = "/en/about/call_for_invited_talk/"
-
-
 
 [[languages.en.menu.main]]
     name = "Submission"
@@ -241,6 +261,7 @@ canonifyURLs = true
     parent = "special"
     url = "https://sites.google.com/view/miru2024wakate/"
 
+
 [[languages.en.menu.main]]
     name = "Morning Run Club"
     weight = 3
@@ -248,10 +269,33 @@ canonifyURLs = true
     url = "https://ohym.org/MIRU2024_Running.html"
 
 
+[[languages.en.menu.main]]
+    name = "Presentation"
+    weight = 7
+    identifier = "presentation"
+    url = "/en/presentation/"
+
+[[languages.en.menu.main]]
+    name = "Oral"
+    weight = 1
+    parent = "presentation"
+    url = "/en/presentation/oral/"
+
+[[languages.en.menu.main]]
+    name = "Interactive"
+    weight = 2
+    parent = "presentation"
+    url = "/en/presentation/interactive/"
+
+[[languages.en.menu.main]]
+    name = "Demo"
+    weight = 3
+    parent = "presentation"
+    url = "/en/presentation/demo/"
 
 [[languages.en.menu.main]]
     name = "Sponsor"
-    weight = 7
+    weight = 8
     identifier = "/en/sponsor/"
     url = "/en/sponsor/"
 
