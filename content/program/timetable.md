@@ -1392,7 +1392,12 @@ title: "タイムテーブル"
 
 
 ## 12:20 - 13:30 企業イベント企画：3F中会議室B
+- [(株)HPCテック：生成AIやデジタルツインの研究開発を加速するための最新技術と応用事例]({{< ref "/program/sponsor-events" >}})
+
 ## 12:20 - 13:30 企業イベント企画：3F中会議室E
+- [株式会社サイバーエージェント：TBA]({{< ref "/program/sponsor-events" >}})
+
+
 ## 13:30 - 14:30 オーラル2C（OS-2C）：4Fメインホール
 
 - OS2-C-01: Ryota Ishizaki, Shunya Yamagami, Yuta Goto, Go Irie (Tokyo Univ. of Science), **"Linear Calibration Approach to Knowledge-free Group-Robust Classification"**
