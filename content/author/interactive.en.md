@@ -19,7 +19,7 @@ Please be sure to affix your poster before your presentation time. After your pr
 - W900mm x H1800mm (Posters are in the A0 portrait size.)
 - Desks, chairs, and power supplies will not be provided.
 - Please bring your own poster. Posters cannot be carried in and out by courier companies.
-- You can put MIRU Logo on your poster. Click [here]({{< ref "/organization/logo.en.md" >}}) for more info.
+- You can put MIRU Logo on your poster. Click [here]({{< ref "/organization/logo" >}}) for more info.
 
 # Layout
 
