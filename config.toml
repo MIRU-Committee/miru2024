@@ -10,57 +10,132 @@ canonifyURLs = true
     [markup.goldmark.renderer]
       unsafe = true
 
-[[menu.main]]
-    name = "MIRUについて"
-    weight = 1
-    identifier = "about"
+# ===============================
+
 
 [[menu.main]]
-    name = "プログラム編成方針"
+    name = "組織"
     weight = 1
-    parent = "about"
-    url = "/about/program_policy/"
+    identifier = "organization"
 
 [[menu.main]]
-    name = "選奨規定"
+    name = "実行委員会"
+    weight = 1
+    parent = "organization"
+    url = "/organization/committee/"
+
+[[menu.main]]
+    name = "ロゴについて"
     weight = 2
-    parent = "about"
-    url = "/about/selection_criteria/"
+    parent = "organization"
+    url = "/organization/logo/"
 
 [[menu.main]]
-    name = "招待講演推薦"
+    name = "お問い合わせ"
     weight = 3
-    parent = "about"
-    url = "/about/call_for_invited_talk/"
+    parent = "organization"
+    url = "https://forms.gle/NdqSrYM1DtYa15C66"
 
+# ===============================
+
+[[menu.main]]
+    name = "著者"
+    weight = 2
+    identifier = "author"
 
 [[menu.main]]
     name = "投稿"
+    weight = 1
+    parent = "author"
+    url = "/author/submission/"
+
+[[menu.main]]
+    name = "オーラル発表"
     weight = 2
-    identifier = "/submission/"
-    url = "/submission/"
+    parent = "author"
+    url = "/author/oral/"
 
 [[menu.main]]
-    name = "参加登録"
+    name = "インタラクティブ発表"
     weight = 3
-    identifier = "/registration/"
-    url = "/registration/"
+    parent = "author"
+    url = "/author/interactive/"
 
 [[menu.main]]
-    name = "現地参加"
+    name = "デモ発表"
     weight = 4
+    parent = "author"
+    url = "/author/demo/"
+
+# ### TODO: 表彰情報のページを作る
+# [[menu.main]]
+#     name = "表彰"
+#     weight = 5
+#     parent = "author"
+#     url = "/author/award/"
+
+
+[[menu.main]]
+    name = "プログラム編成方針"
+    weight = 6
+    parent = "author"
+    url = "/author/program_policy/"
+
+[[menu.main]]
+    name = "選奨規定"
+    weight = 7
+    parent = "author"
+    url = "/author/selection_criteria/"
+
+[[menu.main]]
+    name = "招待講演推薦"
+    weight = 8
+    parent = "author"
+    url = "/author/call_for_invited_talk/"
+
+
+# ===============================
+
+
+[[menu.main]]
+    name = "参加"
+    weight = 3
     identifier = "attend"
 
 [[menu.main]]
-    name = "託児室"
+    name = "参加登録"
     weight = 1
     parent = "attend"
+    url = "attend/registration/"
+
+# ### TODO: 会場情報を載せる
+# [[menu.main]]
+#     name = "会場情報"
+#     weight = 2
+#     parent = "attend"
+#     url = "attend/map/"
+
+[[menu.main]]
+    name = "託児室"
+    weight = 3
+    parent = "attend"
     url = "/attend/nursery/"
+
+# ### TODO: slack等の遠隔参加情報を載せる
+# [[menu.main]]
+#     name = "遠隔参加"
+#     weight = 4
+#     parent = "attend"
+#     url = "attend/slack/"
+
+
+
+# ===============================
 
 
 [[menu.main]]
     name = "プログラム"
-    weight = 5
+    weight = 4
     identifier = "program"
 
 [[menu.main]]
@@ -99,110 +174,190 @@ canonifyURLs = true
     parent = "program"
     url = "/program/sponsor-events/"
 
+# ### TODO: タウンミーティングのページを作る？
+# [[menu.main]]
+#     name = "タウンミーティング"
+#     weight = 7
+#     parent = "program"
+#     url = "/program/town-meeting/"
 
-[[menu.main]]
-    name = "特別企画"
-    weight = 6
-    identifier = "special"
+# ### TODO: 特別企画のページを作る？
+# [[menu.main]]
+#     name = "特別企画"
+#     weight = 8
+#     parent = "program"
+#     url = "/program/special-event/"
 
 [[menu.main]]
     name = "メンターシッププログラム"
-    weight = 1
-    parent = "special"
+    weight = 9
+    parent = "program"
     url = "https://sites.google.com/view/prmu-rmp/miru"
 
 [[menu.main]]
     name = "若手プログラム"
-    weight = 2
-    parent = "special"
+    weight = 10
+    parent = "program"
     url = "https://sites.google.com/view/miru2024wakate/"
 
 [[menu.main]]
     name = "朝ランの会"
-    weight = 3
-    parent = "special"
+    weight = 11
+    parent = "program"
     url = "https://ohym.org/MIRU2024_Running.html"
 
-[[menu.main]]
-    name = "発表"
-    weight = 7
-    identifier = "presentation"
-    url = "/presentation/"
 
-[[menu.main]]
-    name = "オーラル発表"
-    weight = 1
-    parent = "presentation"
-    url = "/presentation/oral/"
+# ===============================
 
-[[menu.main]]
-    name = "インタラクティブ発表"
-    weight = 2
-    parent = "presentation"
-    url = "/presentation/interactive/"
-
-[[menu.main]]
-    name = "デモ発表"
-    weight = 3
-    parent = "presentation"
-    url = "/presentation/demo/"
 
 [[menu.main]]
     name = "スポンサー"
-    weight = 8
+    weight = 5
     identifier = "/sponsor/"
     url = "/sponsor/"
 
-[[languages.en.menu.main]]
-    name = "About MIRU"
-    weight = 1
-    identifier = "about"
+# ===============================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ===============================
+
 
 [[languages.en.menu.main]]
-    name = "Program policy"
+    name = "Organization"
     weight = 1
-    parent = "about"
-    url = "/en/about/program_policy/"
+    identifier = "organization"
 
 [[languages.en.menu.main]]
-    name = "Award Selection Criteria"
+    name = "Program committee"
+    weight = 1
+    parent = "organization"
+    url = "/en/organization/committee/"
+
+[[languages.en.menu.main]]
+    name = "About logo"
     weight = 2
-    parent = "about"
-    url = "/en/about/selection_criteria/"
+    parent = "organization"
+    url = "/en/organization/logo/"
 
 [[languages.en.menu.main]]
-    name = "Call for Invited Talk"
+    name = "Contact"
     weight = 3
-    parent = "about"
-    url = "/en/about/call_for_invited_talk/"
+    parent = "organization"
+    url = "https://forms.gle/NdqSrYM1DtYa15C66"
+
+# ===============================
+
+[[languages.en.menu.main]]
+    name = "Author"
+    weight = 2
+    identifier = "author"
 
 [[languages.en.menu.main]]
     name = "Submission"
-    weight = 2
-    identifier = "/en/submission/"
-    url = "/en/submission/"
+    weight = 1
+    parent = "author"
+    url = "/en/author/submission/"
 
 [[languages.en.menu.main]]
-    name = "Registration"
+    name = "Oarl"
+    weight = 2
+    parent = "author"
+    url = "/en/author/oral/"
+
+[[languages.en.menu.main]]
+    name = "Interactive"
     weight = 3
-    identifier = "/en/registration/"
-    url = "/en/registration/"
+    parent = "author"
+    url = "/en/author/interactive/"
+
+[[languages.en.menu.main]]
+    name = "Demo"
+    weight = 4
+    parent = "author"
+    url = "/en/author/demo/"
+
+# ### TODO: 表彰情報のページを作る
+# [[languages.en.menu.main]]
+#     name = "表彰"
+#     weight = 5
+#     parent = "author"
+#     url = "/en/author/award/"
+
+
+[[languages.en.menu.main]]
+    name = "Program policy"
+    weight = 6
+    parent = "author"
+    url = "/en/author/program_policy/"
+
+[[languages.en.menu.main]]
+    name = "Award Selection Criteria"
+    weight = 7
+    parent = "author"
+    url = "/en/author/selection_criteria/"
+
+[[languages.en.menu.main]]
+    name = "Call for Invited Talk"
+    weight = 8
+    parent = "author"
+    url = "/en/author/call_for_invited_talk/"
+
+
+# ===============================
+
 
 [[languages.en.menu.main]]
     name = "Attend"
-    weight = 4
+    weight = 3
     identifier = "attend"
 
 [[languages.en.menu.main]]
-    name = "Nursery room"
+    name = "Registration"
     weight = 1
     parent = "attend"
+    url = "/en/attend/registration/"
+
+# ### TODO: 会場情報を載せる
+# [[languages.en.menu.main]]
+#     name = "会場情報"
+#     weight = 2
+#     parent = "attend"
+#     url = "/enattend/map/"
+
+[[languages.en.menu.main]]
+    name = "Nursery room"
+    weight = 3
+    parent = "attend"
     url = "/en/attend/nursery/"
+
+# ### TODO: slack等の遠隔参加情報を載せる
+# [[languages.en.menu.main]]
+#     name = "遠隔参加"
+#     weight = 4
+#     parent = "attend"
+#     url = "/en/attend/slack/"
+
+
+
+# ===============================
 
 
 [[languages.en.menu.main]]
     name = "Program"
-    weight = 5
+    weight = 4
     identifier = "program"
 
 [[languages.en.menu.main]]
@@ -223,7 +378,6 @@ canonifyURLs = true
     parent = "program"
     url = "/en/program/tutorial/"
 
-
 [[languages.en.menu.main]]
     name = "Work life balance event"
     weight = 4
@@ -242,61 +396,58 @@ canonifyURLs = true
     parent = "program"
     url = "/en/program/sponsor-events/"
 
+# ### TODO: タウンミーティングのページを作る？
+# [[languages.en.menu.main]]
+#     name = "タウンミーティング"
+#     weight = 7
+#     parent = "program"
+#     url = "/en/program/town-meeting/"
 
-[[languages.en.menu.main]]
-    name = "Special events"
-    weight = 6
-    identifier = "special"
+# ### TODO: 特別企画のページを作る？
+# [[languages.en.menu.main]]
+#     name = "特別企画"
+#     weight = 8
+#     parent = "program"
+#     url = "/en/program/special-event/"
 
 [[languages.en.menu.main]]
     name = "Mentorship program"
-    weight = 1
-    parent = "special"
+    weight = 9
+    parent = "program"
     url = "https://sites.google.com/view/prmu-rmp/miru"
 
 [[languages.en.menu.main]]
     name = "Wakate program"
-    weight = 2
-    parent = "special"
+    weight = 10
+    parent = "program"
     url = "https://sites.google.com/view/miru2024wakate/"
-
 
 [[languages.en.menu.main]]
     name = "Morning Run Club"
-    weight = 3
-    parent = "special"
+    weight = 11
+    parent = "program"
     url = "https://ohym.org/MIRU2024_Running.html"
 
 
-[[languages.en.menu.main]]
-    name = "Presentation"
-    weight = 7
-    identifier = "presentation"
-    url = "/en/presentation/"
+# ===============================
 
 [[languages.en.menu.main]]
-    name = "Oral"
-    weight = 1
-    parent = "presentation"
-    url = "/en/presentation/oral/"
-
-[[languages.en.menu.main]]
-    name = "Interactive"
-    weight = 2
-    parent = "presentation"
-    url = "/en/presentation/interactive/"
-
-[[languages.en.menu.main]]
-    name = "Demo"
-    weight = 3
-    parent = "presentation"
-    url = "/en/presentation/demo/"
-
-[[languages.en.menu.main]]
-    name = "Sponsor"
-    weight = 8
-    identifier = "/en/sponsor/"
+    name = "Sponser"
+    weight = 5
+    identifier = "/sponsor/"
     url = "/en/sponsor/"
+
+# ===============================
+
+
+
+
+
+
+
+
+
+
 
 [languages]
 [languages.ja]
