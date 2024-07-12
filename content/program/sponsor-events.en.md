@@ -16,10 +16,14 @@ Speaker: Nobuyuki Hirooka, Senior Manager of Business Development, NVIDIA
 - How to attend: Directly come to the room, no RSVP required (up to 100 seats)
 - Note: Lunch will be served
 
-# TBA
+# Roundtable lunch hosted by CyberAgent
 
-- Sponsor: CyberAgent
+**Roundtable discussion with young research engineers**
+
+Join a lunch discussion with our research scientists (AI lab) and machine learning engineers/data scientists. This is a great opportunity for students to get a real feel for how we work at CyberAgent. Ask questions in small groups.
+
+- Organizer: CyberAgent, Inc.
 - Date and time: 12:20-13:30, Aug 8, 2024
-- Location: 3F Conference room E
-- How to attend：TBA
-- Note: Lunch will be served
+- Location: 3F Conference Room E
+- How to attend: Please register at [connpass event page](https://connpass.com/event/323387)
+- Note: Lunch boxes will be served
