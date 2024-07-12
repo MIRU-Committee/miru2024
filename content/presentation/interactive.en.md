@@ -5,7 +5,7 @@ title: "Interactive presentation"
 # Presenters of Interactive Presentations
 
 - Authors of oral papers
-- Authors of general papers
+- Authors of poster papers
 - Invited presenters
 
 # Time slot
