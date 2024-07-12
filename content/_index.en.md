@@ -8,12 +8,12 @@ The "Meeting on Image Recognition and Understanding", short "MIRU", is the large
 - **2024.07.10**: The [detailed timetable](program/timetable) is posted.
 - **2024.07.01**: The registration for the [nursery room](attend/nursery) has started. Please register before July 25th.
 - **2024.06.28**: [The assignment for each presentation](program/timetable) has been released. Please let us know via the [provided form](https://forms.gle/NdqSrYM1DtYa15C66) if the assigned time slot is inconvenient.
-- **2024.06.25**: [Registration](registration) has started.
+- **2024.06.25**: [Registration](attend/registration) has started.
 - **2024.06.24**: The [work life balance event](https://sites.google.com/view/miru2024wlb/english) has been announced. If you wish to participate, please [register](https://forms.gle/ix3vYhxYPmRAueZ86) (first come, first served). 
 - **2024.06.20**: The [international lunch event](https://sites.google.com/view/miru2024-internationallunch/) has been announced. If you wish to participate, please [register](https://forms.gle/nuiFwZ4hTuijgQ79A) (first come, first served). 
-- **2024.06.17**: We added [an FAQ to the registration page](registration#faq). The registration will be available from end of June. Also, we published information on [nursery room](attend/nursery) facilities available at MIRU2024. The registration for the nursery room will start soon.
-- **2024.05.27**: We have started [accepting submissions for poster track papers](submission). The deadline is June 24, 2024.
-- **2024.05.22**: We have started [accepting recommendations for invited talks](about/call_for_invited_talk). The deadline is June 24, 2024.
+- **2024.06.17**: We added [an FAQ to the registration page](attend/registration#faq). The registration will be available from end of June. Also, we published information on [nursery room](attend/nursery) facilities available at MIRU2024. The registration for the nursery room will start soon.
+- **2024.05.27**: We have started [accepting submissions for poster track papers](author/submission). The deadline is June 24, 2024.
+- **2024.05.22**: We have started [accepting recommendations for invited talks](author/call_for_invited_talk). The deadline is June 24, 2024.
 - **2024.05.16**: [Timetable](program/timetable) is posted.
 - **2024.05.16**: [Keynote](program/keynote) is posted.
 - **2024.05.09**: [Wakate program](https://sites.google.com/view/miru2024wakate/) is posted.
@@ -32,28 +32,6 @@ The "Meeting on Image Recognition and Understanding", short "MIRU", is the large
 - [Kumamoto-jo Hall (3-40, Sakuramachi, Chuo-ku, Kumamoto-city, Kumamoto, 860-0805)](https://www.kumamoto-jo-hall.jp/en/)
 
 ---
-
-## Organizing commitee
-- General chair: Kunio Kashino (NTT), Masayuki Tanaka (TITech)
-- Program chair: Takuya Funatomi (NAIST), Takayoshi Yamashita (Chubu Univ.)
-- Program co-chair: Yuki Fujimura (NAIST)
-- Executive chair: Go Irie (Tokyo Univ. of Science), Takashi Shibata (NEC)
-- Executive co-chair: Satoshi Ikehata (NII), Yuta Asano (NII)
-- Organization chair: Ken Tsutsuguchi (Sojo Univ.)
-- Organization co-chair: Takumi Uemura (Sojo Univ.)
-- Finance chair: Kei Shimonishi (Kyoto Univ.)
-- Publicity chair: Yusuke Matsui (Univ. of Tokyo)
-- Publication chair: Kensho Hara (AIST)
-- Tutorial chair: Nakamasa Inoue (TITech)
-- Interactive session and demo chair: Yasutomo Kawanishi (RIKEN)
-- Young researcher program chair: Naoya Chiba (Tohoku Univ.)
-- Corporate relation chair: Kota Yamaguchi (CyberAgent)
-- Diversity and work-life balance chair: Asako Kanezaki (TITech), Marc A. Kastner (Kyoto Univ.)
-- Mentorship chair: Hirokatsu Kataoka (AIST)
-- Mentorship co-chair: Takuma Yagi (AIST)
-
----
-
 
 ## Affiliated organizations
 - Main: [Technical Committee on Pattern Recognition and Media Understanding, Institute of Electronics, Information and Communication Engineers](https://www.ieice.org/iss/prmu/jpn/index.html)
@@ -75,10 +53,6 @@ The "Meeting on Image Recognition and Understanding", short "MIRU", is the large
 
 ---
 
-## Contact
-Future contact link will come [here](https://forms.gle/NdqSrYM1DtYa15C66).
-
----
 
 ## Previous events
 - [MIRU2023](http://cvim.ipsj.or.jp/MIRU2023/)

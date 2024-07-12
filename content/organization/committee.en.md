@@ -1,0 +1,21 @@
+---
+title: "Organizing commitee"
+---
+
+- General chair: Kunio Kashino (NTT), Masayuki Tanaka (TITech)
+- Program chair: Takuya Funatomi (NAIST), Takayoshi Yamashita (Chubu Univ.)
+- Program co-chair: Yuki Fujimura (NAIST)
+- Executive chair: Go Irie (Tokyo Univ. of Science), Takashi Shibata (NEC)
+- Executive co-chair: Satoshi Ikehata (NII), Yuta Asano (NII)
+- Organization chair: Ken Tsutsuguchi (Sojo Univ.)
+- Organization co-chair: Takumi Uemura (Sojo Univ.)
+- Finance chair: Kei Shimonishi (Kyoto Univ.)
+- Publicity chair: Yusuke Matsui (Univ. of Tokyo)
+- Publication chair: Kensho Hara (AIST)
+- Tutorial chair: Nakamasa Inoue (TITech)
+- Interactive session and demo chair: Yasutomo Kawanishi (RIKEN)
+- Young researcher program chair: Naoya Chiba (Tohoku Univ.)
+- Corporate relation chair: Kota Yamaguchi (CyberAgent)
+- Diversity and work-life balance chair: Asako Kanezaki (TITech), Marc A. Kastner (Kyoto Univ.)
+- Mentorship chair: Hirokatsu Kataoka (AIST)
+- Mentorship co-chair: Takuma Yagi (AIST)
