@@ -70,6 +70,7 @@ In order to understand which registration categories you may be eligible for, pl
         - [Registration page](https://www.ieice.org/jpn_r/event/kenkyukai/registration_fee.html?id=iss)
         - [Registration guide](https://www.ieice.org/cs/kensen/special/e_gihou/files/regist_payment.pdf)
     1. You are a supporting member of an organization which registered for an organization group which registered for Special Interest Group on Computer Vision and Image Media (CVIM) in 2024. In this case your organization group has a limited amount of registration slots. Please make sure within your organization if the quota is still available.
+        - Example: Company A has 5 registrations as supporting members at IPSJ. If 3 registrations are used for CVIM 2024 annual memberships, up to 3 employees of the company can register using the "PRMU or CVIM Members" registration bracket.
 - You are eligible for "Student (Online)" registration if BOTH following points are true. If either point is false, please register for "Student (On-site)".
     1. You are not an (co-)author of any presentation at this event.
     2. You are only participating remotely.
