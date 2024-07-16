@@ -153,4 +153,4 @@ In order to understand which registration categories you may be eligible for, pl
 - MIRU2024 does not compensate for any damages to participants caused by natural disasters or similar.
 - Communication fees required for remote attendance are the responsibility of the participant.
 - The copyrights for presentation materials (including text, images, videos, audio, etc.) belong entirely to the presenter. Reuse, modification, distribution, and broadcasting of these is prohibited.
-- Additionally, at the request of the presenter, capturing and recording may also be prohibited. If such actions or misuse are discovered, the MIRU Committee may ask the individual to refrain from participating in future conferences.
+- Additionally, at the request of the presenter, capturing and recording may also be prohibited. If such actions or misuse are discovered, the MIRU Committee may ask the individual to refrain from participating for the rest of the conference.
