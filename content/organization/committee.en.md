@@ -16,6 +16,6 @@ title: "Organizing commitee"
 - Interactive session and demo chair: Yasutomo Kawanishi (RIKEN)
 - Young researcher program chair: Naoya Chiba (Tohoku Univ.)
 - Corporate relation chair: Kota Yamaguchi (CyberAgent)
-- Diversity and work-life balance chair: Asako Kanezaki (TITech), Marc A. Kastner (Kyoto Univ.)
+- Diversity and work-life balance chair: Asako Kanezaki (TITech), Marc A. Kastner (Hiroshima City Univ.)
 - Mentorship chair: Hirokatsu Kataoka (AIST)
 - Mentorship co-chair: Takuma Yagi (AIST)
