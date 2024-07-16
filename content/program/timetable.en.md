@@ -1242,6 +1242,7 @@ title: "Timetable"
 - IT-02: Yuzuru Nakamura, Yasunori Ishii (Panasonic Holdings), Takayoshi Yamashita (Chubu Univ.), **"Active Domain Adaptation with False Negative Prediction for Object Detection"**, [CVPR]
 - IT-03: Shintaro Shiba (Keio Univ., TU Berlin), Friedhelm Hamann (TU Berlin), Yoshimitsu Aoki (Keio Univ.), Guillermo Gallego (TU Berlin), **"Event-Based Background-Oriented Schlieren"**, [TPAMI]
 - IT-04: Lang Huang (Univ. of Tokyo), Chao Zhang (Peking Univ.), Hongyang Zhang (Univ. of Waterloo), **"Self-Adaptive Training: Bridging Supervised and Self-Supervised Learning"**, [TPAMI]
+- IT-17: Qingxiuxiong Dong, Toshimitsu Kaneko (Toshiba), Masashi Sugiyama (Riken, Univ. of Tokyo), **"An Offline Learning of Behavior Correction Policy for Vision-Based Robotic Manipulation"**, [ICRA]
 - IT-18: Takahiro Maeda, Norimichi Ukita (Toyota Technological Institute), **"Fast Inference and Update of Probabilistic Density Estimation on Trajectory Prediction"**, [ICCV]
 - IT-19: Xu Cao, Takafumi Taketomi (CyberAgent), **"SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration"**, [CVPR]
 - OS1-E-01: Jiafeng Mao (The University of Tokyo)*; Xueting Wang (CyberAgent, Inc.); Kiyoharu Aizawa (The University of Tokyo), **"Towards Semantic-Driven Initialization: Winning Tickets in Initial Noise"**
@@ -1808,7 +1809,6 @@ title: "Timetable"
 - IT-14: Soichiro Kumano (Univ. of Tokyo), Hiroshi Kera (Chiba Univ.), Toshihiko Yamasaki (Univ. of Tokyo), **"Theoretical Understanding of Learning from Adversarial Perturbations"**, [ICLR]
 - IT-15: Atsuyuki Miyai (Univ. of Tokyo), Qing Yu (LY , Univ. of Tokyo), Go Irie (Tokyo Univ. of Science), Kiyoharu Aizawa (Univ. of Tokyo), **"LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning"**, [NeurIPS]
 - IT-16: Yuki Fujimura (NAIST), Masaaki Iiyama (Shiga Univ.), Takuya Funatomi, Yasuhiro Mukaigawa (NAIST), **"Deep Depth from Focal Stack with Defocus Model for Camera-Setting Invariance"**, [IJCV]
-- IT-17: Qingxiuxiong Dong, Toshimitsu Kaneko (Toshiba), Masashi Sugiyama (Riken, Univ. of Tokyo), **"An Offline Learning of Behavior Correction Policy for Vision-Based Robotic Manipulation"**, [ICRA]
 - IS3-073: Takuya Tsujimura (osaka metropolitan university)*; Katsufumi Inoue (Osaka Metropolitan University); Michifumi Yoshioka (Osaka Metropolitan University); Toshihiro Yamada (Hokkaido University), **"スタイル変換とフラクタル画像を用いた植物化石検出手法の検討 (Examination of Method for Detecting Plant Fossils Using Style Transfer and Fractal Images)"**
 - IS3-074: Yuki Nishimura (TOSHIBA CORPORATION)*; Ryota Sekiya (TOSHIBA CORPORATION); Hiroki Mori (TOSHIBA CORPORATION), **"合成開口レーダ画像向けニューラルネットワークにおける​少量訓練データ対策の有効性検証 (Verification of the Effectiveness of Measures to Train Neural Network for Synthetic Aperture Radar Images by Limited Data)"**
 - IS3-075: 清水一樹, 遠里由佳子 (立命館大), **"潜在拡散モデルと自己注意ガイダンスによる線⾍の動画像の異常検知"**

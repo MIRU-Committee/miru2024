@@ -976,6 +976,7 @@ title: "タイムテーブル"
 - IT-02: Yuzuru Nakamura, Yasunori Ishii (Panasonic Holdings), Takayoshi Yamashita (Chubu Univ.), **"Active Domain Adaptation with False Negative Prediction for Object Detection"**, [CVPR]
 - IT-03: Shintaro Shiba (Keio Univ., TU Berlin), Friedhelm Hamann (TU Berlin), Yoshimitsu Aoki (Keio Univ.), Guillermo Gallego (TU Berlin), **"Event-Based Background-Oriented Schlieren"**, [TPAMI]
 - IT-04: Lang Huang (Univ. of Tokyo), Chao Zhang (Peking Univ.), Hongyang Zhang (Univ. of Waterloo), **"Self-Adaptive Training: Bridging Supervised and Self-Supervised Learning"**, [TPAMI]
+- IT-17: Qingxiuxiong Dong, Toshimitsu Kaneko (Toshiba), Masashi Sugiyama (Riken, Univ. of Tokyo), **"An Offline Learning of Behavior Correction Policy for Vision-Based Robotic Manipulation"**, [ICRA]
 - IT-18: Takahiro Maeda, Norimichi Ukita (Toyota Technological Institute), **"Fast Inference and Update of Probabilistic Density Estimation on Trajectory Prediction"**, [ICCV]
 - IT-19: Xu Cao, Takafumi Taketomi (CyberAgent), **"SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration"**, [CVPR]
 - IT-05: Daichi Horita (Univ. of Tokyo), Naoto Inoue, Kotaro Kikuchi, Kota Yamaguchi (CyberAgent), Kiyoharu Aizawa (Univ. of Tokyo), **"Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation"**, [CVPR]
@@ -990,7 +991,6 @@ title: "タイムテーブル"
 - IT-14: Soichiro Kumano (Univ. of Tokyo), Hiroshi Kera (Chiba Univ.), Toshihiko Yamasaki (Univ. of Tokyo), **"Theoretical Understanding of Learning from Adversarial Perturbations"**, [ICLR]
 - IT-15: Atsuyuki Miyai (Univ. of Tokyo), Qing Yu (LY , Univ. of Tokyo), Go Irie (Tokyo Univ. of Science), Kiyoharu Aizawa (Univ. of Tokyo), **"LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning"**, [NeurIPS]
 - IT-16: Yuki Fujimura (NAIST), Masaaki Iiyama (Shiga Univ.), Takuya Funatomi, Yasuhiro Mukaigawa (NAIST), **"Deep Depth from Focal Stack with Defocus Model for Camera-Setting Invariance"**, [IJCV]
-- IT-17: Qingxiuxiong Dong, Toshimitsu Kaneko (Toshiba), Masashi Sugiyama (Riken, Univ. of Tokyo), **"An Offline Learning of Behavior Correction Policy for Vision-Based Robotic Manipulation"**, [ICRA]
 
 
 ## 13:00 - 13:10 チュートリアルイントロダクション：4Fメインホール
@@ -1087,7 +1087,7 @@ title: "タイムテーブル"
 - DS-01: 中村大輝 (高清会高井病院), 増江達彦, 福田光希, 浅野尊比古 (岐阜県総合医療センター), Kim Wonjik, 野里博和 (産総研), **"YOLOv8を用いた乳児気管挿管時のリアルタイム声門認識システムの開発"**
 - DS-02: 村地遼平, 髙橋龍平, 大萩優哉, 中村雄大, 小島太一 (三菱電機), 國廣和樹 (三菱電機モビリティ), **"車載システム向けカメラでの脈拍推定技術の開発"**
 - DS-03: 石毛真修, 吉村康弘, 河野陽日, 岩見彰太, 米谷竜 (サイバーエージェント), **"オプトインカメラ: UWBデバイスを用いた位置推定に基づく映像中の人物同定とオプトインシステムへの応用"**
-- DS-04: 山口真理子, 土田勝, 松元崇裕, 徳永徹朗, 望月崇由 (NTT), **"照明スペクトルの最適化で物体色の見え方を制御する照明システムの提案"**
+- DS-04: 山口真理子, 土田勝, 松元崇裕, 徳永徹郎, 望月崇由 (NTT), **"照明スペクトルの最適化で物体色の見え方を制御する照明システムの提案"**
 - DS-05: 大武一平, 北野和哉 (奈良先端大), 櫛田貴弘 (立命館大), 藤村友貴 (奈良先端大), 前島謙宣 (オー・エル・エム・デジタル, IMAGICAGROUP), 久保尋之 (千葉大), 舩冨卓哉, 向川康博 (奈良先端大), **"イベントカメラによる人物姿勢推定の遅延補償を用いたリアルタイムエフェクトシステムの構築"**
 - DS-06: 林大輔  (静岡大), 吉田道隆 (日本学術振興会), De Xing Lioe, 安富啓太, 川人祥二  (静岡大), 長原一 (阪大), 香川景一郎 (静岡大), **"電荷領域符号化露光ToF CMOSイメージセンサと深層学習モデルによるトランジェントイメージングと距離推定システム"**
 - DS-07: 久保秀太朗, 山地勇樹, 奥野弘嗣 (阪工大), **"初期視覚神経系の時空間応答特性を模擬した運動方向検出イメージセンサシステム"**
@@ -1269,6 +1269,7 @@ title: "タイムテーブル"
 - IT-02: Yuzuru Nakamura, Yasunori Ishii (Panasonic Holdings), Takayoshi Yamashita (Chubu Univ.), **"Active Domain Adaptation with False Negative Prediction for Object Detection"**, [CVPR]
 - IT-03: Shintaro Shiba (Keio Univ., TU Berlin), Friedhelm Hamann (TU Berlin), Yoshimitsu Aoki (Keio Univ.), Guillermo Gallego (TU Berlin), **"Event-Based Background-Oriented Schlieren"**, [TPAMI]
 - IT-04: Lang Huang (Univ. of Tokyo), Chao Zhang (Peking Univ.), Hongyang Zhang (Univ. of Waterloo), **"Self-Adaptive Training: Bridging Supervised and Self-Supervised Learning"**, [TPAMI]
+- IT-17: Qingxiuxiong Dong, Toshimitsu Kaneko (Toshiba), Masashi Sugiyama (Riken, Univ. of Tokyo), **"An Offline Learning of Behavior Correction Policy for Vision-Based Robotic Manipulation"**, [ICRA]
 - IT-18: Takahiro Maeda, Norimichi Ukita (Toyota Technological Institute), **"Fast Inference and Update of Probabilistic Density Estimation on Trajectory Prediction"**, [ICCV]
 - IT-19: Xu Cao, Takafumi Taketomi (CyberAgent), **"SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration"**, [CVPR]
 - OS1-E-01: Jiafeng Mao (Univ. of Tokyo), Xueting Wang (CyberAgent), Kiyoharu Aizawa (Univ. of Tokyo), **"Towards Semantic-Driven Initialization: Winning Tickets in Initial Noise"**
@@ -1442,7 +1443,7 @@ title: "タイムテーブル"
 - DS-01: 中村大輝 (高清会高井病院), 増江達彦, 福田光希, 浅野尊比古 (岐阜県総合医療センター), Kim Wonjik, 野里博和 (産総研), **"YOLOv8を用いた乳児気管挿管時のリアルタイム声門認識システムの開発"**
 - DS-02: 村地遼平, 髙橋龍平, 大萩優哉, 中村雄大, 小島太一 (三菱電機), 國廣和樹 (三菱電機モビリティ), **"車載システム向けカメラでの脈拍推定技術の開発"**
 - DS-03: 石毛真修, 吉村康弘, 河野陽日, 岩見彰太, 米谷竜 (サイバーエージェント), **"オプトインカメラ: UWBデバイスを用いた位置推定に基づく映像中の人物同定とオプトインシステムへの応用"**
-- DS-04: 山口真理子, 土田勝, 松元崇裕, 徳永徹朗, 望月崇由 (NTT), **"照明スペクトルの最適化で物体色の見え方を制御する照明システムの提案"**
+- DS-04: 山口真理子, 土田勝, 松元崇裕, 徳永徹郎, 望月崇由 (NTT), **"照明スペクトルの最適化で物体色の見え方を制御する照明システムの提案"**
 - DS-05: 大武一平, 北野和哉 (奈良先端大), 櫛田貴弘 (立命館大), 藤村友貴 (奈良先端大), 前島謙宣 (オー・エル・エム・デジタル, IMAGICAGROUP), 久保尋之 (千葉大), 舩冨卓哉, 向川康博 (奈良先端大), **"イベントカメラによる人物姿勢推定の遅延補償を用いたリアルタイムエフェクトシステムの構築"**
 - DS-06: 林大輔  (静岡大), 吉田道隆 (日本学術振興会), De Xing Lioe, 安富啓太, 川人祥二  (静岡大), 長原一 (阪大), 香川景一郎 (静岡大), **"電荷領域符号化露光ToF CMOSイメージセンサと深層学習モデルによるトランジェントイメージングと距離推定システム"**
 - DS-07: 久保秀太朗, 山地勇樹, 奥野弘嗣 (阪工大), **"初期視覚神経系の時空間応答特性を模擬した運動方向検出イメージセンサシステム"**
@@ -1656,7 +1657,7 @@ title: "タイムテーブル"
 - IS2-129: Momoe Yamane, Akimasa Kondo, Masashi Hatano, Ryosuke Hori, Hideo Saito (Keio Univ.), **"Occlusion Free Mutli-Object Tracking With Multiple Camera"**
 - IS2-130: 大槻微子 (慶大), 嘉本海大, 渡邊偉志, 藤松健 (パナソニックコネクト), 青木義満 (慶大), **"点群を利用した弱教師あり映像異常検知"**
 - IS2-131: 石原湧大, 井上光平, 原健二 (九大), **"Yin-Yangグリッドを用いた全天球スーパーピクセル分割"**
-- IS2-132: Atsuyuki Miyai (Univ. of Tokyo), Jingkang Yang (Nanyang Technology Univ.), Jingyang Zhang (Duke Univ.), Yifei Ming (Univ. of Wisconsin-Madison), Qing Yu (Univ. of Tokyo, LY), Go Irie (Tokyo Univ. of Science), Yixuan Li (Univ. of Wisconsin-Madison), Hai Li (Duke Univ.), Ziwei Liu (Nanyang Technology Univ.), Kiyoharu Aizawa (Univ. of Tokyo), **"Unsolvable Problem Detection: Towards Trustworthy Vision-Language Models"**
+- IS2-132: Atsuyuki Miyai (Univ. of Tokyo), Jingkang Yang (Nanyang Technological Univ.), Jingyang Zhang (Duke Univ.), Yifei Ming (Univ. of Wisconsin-Madison), Qing Yu (Univ. of Tokyo, LY), Go Irie (Tokyo Univ. of Science), Yixuan Li (Univ. of Wisconsin-Madison), Hai Li (Duke Univ.), Ziwei Liu (Nanyang Technological Univ.), Kiyoharu Aizawa (Univ. of Tokyo), **"Unsolvable Problem Detection: Towards Trustworthy Vision-Language Models"**
 - IS2-133: Shogo Iwakata, Ryosuke Oshima, Hideki Tsunashima (Waseda Univ.), Fumiya Matsuzawa (Univ. of Tsukuba), Yue Qiu, Hirokatsu Kataoka (AIST), Shigeo Morishima (Waseda Univ.), **"A New Benchmark for 3D Visual Grounding using Robotic Viewpoints"**
 - IS2-134: 松平茅隼 (名大), カストナーマークアウレル (広島市大, 名大), 駒水孝裕 (名大), 平山高嗣 (人間環境大, 名大), 井手一郎 (名大), **"語感の定量化に向けた画像に写る概念に対する視覚的印象の推定"**
 - IS2-135: 西村太一 (LINEヤフー), **"Lighthouse: 再現可能で使いやすい動画区間検索のライブラリ"**
@@ -1697,7 +1698,7 @@ title: "タイムテーブル"
 - IS2-170: 設楽裕海, 三浦幹太, 石井琢郎, 伊藤康一, 青木孝文, 西條芳文 (東北大), 大宮淳 (コニカミノルタ), **"単一平面波イメージングにおける超音波画像の品質改善とその性能評価"**
 - IS2-171: Ryo Fujii, Hideo Saito, Hiroki Kajita (Keio Univ.), **"EgoSurgery: A Dataset for Surgical Video Understanding from Egocentric Open Surgery Videos"**
 - IS2-172: 矢野友理, 小森達貴, 西川広記, 谷口一徹, 尾上孝雄 (阪大), **"転移学習と前処理を用いた尿中有形成分の検出"**
-- IS2-173: Yu Yamaoka, Weng Ian Chen, Seno Shigeto, Hideo Matsuda (Osaka Univ.), **"Weakly Supervised Learning from Similarity Proportion Loss for Classification in the Skeletal Muscle Recovery Process"**
+- IS2-173: Yu Yamaoka, Weng Ian Chen, Shigeto Seno, Hideo Matsuda (Osaka Univ.), **"Weakly Supervised Learning from Similarity Proportion Loss for Classification in the Skeletal Muscle Recovery Process"**
 - IS2-174: 佐々木桂太, 西川広記, 谷口一徹, 尾上孝雄 (阪大), **"アンサンブル学習を用いた尿中有形成分の検出高精度化"**
 - IS2-175: 藤本健二 (弘前大), 瀬尾茂人, 繁田浩功, 内田穣, 石井優 (阪大), 玉田嘉紀 (弘前大), 松田秀雄 (阪大), **"経時観測蛍光画像における細胞同士の重畳を考慮した細胞追跡手法"**
 - IS2-176: 加藤優奈, 五十川麻理子 (慶大), 森尚平 (グラーツ工科大), 斎藤英雄, 梶田大樹, 高詰佳史 (慶大), **"マルチカメラ映像の自由視点技術による術野を確認しやすい手術映像生成"**
@@ -1725,7 +1726,7 @@ title: "タイムテーブル"
 
 - OS3-A-01: 有川尚輝, 前田涼汰, 日浦慎作 (兵庫県立大), **"偏光計測系と分類器の同時最適化による材質認識"**
 - OS3-A-02: Shuhei M. Yoshida, Takashi Shibata, Makoto Terao (NEC), Takayuki Okatani (Tohoku Univ., RIKEN), Masashi Sugiyama (RIKEN, Univ. of Tokyo), **"Action-Agnostic Point-Level Supervision for Temporal Action Detection"**
-- OS3-A-03: 河内穂高, 中村友哉, 槇原靖, 長原一, 八木康史 (阪大), **"符号化開口と拡散モデルを用いた単一ボケ画像からの深度再構成"**
+- OS3-A-03: 河内穂高, 中村友哉, 長原一, 八木康史 (阪大), **"符号化開口と拡散モデルを用いた単一ボケ画像からの深度再構成"**
 - OS3-A-04: Masatoshi Tateno (Univ. of Tokyo, AIST), Takuma Yagi (AIST), Ryosuke Furuta, Yoichi Sato (Univ. of Tokyo), **"Learning Object States from Actions via Large Language Models"**
 - OS3-A-05: Yuto Shibata (Keio Univ.), Yasunori Kudo, Yohei Sugawara (PFN), **"Anatomical 3D Style Transfer Enables Efficient Federated Learning with Extremely Low Communication Costs"**
 - OS3-A-06: 松尾信之介 (九大), 末廣大貴 (横浜市大), 計良宥志 (千葉大), 内田誠一, 備瀬竜馬 (九大), **"Prototypeに基づいたAttentionによるLearning from Label Proportions"**
@@ -1742,7 +1743,7 @@ title: "タイムテーブル"
 ## 13:30 - 15:00 インタラクティブ3A（IS-3A）：3F大会議室A
 - OS3-A-01: 有川尚輝, 前田涼汰, 日浦慎作 (兵庫県立大), **"偏光計測系と分類器の同時最適化による材質認識"**
 - OS3-A-02: Shuhei M. Yoshida, Takashi Shibata, Makoto Terao (NEC), Takayuki Okatani (Tohoku Univ., RIKEN), Masashi Sugiyama (RIKEN, Univ. of Tokyo), **"Action-Agnostic Point-Level Supervision for Temporal Action Detection"**
-- OS3-A-03: 河内穂高, 中村友哉, 槇原靖, 長原一, 八木康史 (阪大), **"符号化開口と拡散モデルを用いた単一ボケ画像からの深度再構成"**
+- OS3-A-03: 河内穂高, 中村友哉, 長原一, 八木康史 (阪大), **"符号化開口と拡散モデルを用いた単一ボケ画像からの深度再構成"**
 - OS3-A-04: Masatoshi Tateno (Univ. of Tokyo, AIST), Takuma Yagi (AIST), Ryosuke Furuta, Yoichi Sato (Univ. of Tokyo), **"Learning Object States from Actions via Large Language Models"**
 - OS3-A-05: Yuto Shibata (Keio Univ.), Yasunori Kudo, Yohei Sugawara (PFN), **"Anatomical 3D Style Transfer Enables Efficient Federated Learning with Extremely Low Communication Costs"**
 - OS3-A-06: 松尾信之介 (九大), 末廣大貴 (横浜市大), 計良宥志 (千葉大), 内田誠一, 備瀬竜馬 (九大), **"Prototypeに基づいたAttentionによるLearning from Label Proportions"**
@@ -1831,7 +1832,6 @@ title: "タイムテーブル"
 - IT-14: Soichiro Kumano (Univ. of Tokyo), Hiroshi Kera (Chiba Univ.), Toshihiko Yamasaki (Univ. of Tokyo), **"Theoretical Understanding of Learning from Adversarial Perturbations"**, [ICLR]
 - IT-15: Atsuyuki Miyai (Univ. of Tokyo), Qing Yu (LY , Univ. of Tokyo), Go Irie (Tokyo Univ. of Science), Kiyoharu Aizawa (Univ. of Tokyo), **"LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning"**, [NeurIPS]
 - IT-16: Yuki Fujimura (NAIST), Masaaki Iiyama (Shiga Univ.), Takuya Funatomi, Yasuhiro Mukaigawa (NAIST), **"Deep Depth from Focal Stack with Defocus Model for Camera-Setting Invariance"**, [IJCV]
-- IT-17: Qingxiuxiong Dong, Toshimitsu Kaneko (Toshiba), Masashi Sugiyama (Riken, Univ. of Tokyo), **"An Offline Learning of Behavior Correction Policy for Vision-Based Robotic Manipulation"**, [ICRA]
 - IS3-073: 辻村拓哉, 井上勝文, 吉岡理文 (阪公大), 山田敏弘 (北大), **"スタイル変換とフラクタル画像を用いた植物化石検出手法の検討"**
 - IS3-074: 西村勇希, 関谷亮太, 森浩樹 (東芝), **"合成開口レーダ画像向けニューラルネットワークにおける​少量訓練データ対策の有効性検証"**
 - IS3-075: 清水一樹, 遠里由佳子 (立命館大), **"潜在拡散モデルと自己注意ガイダンスによる線⾍の動画像の異常検知"**

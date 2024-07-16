@@ -1028,7 +1028,12 @@ title: "Timetable"
 {% OS2-B %}
 
 ## 12:20 - 13:30 Sponsors events: 3F Conference Room B
+- [HPCTECH Corporation: State-of-the-art technologies and applications to accelerate R&D in generative AI and digital twin]({{< ref "/program/sponsor-events" >}})
+
 ## 12:20 - 13:30 Sponsors events: 3F Conference Room E
+- [CyberAgent: Roundtable lunch hosted by CyberAgent]({{< ref "/program/sponsor-events#TBA" >}})
+
+
 ## 13:30 - 14:30 Oral session 2C (OS-2C): 4F Main Hall
 
 {% OS2-C %}
