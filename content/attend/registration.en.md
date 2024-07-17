@@ -132,6 +132,9 @@ In order to understand which registration categories you may be eligible for, pl
     - A. No, registrations are final and cannot be cancelled.
 - **Q. I want to confirm which category to register in.**
     - A. Please check the page above. If you have any remaining questions, please reach out to the MIRU2024 organizing committee via [the contact form](https://forms.gle/NdqSrYM1DtYa15C66).
+- **Q. Is lunch provided?**
+    - A. Lunch is not provided. However, some events such as sponsor events may provide lunch. Please check the event page for more information.
+
 
 # Accompanying persons
 - Family of a registered participant who is junior high school age or younger can accompany the registrant for free. Note, that we also provide a nursery service for younger participants. Please check the information on the nursery service [here]({{< ref "/attend/nursery" >}}).
