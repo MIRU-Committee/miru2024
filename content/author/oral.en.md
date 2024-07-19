@@ -10,7 +10,7 @@ title: "Oral presentation"
 - Please bring your own PC for the presentation.
 - On the day of your presentation, please inform the session chair of your attendance before the session begins.
 - The aspect ratio of the projector in the main hall is 16:9.
-- The available connection port for the projector is HDMI. If you only have a Type-C port, please bring an adapter.
+- The available connection port for the projector is HDMI. If you only have a USB Type-C port, please bring an adapter.
 - You can put MIRU Logo on your presentation slide. Click [here]({{< ref "/organization/logo" >}}) for more info.
 
 # Presentation Procedure
