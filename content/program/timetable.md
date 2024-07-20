@@ -1736,7 +1736,7 @@ title: "タイムテーブル"
 - OS3-A-10: 大谷豪 (慶大, 産総研), 田所龍 (産総研), 山田亮佑 (筑波大, 産総研), Yuki Asano (Univ. of Amsterdam), Iro Laina, Christian Rupprecht (Univ. of Oxford), 井上中順, 横田理央 (東工大, 産総研), 片岡裕雄 (産総研), 青木義満 (慶大, 産総研), **"画像超解像における学習データ構築の再考"**
 
 
-## 11:40 - 12:20 ワークライフバランス報告：4Fメインホール
+## 11:50 - 12:20 ワークライフバランス報告：4Fメインホール
 ## 12:20 - 13:30 インターナショナルイベント企画：3F中会議室B
 - [MIRU2024 International Lunch](https://sites.google.com/view/miru2024-internationallunch/)
 

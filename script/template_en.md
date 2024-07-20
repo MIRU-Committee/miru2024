@@ -1067,7 +1067,7 @@ title: "Timetable"
 {% OS3-A %}
 
 
-## 11:40 - 12:20 Work life balance session: 4F Main Hall
+## 11:50 - 12:20 Work life balance session: 4F Main Hall
 ## 12:20 - 13:30 International events: 3F Conference Room B
 - [MIRU2024 International Lunch](https://sites.google.com/view/miru2024-internationallunch/)
 

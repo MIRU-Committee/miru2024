@@ -1073,7 +1073,7 @@ title: "タイムテーブル"
 
 {% OS3-A %}
 
-## 11:40 - 12:20 ワークライフバランス報告：4Fメインホール
+## 11:50 - 12:20 ワークライフバランス報告：4Fメインホール
 ## 12:20 - 13:30 インターナショナルイベント企画：3F中会議室B
 - [MIRU2024 International Lunch](https://sites.google.com/view/miru2024-internationallunch/)
 
