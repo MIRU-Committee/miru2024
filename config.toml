@@ -241,7 +241,7 @@ canonifyURLs = true
     identifier = "organization"
 
 [[languages.en.menu.main]]
-    name = "Program committee"
+    name = "Organizing committee"
     weight = 1
     parent = "organization"
     url = "/en/organization/committee/"
