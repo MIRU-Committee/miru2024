@@ -46,9 +46,9 @@ if __name__ == '__main__':
         'IT', # Invited talk, e.g., top-conference session
         'DS', # Demo session
         'IS1', 'IS2', 'IS3', # Interactive session = Poster session
-        'OS1-A', 'OS1-B', 'OS1-C', 'OS1-D', 'OS1-E', # Oral session
-        'OS2-A', 'OS2-B', 'OS2-C', 'OS2-D',
-        'OS3-A'
+        'OS-1A', 'OS-1B', 'OS-1C', 'OS-1D', 'OS-1E', # Oral session
+        'OS-2A', 'OS-2B', 'OS-2C', 'OS-2D',
+        'OS-3A'
     ]
 
     df = pd.read_csv(args.src)
@@ -59,7 +59,7 @@ if __name__ == '__main__':
     # Select only the columns we need.
     # The columns are:
     # - SessionID
-    #     - Seission ID, e.g., 'IT', 'DS', 'IS1', 'OS1-A'
+    #     - Seission ID, e.g., 'IT', 'DS', 'IS1', 'OS-1A'
     # - IS-session. There is "sort order" for each category. We need to show them in this order.
     #     - For ES: (No number after IS, meaning that they show for all the three days)
     #         - 'IS-A-1_S03'. # "1" is the sort order. "S03" means the 3rd silver sponser.
@@ -68,9 +68,9 @@ if __name__ == '__main__':
     #     - For DS: (No number after DS, meaning that they show for all the three days) 
     #         - 'IS-A-2'. # "2" is the sort order.
     #     - For IS, IT, and OS (Ther is number after IS, such as IS2. IS2 means the 2nd day)
-    #         - 'IS2-A-6'.   # "6" is the sort-order
+    #         - 'IS-2A-6'.   # "6" is the sort-order
     # - Poster ID
-    #     - Unique ID. e.g., IS3-096
+    #     - Unique ID. e.g., IS-3-096
     # - Paper Title
     #     - Japanese title
     # - 著者リスト
