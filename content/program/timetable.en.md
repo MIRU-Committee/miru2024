@@ -1882,7 +1882,7 @@ title: "Timetable"
 - IS-3-143: 篠原陸玖 (奈良先端大), 橋本敦史, 小津野将, 吉田成朗 (オムロンサイニックエックス), 平尾悠太朗, ペルスキアエルナンデスモニカ, 内山英昭, 清川清 (奈良先端大), **"ユーザ適応型アバタ姿勢操作法"**
 - IS-3-144: Yusuke Sugizaki (The University of Tokyo)*; Jin Nakazato (The University of Tokyo); Manabu Tsukada (The University of Tokyo), **"WebベースデジタルツインによるXR脱出ゲームの開発と評価 (Development and Evaluation of XR Escape Game with Web-based Digital Twin)"**
 - IS-3-145: 辻真彦, 横張和也, 谷田隆一 (NTT), **"リアル/バーチャル空間を重畳させる非対称CVEにおける空間の重畳ずれが与える影響の一考察"**
-- W: , **"若手プログラム成果報告"**
+- IS-3-W01~W04: MIRU2024 Wakate Program participants, **"若手プログラム成果報告 (Report on the MIRU2024 Wakate Program)"**
 
 
 
