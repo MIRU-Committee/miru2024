@@ -27,10 +27,10 @@ title: "Commitee"
 # Program committee
 
 ## Area chairs
-- Area A：○Kenichiro Tanaka (Ritsumeikan Univ.), Yusuke Sekikawa (Denso IT), Ken Sakurada (Kyoto Univ.), Diego Thomas (Kyushu Univ.), Gaku Nakano (NEC)
-- Area B：○Kazuki Kozuka (Panasonic), Tetsu Matsukawa (Kyushu Univ.), Atsushi Hashimoto (OSX), Mayu Otani (CyberAgent), Tsubasa Hirakawa (Chubu Univ.)
-- Area C：○Takuhiro Kaneko (NTT), Yuta Nakashima (Osaka Univ.), Tatsuya Yokota (NITech), Rei Kawakami (Tokyo Tech), Naoshi Kaneko (TDU)
-- Area D：○Fumio Okura (Osaka Univ.), Yuzuko Utsumi (OMU), Hideaki Uchiyama (NAIST), Norimichi Ukita (TTI), Koichi Ito (Tohoku Univ.)
+- Area A：Kenichiro Tanaka (Ritsumeikan Univ.), Yusuke Sekikawa (Denso IT), Ken Sakurada (Kyoto Univ.), Diego Thomas (Kyushu Univ.), Gaku Nakano (NEC)
+- Area B：Kazuki Kozuka (Panasonic), Tetsu Matsukawa (Kyushu Univ.), Atsushi Hashimoto (OSX), Mayu Otani (CyberAgent), Tsubasa Hirakawa (Chubu Univ.)
+- Area C：Takuhiro Kaneko (NTT), Yuta Nakashima (Osaka Univ.), Tatsuya Yokota (NITech), Rei Kawakami (Tokyo Tech), Naoshi Kaneko (TDU)
+- Area D：Fumio Okura (Osaka Univ.), Yuzuko Utsumi (OMU), Hideaki Uchiyama (NAIST), Norimichi Ukita (TTI), Koichi Ito (Tohoku Univ.)
 
 ## Evaluation committee
 - Senior evaluators
