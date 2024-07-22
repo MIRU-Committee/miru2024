@@ -19,7 +19,7 @@ canonifyURLs = true
     identifier = "organization"
 
 [[menu.main]]
-    name = "実行委員会"
+    name = "委員会"
     weight = 1
     parent = "organization"
     url = "/organization/committee/"
@@ -241,7 +241,7 @@ canonifyURLs = true
     identifier = "organization"
 
 [[languages.en.menu.main]]
-    name = "Organizing committee"
+    name = "Committee"
     weight = 1
     parent = "organization"
     url = "/en/organization/committee/"
