@@ -1,7 +1,8 @@
 ---
-title: "実行委員会"
+title: "委員会"
 ---
 
+# 実行委員会
 - 実行委員長：柏野 邦夫（NTT），田中 正行（東工大）
 - プログラム委員長：舩冨 卓哉（奈良先端科学技術大学院大学），山下 隆義（中部大学）
 - プログラム副委員長：藤村 友貴（奈良先端科学技術大学院大学）
@@ -19,3 +20,198 @@ title: "実行委員会"
 - ダイバーシティ・ワークライフバランス委員長：金崎 朝子（東京工業大学），カストナー マークアウレル（広島市立大学）
 - メンターシップ委員長：片岡 裕雄（産業技術総合研究所）
 - メンターシップ副委員長：八木 拓真（産業技術総合研究所）
+
+
+# プログラム委員会
+
+## エリアチェア
+- A領域：○田中 賢一郎（立命館大），関川 雄介（デンソーIT），櫻田 健（京大），Diego Thomas（九大），中野 学（NEC）
+- B領域：○小塚 和紀（パナソニック），松川 徹（九大），橋本 敦史（OSX），大谷 まゆ（CyberAgent），平川 翼（中部大）
+- C領域：○金子 卓弘（NTT），中島 悠太（阪大），横田 達也（名工大），川上 玲（東工大），金子 直史（東京電機大）
+- D領域：○大倉 史生（阪大），内海 ゆづ子（大阪公立大），内山 英昭（奈良先端大），浮田 宗伯（豊田工大），伊藤 康一（東北大）
+
+## 評価委員
+- シニア委員
+    - Mitsuru		Ambai
+    - Kota		Aoki
+    - Ryoma		Bise
+    - Naoya		Chiba
+    - Daisuke		Deguchi
+    - Keisuke		Doman
+    - Yuichiro		Fujimoto
+    - Ryo		Furukawa
+    - Ryosuke		Furuta
+    - Hitoshi		Habe
+    - Ryuhei		Hamaguchi
+    - Kensho		Hara
+    - Shota		Harada
+    - Daichi		Haraguchi
+    - Manabu		Hashimoto
+    - Noriaki		Hashimoto
+    - Hideaki		Hayashi
+    - Takatsugu		Hirayama
+    - Hidekata		Hontani
+    - Maiya		Hori
+    - Takahiko		Horiuchi
+    - Kazuhiro		Hotta
+    - Ichiro		Ide
+    - Masaaki		Iiyama
+    - Satoshi		Ikehata
+    - Katsufumi		Inoue
+    - Naoto		Inoue
+    - Go		Irie
+    - Masato		Ishii
+    - Hiroshi		Ishikawa
+    - Mariko		Isogawa
+    - Seiya		Ito
+    - Takafumi		Iwaguchi
+    - Daisuke		Iwai
+    - Yoshio		Iwai
+    - Masakazu		Iwamura
+    - Kenji		Iwata
+    - Keiichiro		Kagawa
+    - Koji		Kamma
+    - Yasushi		Kanazawa
+    - Naoshi		Kaneko
+    - Asako		Kanezaki
+    - Marc A.		Kastner
+    - Hirokatsu		Kataoka
+    - Hiroharu		Kato
+    - Yasutomo		Kawanishi
+    - Hiroaki		Kawashima
+    - Hiroshi		Kera
+    - Akisato		Kimura
+    - Daiki		Kimura
+    - Kazuya		Kitano
+    - Hiroki		Kobayashi
+    - Takashi		Komuro
+    - Kazuaki		Kondo
+    - Gou		Koutaki
+    - Hiroyuki		Kubo
+    - Yusuke		Kurose
+    - Takahiro		Kushida
+    - Haruya		Kyutoku
+    - Guang		Li
+    - Keisuke		Maeda
+    - Yasushi		Makihara
+    - Koshi		Makihara
+    - Yasuyuki		Matsushita
+    - Tsubasa		Minematsu
+    - Ikuhisa		Mitsugami
+    - Daisuke		Miyazaki
+    - Ryo		Miyoshi
+    - Yoshihiko		Mochizuki
+    - Yusuke		Mori
+    - Ken'ichi		Morooka
+    - Yasuhiro		Mukaigawa
+    - Hajime		Nagahara
+    - Kazuaki		Nakamura
+    - Tomoya		Nakamura
+    - Hideki		Nakayama
+    - Mitsuru		Nakazawa
+    - Hitoshi		Nishimura
+    - Masashi		Nishiyama
+    - Naoko		Nitta
+    - Shohei		Nobuhara
+    - Hirokazu		Nosato
+    - Takahiro		Ogawa
+    - Koichi		Ogawara
+    - Takehiko		Ohkawa
+    - Wataru		Ohyama
+    - Takeshi		Oishi
+    - Takahiro		Okabe
+    - Masaki		Onishi
+    - Yasunori		Ozaki
+    - Yuko		Ozasa
+    - Ryusuke		Sagawa
+    - Hideo		Saito
+    - Naoki		Saito
+    - Tomoya		Sakai
+    - Fumihiko		Sakaue
+    - Hiroaki		Santo
+    - Ikuro		Sato
+    - Shin'ichi		Satoh
+    - Yoshihide		Sawada
+    - Takashi		Shibata
+    - Nobutaka		Shimada
+    - Ikuko		Shimizu
+    - Wataru		Shimoda
+    - Kei		Shimonishi
+    - Masamichi		Shimosaka
+    - Fumito		Shinmura
+    - Koichi		SHINODA
+    - Edgar		Simo-Serra
+    - Motoharu		Sonogashira
+    - Kyoko		Sudo
+    - Yusuke		Sugano
+    - Masanori		Suganuma
+    - Shinichi		Sumiyoshi
+    - Zhun		Sun
+    - Ryota		Suzuki
+    - Teppei		Suzuki
+    - Tomoyuki		Suzuki
+    - Keita		Takahashi
+    - Kosuke		Takahashi
+    - Toru		Tamaki
+    - Hiroshi		Tanaka
+    - Shuhei		Tarashima
+    - Ren		Togo
+    - Hideki		Tsunashima
+    - Yusuke		Uchida
+    - Yuki		Uranishi
+    - Yu		Wang
+    - Yoshihiro		Watanabe
+    - Takuma		Yagi
+    - Yoshihiro		Yamada
+    - Kota		Yamaguchi
+    - Shintaro		Yamamoto
+    - Takahisa		Yamamoto
+    - Toshihiko		Yamasaki
+    - Rintaro		Yanagi
+    - Keiji		Yanai
+    - Shuhei	M	Yoshida
+    - Yuichi		Yoshida
+    - Ryota		Yoshihashi
+    - Yuya		Yoshikawa
+    - Qing		Yu
+- ジュニア委員
+    - Ning		Ding
+    - Yoshihiro		Fukuhara
+    - Yaozong		Gan
+    - Yuki		HIROHASHI
+    - Daichi		Horita
+    - Tomoki		Ichikawa
+    - Kyohei		Kamikawa
+    - Takuya		Kamitani
+    - Hodaka		Kawachi
+    - Ryo		Kawahara
+    - Ryosuke		Kawamura
+    - Kotaro		Kikuchi
+    - Shunsuke		KITADA
+    - Satoshi		Kosugi
+    - Jiaqing		Liu
+    - Jiafeng		Mao
+    - Chihaya		Matsuhira
+    - Shinnosuke		Matsuo
+    - Yu		Mitsuzumi
+    - Atsuyuki		Miyai
+    - Ryugo		Morita
+    - Shu		Nakamura
+    - Kengo		Nakata
+    - Trung Thanh		NGUYEN
+    - Shuhei	S	Noyori
+    - Moeri		Okuda
+    - Ippei		Otake
+    - Yuiko		Sakuma
+    - Keigo		Sakurai
+    - Kaito		Shiku
+    - Naoya		Sogi
+    - Rebeka		sultana
+    - Keita		Takeda
+    - Shumpei		Takezaki
+    - Yuki		Tanaka
+    - Shuqiong		Wu
+    - Shuxiang		Xie
+    - Kohei		Yamashita
+    - Shunsuke		Yoneda
+    - Hanwei		Zhang
