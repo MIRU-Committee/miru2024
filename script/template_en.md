@@ -977,39 +977,39 @@ title: "Timetable"
 # Aug. 7th (Wed)
 ## 9:00 - 10:00 Oral session 1A (OS-1A): 4F Main Hall
 
-{% OS1-A %}
+{% OS-1A %}
 
 
 ## 10:10 - 11:10 Oral session 1B (OS-1B): 4F Main Hall
 
-{% OS1-B %}
+{% OS-1B %}
 
 
 ## 11:20 - 12:20 Oral session 1C (OS-1C): 4F Main Hall
 
-{% OS1-C %}
+{% OS-1C %}
 
 
 ## 12:20 - 13:30 Work life balance events: 3F Conference Room B
 - [MIRU 2024 Work-Life Balance Project ～So that everyone can follow their own path.～](https://sites.google.com/view/miru2024wlb/english)
 ## 13:30 - 14:30 Oral session 1D (OS-1D): 4F Main Hall
 
-{% OS1-D %}
+{% OS-1D %}
 
 
 ## 14:40 - 16:10 Oral session 1E (OS-1E): 4F Main Hall
 
-{% OS1-E %}
+{% OS-1E %}
 
 
 ## 16:20 - 18:20 Interactive session 1A (IS-1A)  / Sponsor exhibition A (EX-A)  / Demo session (DS): 3F Conference Room A
 
-{% IS-A %}{% IS1-A %}
+{% IS-A %}{% IS-1A %}
 
 
 ## 16:20 - 18:20 Interactive session 1B (IS-1B)  / Sponsor exhibition B (EX-B): 1F Exhibition Hall
 
-{% IS-B %}{% IS1-B %}
+{% IS-B %}{% IS-1B %}
 
 ## 18:30 - 19:00 Town meeting: 4F Main Hall
 
@@ -1020,12 +1020,12 @@ title: "Timetable"
 - [How do humans connect the continuous visual world and discrete linguistic symbols? (Prof. Mutsumi Imai)]({{< ref "/program/keynote#keynote-1-august-8-900-1000" >}})
 ## 10:10 - 11:10 Oral session 2A (OS-2A): 4F Main Hall
 
-{% OS2-A %}
+{% OS-2A %}
 
 
 ## 11:20 - 12:20 Oral session 2B (OS-2B): 4F Main Hall
 
-{% OS2-B %}
+{% OS-2B %}
 
 ## 12:20 - 13:30 Sponsors events: 3F Conference Room B
 - [HPCTECH Corporation: State-of-the-art technologies and applications to accelerate R&D in generative AI and digital twin]({{< ref "/program/sponsor-events" >}})
@@ -1036,15 +1036,15 @@ title: "Timetable"
 
 ## 13:30 - 14:30 Oral session 2C (OS-2C): 4F Main Hall
 
-{% OS2-C %}
+{% OS-2C %}
 
 ## 14:40 - 16:10 Oral session 2D (OS-2D): 4F Main Hall
 
-{% OS2-D %}
+{% OS-2D %}
 
 ## 16:20 - 18:20 Interactive session 2A (IS-2A)  / Sponsor exhibition A (EX-A)  / Demo session (DS): 3F Conference Room A
 
-{% IS-A %}{% IS2-A %}
+{% IS-A %}{% IS-2A %}
 
 
 
@@ -1052,7 +1052,7 @@ title: "Timetable"
 
 ## 16:20 - 18:20 Interactive session 2B (IS-2B)  / Sponsor exhibition B (EX-B): 1F Exhibition Hall
 
-{% IS-B %}{% IS2-B %}
+{% IS-B %}{% IS-2B %}
 
 
 ## 19:00 - 21:00 Networking banquet: Hotel Nikko Kumamoto
@@ -1064,7 +1064,7 @@ title: "Timetable"
 - [JIZAI Body: beyond human limits (Prof. Masahiko Inami)]({{< ref "/program/keynote#keynote-2-august-9-900-1000" >}})
 ## 10:10 - 11:40 Oral session 3A (OS-3A): 4F Main Hall
 
-{% OS3-A %}
+{% OS-3A %}
 
 
 ## 11:50 - 12:20 Work life balance session: 4F Main Hall
@@ -1073,11 +1073,11 @@ title: "Timetable"
 
 ## 13:30 - 15:00 Interactive session 3A (IS-3A): 3F Conference Room A
 
-{% IS3-A %}
+{% IS-3A %}
 
 ## 13:30 - 15:00 Interactive session 3B (IS-3B): 1F Exhibition Hall
 
-{% IS3-B %}
+{% IS-3B %}
 
 
 ## 15:10 - 16:00 Special session: 4F Main Hall

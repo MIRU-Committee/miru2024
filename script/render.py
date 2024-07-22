@@ -61,31 +61,31 @@ if __name__ == '__main__':
     # Not interactive session
     session_ids = [
         'IT',
-        'OS1-A', 'OS1-B', 'OS1-C', 'OS1-D', 'OS1-E',
-        'OS2-A', 'OS2-B', 'OS2-C', 'OS2-D',
-        'OS3-A'
+        'OS-1A', 'OS-1B', 'OS-1C', 'OS-1D', 'OS-1E',
+        'OS-2A', 'OS-2B', 'OS-2C', 'OS-2D',
+        'OS-3A'
     ]
 
-    # Interactive session.
+    # Interactive session (Prefix)
     # IS-A means; All three days. A-session.
-    # IS2-B means: Second-day. B-session.
+    # IS-2B means: Second-day. B-session.
     interactive_session_ids = [
         'IS-A', 'IS-B',
-        'IS1-A', 'IS1-B', 'IS2-A', 'IS2-B', 'IS3-A', 'IS3-B',
+        'IS-1A', 'IS-1B', 'IS-2A', 'IS-2B', 'IS-3A', 'IS-3B',
     ]
 
     # For each session (w/o interactive sessions), render the body of the papers and replace the placeholder.
     for session_id in session_ids:
         body = ""
         
-        # e.g., select rows with SessionID == 'OS1-A'
+        # e.g., select rows with SessionID == 'OS-1A'
         for _, row in df[df['SessionID'] == session_id].iterrows():
             body += render_body(row, args.lang) + '\n'
 
-        # e.g., replace "{% OS1-A %}" with
+        # e.g., replace "{% OS-1A %}" with
         # """
-        # - OS1-A-01: 本郷太郎（東大）, 駒場花子（京大）, **"強いTransformer"**
-        # - OS1-A-02: Ziro Foo (Tokyo Tech.), Saburo Bar (Micro$oft), **"Deep Learning is Cool"**
+        # - OS-1A-01: 本郷太郎（東大）, 駒場花子（京大）, **"強いTransformer"**
+        # - OS-1A-02: Ziro Foo (Tokyo Tech.), Saburo Bar (Micro$oft), **"Deep Learning is Cool"**
         # """
         tmpl = tmpl.replace(f"{{% {session_id} %}}", body)
 
