@@ -1727,6 +1727,7 @@ title: "Timetable"
 - OS-3A-08: Sandra Zhang Ding (The University of Tokyo)*; Jiafeng Mao (The University of Tokyo); Kiyoharu Aizawa (The University of Tokyo), **"Latent Optimization for Training-Free Sketch-Guided Diffusion"**
 - OS-3A-09: Ryu Tadokoro (Tohoku University)*; Ryo Nakamura (Fukuoka University, National Institute of Advanced Industrial Science and Technology (AIST)); Ryosuke Yamada (University of Tsukuba, National Institute of Advanced Industrial Science and Technology (AIST)); Yuki M Asano (University of Amsterdam); Iro Laina (University of Oxford); Christian Rupprecht (University of Oxford); Nakamasa Inoue (Tokyo Institute of Technology); Rio Yokota (Tokyo Institute of Technology); Hirokatsu Kataoka (National Institute of Advanced Industrial Science and Technology (AIST)), **"Scaling Backwards: Minimal Synthetic Pre-training?"**
 - OS-3A-10: Go Ohtani (Keio University)*; Ryu Tadokoro (Tohoku University); Ryosuke Yamada (University of Tsukuba, National Institute of Advanced Industrial Science and Technology (AIST)); Yuki M Asano (University of Amsterdam); Iro Laina (University of Oxford); Christian Rupprecht (University of Oxford); Nakamasa Inoue (Tokyo Institute of Technology); Rio Yokota (Tokyo Institute of Technology); Hirokatsu Kataoka (National Institute of Advanced Industrial Science and Technology (AIST)); Yoshimitsu Aoki (Keio University), **"画像超解像における学習データ構築の再考 (Rethinking Construction of Training Data in Image Super-Resolution)"**
+- IS-3-W01~W04: MIRU2024 Wakate Program participants, **"若手プログラム成果報告 (Report on the MIRU2024 Wakate Program)"**
 - IS-3-001: 大関一輝 (慶大), 園山昌司 (小松製作所), 青木義満 (慶大), **"Geometricベースのセルフキャリブレーション: 建設環境下における重機搭載カメラ自動校正の実現"**
 - IS-3-002: 鈴木拓実, 伊藤颯汰, 加藤邦人 (岐阜大), 相澤宏旭 (広島大), **"LSegのラベル予測確率分布を用いた特徴場の学習法"**
 - IS-3-003: 金佑錫 (東大), 吹上大樹 (NTT), 大石岳史 (東大), **"反射および屈折を考慮したニューラル放射輝度場"**
@@ -1882,7 +1883,6 @@ title: "Timetable"
 - IS-3-143: 篠原陸玖 (奈良先端大), 橋本敦史, 小津野将, 吉田成朗 (オムロンサイニックエックス), 平尾悠太朗, ペルスキアエルナンデスモニカ, 内山英昭, 清川清 (奈良先端大), **"ユーザ適応型アバタ姿勢操作法"**
 - IS-3-144: Yusuke Sugizaki (The University of Tokyo)*; Jin Nakazato (The University of Tokyo); Manabu Tsukada (The University of Tokyo), **"WebベースデジタルツインによるXR脱出ゲームの開発と評価 (Development and Evaluation of XR Escape Game with Web-based Digital Twin)"**
 - IS-3-145: 辻真彦, 横張和也, 谷田隆一 (NTT), **"リアル/バーチャル空間を重畳させる非対称CVEにおける空間の重畳ずれが与える影響の一考察"**
-- IS-3-W01~W04: MIRU2024 Wakate Program participants, **"若手プログラム成果報告 (Report on the MIRU2024 Wakate Program)"**
 
 
 

@@ -1413,7 +1413,7 @@ title: "タイムテーブル"
 ## 14:40 - 16:10 オーラル2D（OS-2D）：4Fメインホール
 
 - OS-2D-01: Shogo Sato, Takuhiro Kaneko, Taiga Yoshida, Kazuhiko Murasaki, Ryuichi Tanida, Akisato Kimura (NTT), **"Unsupervised Intrinsic Image Decomposition with LiDAR Intensity Enhanced Training"**
-- OS-2D-02: Taro Togo, Ren TogoKeisuke MaedaTakahiro OgawaMiki Haseyama (Hokkaido Univ.), **"Refining Generative Class Incremental Learning Performance through Model Forgetting Strategies"**
+- OS-2D-02: Taro Togo, Ren Togo, Keisuke Maeda, Takahiro Ogawa, Miki Haseyama (Hokkaido Univ.), **"Refining Generative Class Incremental Learning Performance through Model Forgetting Strategies"**
 - OS-2D-03: 東大樹, 松井勇佑 (東大), 牧淳人 (スウェーデン王立工科大), **"ZoDi:拡散モデルに基づく画像変換を用いたゼロショットドメイン適応"**
 - OS-2D-04: 江口達大, 竹崎隼平, 備瀬竜馬 (九大), **"撮像条件情報を用いたガイダンスを導入した拡散モデルによる光超音波画像の画質改善"**
 - OS-2D-05: 北沢一真 (筑波大), 青砥隆仁 (Optech Innovation), 池畑諭 (NII, 東工大), 髙谷剛志 (筑波大), **"イベントカメラと運動光源を用いた法線推定"**
@@ -1574,7 +1574,7 @@ title: "タイムテーブル"
 - IS-2-096: 大竹ひな, 福原吉博 (早大, cvpaper.challenge), 久保谷善記 (cvpaper.challenge), 森島繁生 (早大), **"基盤モデルを用いた生成画像検出器の汎化性能の分析"**
 - IS-2-097: 小林めぐみ, 吉本一平 (ZOZO), 光瀬智哉 (exZOZO), **"Moon & Spencer のAesthetic Measureを用いたファッションのカラー・コーディネート評価の検討"**
 - IS-2-098: 中嶋直也, 石川裕地, 近藤雅芳 (LINEヤフー), **"動画クラスタリングのためのDINOの動画への拡張の検討"**
-- IS-2-099: PHUEAKSRI Itthisak (Nagoya Univ.), Marc A. KASTNER (Hiroshima City Univ.), Yasutomo KAWANISHI (RIKEN), Takahiro KOMAMIZU, Ichiro IDE (Nagoya Univ.), **"Toward Visual Storytelling using Scene-Graph Contexts"**
+- IS-2-099: Itthisak Phueaksri (Nagoya Univ.), Marc A. Kastner (Hiroshima City Univ.), Yasutomo Kawanishi (RIKEN), Takahiro Komamizu, Ichiro Ide (Nagoya Univ.), **"Toward Visual Storytelling using Scene-Graph Contexts"**
 - IS-2-100: 泉晴翔, 右田雅裕, 戸田真志, 伊藤正彦 (熊本大), **"深層学習による画像インペインティングを用いた古文書画像中における紙背文書の復元"**
 - IS-2-101: 片桐卓巳, 山本洋太, 入江豪 (東京理科大), 曽我部陽光, 松本鮎美, 北原正樹 (NTT), 谷口行信 (東京理科大), **"マルチスペクトル映像を用いた非接触酸素飽和度推定"**
 - IS-2-102: 森山凌 (青学大), 金子直史 (東京電機大), 鷲見和彦 (青学大), **"異常範囲の指定可能なAction Promptによる再学習不要の異常行動検知"**
@@ -1632,7 +1632,7 @@ title: "タイムテーブル"
 - IT-09: Qing Yu, Mikihiro Tanaka, Kent Fujiwara (LY), **"Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches"**, [CVPR]
 - IT-10: Jiaxuan Li, Duc Minh Vo (Univ. of Tokyo), Akihiro Sugimoto (NII), Hideki Nakayama (Univ. of Tokyo), **"EVCap: Retrieval-Augmented Image Captioning with External Visual-Name Memory for Open-World Comprehension"**, [CVPR]
 - OS-2D-01: Shogo Sato, Takuhiro Kaneko, Taiga Yoshida, Kazuhiko Murasaki, Ryuichi Tanida, Akisato Kimura (NTT), **"Unsupervised Intrinsic Image Decomposition with LiDAR Intensity Enhanced Training"**
-- OS-2D-02: Taro Togo, Ren TogoKeisuke MaedaTakahiro OgawaMiki Haseyama (Hokkaido Univ.), **"Refining Generative Class Incremental Learning Performance through Model Forgetting Strategies"**
+- OS-2D-02: Taro Togo, Ren Togo, Keisuke Maeda, Takahiro Ogawa, Miki Haseyama (Hokkaido Univ.), **"Refining Generative Class Incremental Learning Performance through Model Forgetting Strategies"**
 - OS-2D-03: 東大樹, 松井勇佑 (東大), 牧淳人 (スウェーデン王立工科大), **"ZoDi:拡散モデルに基づく画像変換を用いたゼロショットドメイン適応"**
 - OS-2D-04: 江口達大, 竹崎隼平, 備瀬竜馬 (九大), **"撮像条件情報を用いたガイダンスを導入した拡散モデルによる光超音波画像の画質改善"**
 - OS-2D-05: 北沢一真 (筑波大), 青砥隆仁 (Optech Innovation), 池畑諭 (NII, 東工大), 髙谷剛志 (筑波大), **"イベントカメラと運動光源を用いた法線推定"**
@@ -1751,6 +1751,7 @@ title: "タイムテーブル"
 - OS-3A-08: Sandra Zhang Ding, Jiafeng Mao, Kiyoharu Aizawa (Univ. of Tokyo), **"Latent Optimization for Training-Free Sketch-Guided Diffusion"**
 - OS-3A-09: 田所龍 (産総研, 東北大), 中村凌 (産総研, 福岡大), 山田亮佑 (産総研, 筑波大), Yuki M. Asano (Univ. of Amsterdam), Iro Laina, Christian Rupprecht (Univ. of Oxford), 井上中順, 横田理央 (東工大), 片岡裕雄 (産総研), **"Scaling Backwards: Minimal Synthetic Pre-training?"**
 - OS-3A-10: 大谷豪 (慶大, 産総研), 田所龍 (産総研), 山田亮佑 (筑波大, 産総研), Yuki Asano (Univ. of Amsterdam), Iro Laina, Christian Rupprecht (Univ. of Oxford), 井上中順, 横田理央 (東工大, 産総研), 片岡裕雄 (産総研), 青木義満 (慶大, 産総研), **"画像超解像における学習データ構築の再考"**
+- IS-3-W01~W04: 若手プログラム参加者, **"若手プログラム成果報告"**
 - IS-3-001: 大関一輝 (慶大), 園山昌司 (小松製作所), 青木義満 (慶大), **"Geometricベースのセルフキャリブレーション: 建設環境下における重機搭載カメラ自動校正の実現"**
 - IS-3-002: 鈴木拓実, 伊藤颯汰, 加藤邦人 (岐阜大), 相澤宏旭 (広島大), **"LSegのラベル予測確率分布を用いた特徴場の学習法"**
 - IS-3-003: 金佑錫 (東大), 吹上大樹 (NTT), 大石岳史 (東大), **"反射および屈折を考慮したニューラル放射輝度場"**
@@ -1905,7 +1906,6 @@ title: "タイムテーブル"
 - IS-3-143: 篠原陸玖 (奈良先端大), 橋本敦史, 小津野将, 吉田成朗 (オムロンサイニックエックス), 平尾悠太朗, ペルスキアエルナンデスモニカ, 内山英昭, 清川清 (奈良先端大), **"ユーザ適応型アバタ姿勢操作法"**
 - IS-3-144: 杉崎勇介, 中里仁, 塚田学 (東大), **"WebベースデジタルツインによるXR脱出ゲームの開発と評価"**
 - IS-3-145: 辻真彦, 横張和也, 谷田隆一 (NTT), **"リアル/バーチャル空間を重畳させる非対称CVEにおける空間の重畳ずれが与える影響の一考察"**
-- IS-3-W01~W04: 若手プログラム参加者, **"若手プログラム成果報告"**
 
 
 ## 15:10 - 16:00 特別企画：4Fメインホール
