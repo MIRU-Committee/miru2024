@@ -10,7 +10,7 @@ title: "Commitee"
 - Executive chair: Go Irie (Tokyo Univ. of Science), Takashi Shibata (NEC)
 - Executive co-chair: Satoshi Ikehata (NII), Yuta Asano (NII)
 - Organization chair: Ken Tsutsuguchi (Sojo Univ.)
-- Organization co-chair: Takumi Uemura (Sojo Univ.)
+- Organization co-chair: Takumi Uemura (Sojo Univ.), Keisuke Yoneda (Sojo Univ.), Naoya Higuchi (Sojo Univ.)
 - Finance chair: Kei Shimonishi (Kyoto Univ.)
 - Publicity chair: Yusuke Matsui (Univ. of Tokyo)
 - Publication chair: Kensho Hara (AIST)
