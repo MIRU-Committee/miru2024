@@ -964,6 +964,30 @@ title: "Timetable"
 # Aug. 6th (Tue)
 ## 10:00 - 10:20 Opening remarks: 4F Main Hall
 ## 10:20 - 11:50 Invited talks: 4F Main Hall
+
+Chairman: Yuki Fujimura (NAIST)
+
+- IT-01: Nobuhiko Wakai, Satoshi Sato, Yasunori Ishii (Panasonic Holdings), Takayoshi Yamashita (Chubu Univ.), **"Deep Single Image Camera Calibration by Heatmap Regression to Recover Fisheye Images Under Manhattan World Assumption"**, [CVPR]
+- IT-02: Yuzuru Nakamura, Yasunori Ishii (Panasonic Holdings), Takayoshi Yamashita (Chubu Univ.), **"Active Domain Adaptation with False Negative Prediction for Object Detection"**, [CVPR]
+- IT-03: Shintaro Shiba (Keio Univ., TU Berlin), Friedhelm Hamann (TU Berlin), Yoshimitsu Aoki (Keio Univ.), Guillermo Gallego (TU Berlin), **"Event-Based Background-Oriented Schlieren"**, [TPAMI]
+- IT-04: Lang Huang (Univ. of Tokyo), Chao Zhang (Peking Univ.), Hongyang Zhang (Univ. of Waterloo), **"Self-Adaptive Training: Bridging Supervised and Self-Supervised Learning"**, [TPAMI]
+- IT-17: Qingxiuxiong Dong, Toshimitsu Kaneko (Toshiba), Masashi Sugiyama (Riken, Univ. of Tokyo), **"An Offline Learning of Behavior Correction Policy for Vision-Based Robotic Manipulation"**, [ICRA]
+- IT-18: Takahiro Maeda, Norimichi Ukita (Toyota Technological Institute), **"Fast Inference and Update of Probabilistic Density Estimation on Trajectory Prediction"**, [ICCV]
+- IT-19: Xu Cao, Takafumi Taketomi (CyberAgent), **"SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration"**, [CVPR]
+- IT-05: Daichi Horita (Univ. of Tokyo), Naoto Inoue, Kotaro Kikuchi, Kota Yamaguchi (CyberAgent), Kiyoharu Aizawa (Univ. of Tokyo), **"Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation"**, [CVPR]
+- IT-06: Tianwei Chen, Yusuke Hirota (Osaka Univ.), Mayu Otani (CyberAgent), Noa Garcia, Yuta Nakashima (Osaka Univ.), **"Would Deep Generative Models Amplify Bias in Future Models?"**, [CVPR]
+- IT-07: Kosuke Sumiyasu, Kazuhiko Kawamoto, Hiroshi Kera (Chiba Univ.), **"Identifying Important Group of Pixels using Interactions"**, [CVPR]
+- IT-08: Mikihiro Tanaka, Kent Fujiwara (LY), **"Role-aware Interaction Generation from Textual Description"**, [ICCV]
+- IT-09: Qing Yu, Mikihiro Tanaka, Kent Fujiwara (LY), **"Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches"**, [CVPR]
+- IT-10: Jiaxuan Li, Duc Minh Vo (Univ. of Tokyo), Akihiro Sugimoto (NII), Hideki Nakayama (Univ. of Tokyo), **"EVCap: Retrieval-Augmented Image Captioning with External Visual-Name Memory for Open-World Comprehension"**, [CVPR]
+- IT-11: Yusuke Takimoto, Hikari Takehara, Hiroyuki Sato (Huawei Technologies Japan K.K.), Zihao Zhu (Keio Univ., Huawei Technologies Japan K.K.), Bo Zheng (Huawei Technologies Japan K.K.), **"Dr.Hair: Reconstructing Scalp-Connected Hair Strands without Pre-training via Differentiable Rendering of Line Segments"**, [CVPR]
+- IT-12: Zhixiang Wang (Univ. of Tokyo, NII), Baiang Li (Hefei Univ. of Technology), Jian Wang (Snapchat), Yu-Lun Liu (National Yang Ming Chiao Tung Univ.), Jinwei Gu (Univ. of Hong Kong), Yung-Yu Chuang (National Taiwan Univ.), Shin'ichi Satoh (NII, Univ. of Tokyo), **"Matting by Generation"**, [SIGGRAPH]
+- IT-13: Yusuke Sekikawa, Shingo Yashima (DENSO IT Laboratory), **"SAS: Structured Activation Sparsification"**, [ICLR]
+- IT-14: Soichiro Kumano (Univ. of Tokyo), Hiroshi Kera (Chiba Univ.), Toshihiko Yamasaki (Univ. of Tokyo), **"Theoretical Understanding of Learning from Adversarial Perturbations"**, [ICLR]
+- IT-15: Atsuyuki Miyai (Univ. of Tokyo), Qing Yu (LY, Univ. of Tokyo), Go Irie (Tokyo Univ. of Science), Kiyoharu Aizawa (Univ. of Tokyo), **"LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning"**, [NeurIPS]
+- IT-16: Yuki Fujimura (NAIST), Masaaki Iiyama (Shiga Univ.), Takuya Funatomi, Yasuhiro Mukaigawa (NAIST), **"Deep Depth from Focal Stack with Defocus Model for Camera-Setting Invariance"**, [IJCV]
+
+
 ## 13:00 - 13:10 Tutorial introduction: 4F Main Hall
 ## 13:10 - 14:40 Tutorial 1: 4F Main Hall
 - [Vision Technologies for Autonomous Driving (Prof. Ikuro Sato) ]({{< ref "/program/tutorial#tutorial-1-august-6-1310-1440" >}})
@@ -977,6 +1001,8 @@ title: "Timetable"
 # Aug. 7th (Wed)
 ## 9:00 - 10:00 Oral session 1A (OS-1A): 4F Main Hall
 
+Chairman: Tsubasa Hirakawa (Chubu Univ.)
+
 - OS-1A-01: Shoma Iwai (Tohoku University)*; Atsuki Osanai (LY Corp.); Shunsuke KITADA (LY Corp.); Shinichiro Omachi (Tohoku University), **"Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model"**
 - OS-1A-02: 久保俊介, 松尾信之介 (九大), 末廣大貴 (横浜市大), 寺田和弘, 伊藤寛朗 (京大), 吉澤明彦 (奈良県立医科大), 備瀬竜馬 (九大), **"巨大バッグに対するLearning from Label Proportionのための理論的ラベル比率摂動"**
 - OS-1A-03: 砂田達巳, 塩原楓 (東大), 劉岳松, 丹治直人, 勢〆弘幸 (Septeni Japan), 肖玲, 山崎俊彦 (東大), **"大規模マルチモーダルモデルを用いた広告画像の評価・改善"**
@@ -988,6 +1014,8 @@ title: "Timetable"
 
 
 ## 10:10 - 11:10 Oral session 1B (OS-1B): 4F Main Hall
+
+Chairman: Takuhiro Kaneko (NTT)
 
 - OS-1B-01: 広橋佑紀 (中部大, オムロン), 平川翼, 山下隆義, 藤吉弘亘 (中部大), **"視覚言語モデルの特徴空間分析に基づく極少数サンプルによるプロンプトラーニング"**
 - OS-1B-02: 伊藤光一郎 (日立), **"Referring Image Segmentationに向けたCLIPとSAM併用のための特徴量設計"**
@@ -1001,6 +1029,8 @@ title: "Timetable"
 
 ## 11:20 - 12:20 Oral session 1C (OS-1C): 4F Main Hall
 
+Chairman: Atsushi Hashimoto (OSX)
+
 - OS-1C-01: Yasufumi Kawano (Keio Univ.)*; Yoshimitsu Aoki (Keio University), **"TAG: Guidance-free Open-Vocabulary Semantic Segmentation"**
 - OS-1C-02: Huaying Zhang (Hokkaido University)*; Rintaro Yanagi (Hokkaido University); Ren Togo (Hokkaido University); Takahiro Ogawa (Hokkaido University); Miki Haseyama (Hokkaido University), **"Integrating Query-target Relationship to Zero-shot Composed Image Retrieval from Masked Image-text Pairs"**
 - OS-1C-03: Tomoya Sugihara (University of Tokyo)*; Shuntaro Masuda (The University of Tokyo); Ling Xiao (The university of Tokyo); Toshihiko Yamasaki (The University of Tokyo), **"Language-Guided Self-Supervised Video Summarization Using Text Semantic Matching"**
@@ -1013,7 +1043,10 @@ title: "Timetable"
 
 ## 12:20 - 13:30 Work life balance events: 3F Conference Room B
 - [MIRU 2024 Work-Life Balance Project ～So that everyone can follow their own path.～](https://sites.google.com/view/miru2024wlb/english)
+
 ## 13:30 - 14:30 Oral session 1D (OS-1D): 4F Main Hall
+
+Chairman: Tatsuya Yokota (NITech)
 
 - OS-1D-01: 鬼久保拓人, 松井勇佑 (東大), **"画像生成モデルの追加学習に対する敵対的高周波領域攻撃"**
 - OS-1D-02: Yugo Kubota (Kyushu University)*; Daichi Haraguchi (CyberAgent); Seiichi Uchida (Kyushu University), **"Co-embedding Font Shapes and Impressions by Contrastive Learning"**
@@ -1026,6 +1059,8 @@ title: "Timetable"
 
 
 ## 14:40 - 16:10 Oral session 1E (OS-1E): 4F Main Hall
+
+Chairman: Fumio Okura (Osaka Univ.)
 
 - OS-1E-01: Jiafeng Mao (The University of Tokyo)*; Xueting Wang (CyberAgent, Inc.); Kiyoharu Aizawa (The University of Tokyo), **"Towards Semantic-Driven Initialization: Winning Tickets in Initial Noise"**
 - OS-1E-02: 松井勇佑 (東大), 横田達也 (名工大), **"ブロードキャスト積：テンソル形状を揃えた要素積演算"**
@@ -1341,7 +1376,10 @@ title: "Timetable"
 # Aug. 8th (Thu)
 ## 9:00 - 10:00 Keynote session: 4F Main Hall
 - [How do humans connect the continuous visual world and discrete linguistic symbols? (Prof. Mutsumi Imai)]({{< ref "/program/keynote#keynote-1-august-8-900-1000" >}})
+
 ## 10:10 - 11:10 Oral session 2A (OS-2A): 4F Main Hall
+
+Chairman: Yuta Nakashima (Osaka Univ.)
 
 - OS-2A-01: Kento Sasaki (Turing.Inc); Yuichi Inoue (Turing Inc.)*; Kazuki Fujii (Tokyo Institute of Technology); Kotaro Tanahashi (Turing Inc.); Yu Yamaguchi (Turing Inc.), **"大規模言語モデルを用いた日本語視覚言語モデルの評価方法とベースラインモデルの提案 (Constructing and Evaluating Japanese Vision Language Models Using Large Language Models)"**
 - OS-2A-02: Naoya Sogi (NEC Corporation)*; Takashi Shibata (NEC Corporation); Makoto Terao (NEC Corporation), **"Object-Aware Query Perturbation for Cross-Modal Image-Text Retrieval"**
@@ -1354,6 +1392,8 @@ title: "Timetable"
 
 
 ## 11:20 - 12:20 Oral session 2B (OS-2B): 4F Main Hall
+
+Chairman: Yuzuko Utsumi (OMU)
 
 - OS-2B-01: Jiaqi Bao (Cyberagent )*; Ryo Yonetani (CyberAgent), **"Path Planning using Language-Guided Probabilistic Roadmaps"**
 - OS-2B-02: 鈴木共生, 前野一樹, 橋本潔 (パナソニックコネクト), 石井育規 (パナソニックホールディングス), 山下隆義 (中部大), **"物体特徴を捉えるためのFDSLとCGを組合せた事前学習"**
@@ -1373,6 +1413,8 @@ title: "Timetable"
 
 ## 13:30 - 14:30 Oral session 2C (OS-2C): 4F Main Hall
 
+Chairman: Yusuke Sekikawa (Denso IT)
+
 - OS-2C-01: Ryota Ishizaki (Tokyo University of Science)*; Shunya Yamagami (Tokyo University of Science); Yuta Goto (Tokyo University of Science); Go Irie (Tokyo University of Science), **"Linear Calibration Approach to Knowledge-free Group-Robust Classification"**
 - OS-2C-02: Yuki Imajuku (The University of Tokyo)*; Yoko Yamakata (University of Tokyo, Japan); Kiyoharu Aizawa (The University of Tokyo), **"マルチモーダルLLMを用いた食事画像からのレシピ生成 (Recipe generation from food images using multimodal VLM)"**
 - OS-2C-03: Shoma Iwai (Tohoku University)*; Tomo Miyazaki (Tohoku University); Shinichiro Omachi (Tohoku University), **"画像圧縮におけるVQGAN活用のための双条件付き学習 (Dual Conditioned Training for Exploiting VQGAN in Image Compression)"**
@@ -1383,6 +1425,8 @@ title: "Timetable"
 
 
 ## 14:40 - 16:10 Oral session 2D (OS-2D): 4F Main Hall
+
+Chairman: Gaku Nakano (NEC)
 
 - OS-2D-01: Shogo Sato (NTT Corporation)*; Takuhiro Kaneko (NTT Corporation); Taiga Yoshida (NTT Corporation); Kazuhiko Murasaki (NTT Corporation); Ryuichi Tanida (NTT Corporation); Akisato Kimura (NTT Corporation), **"Unsupervised Intrinsic Image Decomposition with LiDAR Intensity Enhanced Training"**
 - OS-2D-02: Taro Togo (Hokkaido University)*; Ren Togo (Hokkaido University); Keisuke Maeda (Hokkaido University); Takahiro Ogawa (Hokkaido University); Miki Haseyama (Hokkaido University), **"Refining Generative Class Incremental Learning Performance through Model Forgetting Strategies"**
@@ -1696,7 +1740,10 @@ title: "Timetable"
 # Aug. 9th (Fri)
 ## 9:00 - 10:00 Keynote session: 4F Main Hall
 - [JIZAI Body: beyond human limits (Prof. Masahiko Inami)]({{< ref "/program/keynote#keynote-2-august-9-900-1000" >}})
+
 ## 10:10 - 11:40 Oral session 3A (OS-3A): 4F Main Hall
+
+Chairman: Kazuki Kozuka (Panasonic)
 
 - OS-3A-01: 有川尚輝, 前田涼汰, 日浦慎作 (兵庫県立大), **"偏光計測系と分類器の同時最適化による材質認識"**
 - OS-3A-02: Shuhei M Yoshida (NEC Corporation)*; Takashi Shibata (NEC Corporation); Makoto Terao (NEC Corporation); Takayuki Okatani (Tohoku University/RIKEN AIP); Masashi Sugiyama (RIKEN/The University of Tokyo), **"Action-Agnostic Point-Level Supervision for Temporal Action Detection"**

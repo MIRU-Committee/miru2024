@@ -964,6 +964,11 @@ title: "Timetable"
 # Aug. 6th (Tue)
 ## 10:00 - 10:20 Opening remarks: 4F Main Hall
 ## 10:20 - 11:50 Invited talks: 4F Main Hall
+
+Chairman: Yuki Fujimura (NAIST)
+
+{% IT %}
+
 ## 13:00 - 13:10 Tutorial introduction: 4F Main Hall
 ## 13:10 - 14:40 Tutorial 1: 4F Main Hall
 - [Vision Technologies for Autonomous Driving (Prof. Ikuro Sato) ]({{< ref "/program/tutorial#tutorial-1-august-6-1310-1440" >}})
@@ -977,27 +982,38 @@ title: "Timetable"
 # Aug. 7th (Wed)
 ## 9:00 - 10:00 Oral session 1A (OS-1A): 4F Main Hall
 
+Chairman: Tsubasa Hirakawa (Chubu Univ.)
+
 {% OS-1A %}
 
 
 ## 10:10 - 11:10 Oral session 1B (OS-1B): 4F Main Hall
+
+Chairman: Takuhiro Kaneko (NTT)
 
 {% OS-1B %}
 
 
 ## 11:20 - 12:20 Oral session 1C (OS-1C): 4F Main Hall
 
+Chairman: Atsushi Hashimoto (OSX)
+
 {% OS-1C %}
 
 
 ## 12:20 - 13:30 Work life balance events: 3F Conference Room B
 - [MIRU 2024 Work-Life Balance Project ～So that everyone can follow their own path.～](https://sites.google.com/view/miru2024wlb/english)
+
 ## 13:30 - 14:30 Oral session 1D (OS-1D): 4F Main Hall
+
+Chairman: Tatsuya Yokota (NITech)
 
 {% OS-1D %}
 
 
 ## 14:40 - 16:10 Oral session 1E (OS-1E): 4F Main Hall
+
+Chairman: Fumio Okura (Osaka Univ.)
 
 {% OS-1E %}
 
@@ -1018,12 +1034,17 @@ title: "Timetable"
 # Aug. 8th (Thu)
 ## 9:00 - 10:00 Keynote session: 4F Main Hall
 - [How do humans connect the continuous visual world and discrete linguistic symbols? (Prof. Mutsumi Imai)]({{< ref "/program/keynote#keynote-1-august-8-900-1000" >}})
+
 ## 10:10 - 11:10 Oral session 2A (OS-2A): 4F Main Hall
+
+Chairman: Yuta Nakashima (Osaka Univ.)
 
 {% OS-2A %}
 
 
 ## 11:20 - 12:20 Oral session 2B (OS-2B): 4F Main Hall
+
+Chairman: Yuzuko Utsumi (OMU)
 
 {% OS-2B %}
 
@@ -1036,9 +1057,13 @@ title: "Timetable"
 
 ## 13:30 - 14:30 Oral session 2C (OS-2C): 4F Main Hall
 
+Chairman: Yusuke Sekikawa (Denso IT)
+
 {% OS-2C %}
 
 ## 14:40 - 16:10 Oral session 2D (OS-2D): 4F Main Hall
+
+Chairman: Gaku Nakano (NEC)
 
 {% OS-2D %}
 
@@ -1062,7 +1087,10 @@ title: "Timetable"
 # Aug. 9th (Fri)
 ## 9:00 - 10:00 Keynote session: 4F Main Hall
 - [JIZAI Body: beyond human limits (Prof. Masahiko Inami)]({{< ref "/program/keynote#keynote-2-august-9-900-1000" >}})
+
 ## 10:10 - 11:40 Oral session 3A (OS-3A): 4F Main Hall
+
+Chairman: Kazuki Kozuka (Panasonic)
 
 {% OS-3A %}
 
