@@ -972,6 +972,9 @@ title: "タイムテーブル"
 ## 10:00 - 10:20 オープニング：4Fメインホール
 ## 10:20 - 11:50 招待講演：4Fメインホール
 
+座長：藤村 友貴（奈良先端大）
+
+
 - IT-01: Nobuhiko Wakai, Satoshi Sato, Yasunori Ishii (Panasonic Holdings), Takayoshi Yamashita (Chubu Univ.), **"Deep Single Image Camera Calibration by Heatmap Regression to Recover Fisheye Images Under Manhattan World Assumption"**, [CVPR]
 - IT-02: Yuzuru Nakamura, Yasunori Ishii (Panasonic Holdings), Takayoshi Yamashita (Chubu Univ.), **"Active Domain Adaptation with False Negative Prediction for Object Detection"**, [CVPR]
 - IT-03: Shintaro Shiba (Keio Univ., TU Berlin), Friedhelm Hamann (TU Berlin), Yoshimitsu Aoki (Keio Univ.), Guillermo Gallego (TU Berlin), **"Event-Based Background-Oriented Schlieren"**, [TPAMI]
@@ -1006,6 +1009,8 @@ title: "タイムテーブル"
 # 8月7日（水）
 ## 9:00 - 10:00 オーラル1A（OS-1A）：4Fメインホール
 
+座長：平川 翼（中部大）
+
 - OS-1A-01: 岩井翔真 (東北大), 長内淳樹, 北田俊輔 (LINEヤフー), 大町真一郎 (東北大), **"Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model"**
 - OS-1A-02: 久保俊介, 松尾信之介 (九大), 末廣大貴 (横浜市大), 寺田和弘, 伊藤寛朗 (京大), 吉澤明彦 (奈良県立医科大), 備瀬竜馬 (九大), **"巨大バッグに対するLearning from Label Proportionのための理論的ラベル比率摂動"**
 - OS-1A-03: 砂田達巳, 塩原楓 (東大), 劉岳松, 丹治直人, 勢〆弘幸 (Septeni Japan), 肖玲, 山崎俊彦 (東大), **"大規模マルチモーダルモデルを用いた広告画像の評価・改善"**
@@ -1017,6 +1022,8 @@ title: "タイムテーブル"
 
 ## 10:10 - 11:10 オーラル1B（OS-1B）：4Fメインホール
 
+座長：金子 卓弘（NTT）
+
 - OS-1B-01: 広橋佑紀 (中部大, オムロン), 平川翼, 山下隆義, 藤吉弘亘 (中部大), **"視覚言語モデルの特徴空間分析に基づく極少数サンプルによるプロンプトラーニング"**
 - OS-1B-02: 伊藤光一郎 (日立), **"Referring Image Segmentationに向けたCLIPとSAM併用のための特徴量設計"**
 - OS-1B-03: Jane Wu (Stanford Univ.), Diego Thomas (Kyushu Univ.), Ronald Fedkiw (Stanford Univ., Epic Games), **"3D reconstruction of clothed human bodies from a few views via normal maps"**
@@ -1027,6 +1034,8 @@ title: "タイムテーブル"
 
 
 ## 11:20 - 12:20 オーラル1C（OS-1C）：4Fメインホール
+
+座長：橋本 敦史（OSX）
 
 - OS-1C-01: Yasufumi Kawano, Yoshimitsu Aoki (Keio Univ.), **"TAG: Guidance-free Open-Vocabulary Semantic Segmentation"**
 - OS-1C-02: Huaying Zhang, Rintaro Yanagi, Ren Togo, Takahiro Ogawa, Miki Haseyama (Hokkaido Univ.), **"Integrating Query-target Relationship to Zero-shot Composed Image Retrieval from Masked Image-text Pairs"**
@@ -1043,6 +1052,8 @@ title: "タイムテーブル"
 
 ## 13:30 - 14:30 オーラル1D（OS-1D）：4Fメインホール
 
+座長：横田 達也（名工大）
+
 - OS-1D-01: 鬼久保拓人, 松井勇佑 (東大), **"画像生成モデルの追加学習に対する敵対的高周波領域攻撃"**
 - OS-1D-02: Yugo Kubota, Daichi Haraguchi, Seiichi Uchida (Kyushu Univ.), **"Co-embedding Font Shapes and Impressions by Contrastive Learning"**
 - OS-1D-03: 門田健明 (慶大), 備瀬竜馬 (九大), 田中聖人 (京都第二赤十字病院), 早志英朗 (阪大), **"重症度比較における不確実性と信頼度に基づく教師なしドメイン適応"**
@@ -1054,6 +1065,8 @@ title: "タイムテーブル"
 
 
 ## 14:40 - 16:10 オーラル1E（OS-1E）：4Fメインホール
+
+座長：大倉 史生（阪大）
 
 - OS-1E-01: Jiafeng Mao (Univ. of Tokyo), Xueting Wang (CyberAgent), Kiyoharu Aizawa (Univ. of Tokyo), **"Towards Semantic-Driven Initialization: Winning Tickets in Initial Noise"**
 - OS-1E-02: 松井勇佑 (東大), 横田達也 (名工大), **"ブロードキャスト積：テンソル形状を揃えた要素積演算"**
@@ -1370,6 +1383,8 @@ title: "タイムテーブル"
 - [ビジュアルワールドを言語はどのように記号化しているのか（今井 むつみ 先生）]({{< ref "/program/keynote#特別講演１-88-900-1000" >}})
 ## 10:10 - 11:10 オーラル2A（OS-2A）：4Fメインホール
 
+座長：中島 悠太（阪大）
+
 - OS-2A-01: 佐々木謙人 (Turing, 筑波大), 井ノ上雄一 (Turing, 慶大), 藤井一喜 (Turing, 東工大), 棚橋耕太郎 (Turing), 山口祐 (Turing, 慶大), **"大規模言語モデルを用いた日本語視覚言語モデルの評価方法とベースラインモデルの提案"**
 - OS-2A-02: Naoya Sogi, Takashi Shibata, Makoto Terao (NEC), **"Object-Aware Query Perturbation for Cross-Modal Image-Text Retrieval"**
 - OS-2A-03: 竹崎隼平 (九大), 田中聖人 (京都第二赤十字病院), 内田誠一 (九大), **"誤りのある順序付きラベルでの自己緩和型共同学習による重症度推定"**
@@ -1381,6 +1396,8 @@ title: "タイムテーブル"
 
 
 ## 11:20 - 12:20 オーラル2B（OS-2B）：4Fメインホール
+
+座長：内海 ゆづ子（大阪公立大）
 
 - OS-2B-01: Jiaqi Bao, Ryo Yonetani (CyberAgent), **"Path Planning using Language-Guided Probabilistic Roadmaps"**
 - OS-2B-02: 鈴木共生, 前野一樹, 橋本潔 (パナソニックコネクト), 石井育規 (パナソニックホールディングス), 山下隆義 (中部大), **"物体特徴を捉えるためのFDSLとCGを組合せた事前学習"**
@@ -1401,6 +1418,8 @@ title: "タイムテーブル"
 
 ## 13:30 - 14:30 オーラル2C（OS-2C）：4Fメインホール
 
+座長：関川 雄介（デンソーIT）
+
 - OS-2C-01: Ryota Ishizaki, Shunya Yamagami, Yuta Goto, Go Irie (Tokyo Univ. of Science), **"Linear Calibration Approach to Knowledge-free Group-Robust Classification"**
 - OS-2C-02: 今宿祐希, 山肩洋子, 相澤清晴 (東大), **"マルチモーダルLLMを用いた食事画像からのレシピ生成"**
 - OS-2C-03: 岩井翔真, 宮崎智, 大町真一郎 (東北大), **"画像圧縮におけるVQGAN活用のための双条件付き学習"**
@@ -1411,6 +1430,8 @@ title: "タイムテーブル"
 
 
 ## 14:40 - 16:10 オーラル2D（OS-2D）：4Fメインホール
+
+座長：中野 学（NEC）
 
 - OS-2D-01: Shogo Sato, Takuhiro Kaneko, Taiga Yoshida, Kazuhiko Murasaki, Ryuichi Tanida, Akisato Kimura (NTT), **"Unsupervised Intrinsic Image Decomposition with LiDAR Intensity Enhanced Training"**
 - OS-2D-02: Taro Togo, Ren Togo, Keisuke Maeda, Takahiro Ogawa, Miki Haseyama (Hokkaido Univ.), **"Refining Generative Class Incremental Learning Performance through Model Forgetting Strategies"**
@@ -1723,6 +1744,8 @@ title: "タイムテーブル"
 ## 9:00 - 10:00 特別講演：4Fメインホール
 - [自在化する身体: 身体の限界を超えて（稲見 昌彦 先生）]({{< ref "/program/keynote#特別講演２-89-900-1000" >}})
 ## 10:10 - 11:40 オーラル3A（OS-3A）：4Fメインホール
+
+座長：小塚 和紀（パナソニック）
 
 - OS-3A-01: 有川尚輝, 前田涼汰, 日浦慎作 (兵庫県立大), **"偏光計測系と分類器の同時最適化による材質認識"**
 - OS-3A-02: Shuhei M. Yoshida, Takashi Shibata, Makoto Terao (NEC), Takayuki Okatani (Tohoku Univ., RIKEN), Masashi Sugiyama (RIKEN, Univ. of Tokyo), **"Action-Agnostic Point-Level Supervision for Temporal Action Detection"**
