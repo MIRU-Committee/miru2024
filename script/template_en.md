@@ -965,7 +965,7 @@ title: "Timetable"
 ## 10:00 - 10:20 Opening remarks: 4F Main Hall
 ## 10:20 - 11:50 Invited talks: 4F Main Hall
 
-Chairman: Yuki Fujimura (NAIST)
+Session chair: Yuki Fujimura (NAIST)
 
 {% IT %}
 
@@ -982,21 +982,21 @@ Chairman: Yuki Fujimura (NAIST)
 # Aug. 7th (Wed)
 ## 9:00 - 10:00 Oral session 1A (OS-1A): 4F Main Hall
 
-Chairman: Tsubasa Hirakawa (Chubu Univ.)
+Session chair: Tsubasa Hirakawa (Chubu Univ.)
 
 {% OS-1A %}
 
 
 ## 10:10 - 11:10 Oral session 1B (OS-1B): 4F Main Hall
 
-Chairman: Takuhiro Kaneko (NTT)
+Session chair: Takuhiro Kaneko (NTT)
 
 {% OS-1B %}
 
 
 ## 11:20 - 12:20 Oral session 1C (OS-1C): 4F Main Hall
 
-Chairman: Atsushi Hashimoto (OSX)
+Session chair: Atsushi Hashimoto (OSX)
 
 {% OS-1C %}
 
@@ -1006,14 +1006,14 @@ Chairman: Atsushi Hashimoto (OSX)
 
 ## 13:30 - 14:30 Oral session 1D (OS-1D): 4F Main Hall
 
-Chairman: Tatsuya Yokota (NITech)
+Session chair: Tatsuya Yokota (NITech)
 
 {% OS-1D %}
 
 
 ## 14:40 - 16:10 Oral session 1E (OS-1E): 4F Main Hall
 
-Chairman: Fumio Okura (Osaka Univ.)
+Session chair: Fumio Okura (Osaka Univ.)
 
 {% OS-1E %}
 
@@ -1037,14 +1037,14 @@ Chairman: Fumio Okura (Osaka Univ.)
 
 ## 10:10 - 11:10 Oral session 2A (OS-2A): 4F Main Hall
 
-Chairman: Yuta Nakashima (Osaka Univ.)
+Session chair: Yuta Nakashima (Osaka Univ.)
 
 {% OS-2A %}
 
 
 ## 11:20 - 12:20 Oral session 2B (OS-2B): 4F Main Hall
 
-Chairman: Yuzuko Utsumi (OMU)
+Session chair: Yuzuko Utsumi (OMU)
 
 {% OS-2B %}
 
@@ -1057,13 +1057,13 @@ Chairman: Yuzuko Utsumi (OMU)
 
 ## 13:30 - 14:30 Oral session 2C (OS-2C): 4F Main Hall
 
-Chairman: Yusuke Sekikawa (Denso IT)
+Session chair: Yusuke Sekikawa (Denso IT)
 
 {% OS-2C %}
 
 ## 14:40 - 16:10 Oral session 2D (OS-2D): 4F Main Hall
 
-Chairman: Gaku Nakano (NEC)
+Session chair: Gaku Nakano (NEC)
 
 {% OS-2D %}
 
@@ -1090,7 +1090,7 @@ Chairman: Gaku Nakano (NEC)
 
 ## 10:10 - 11:40 Oral session 3A (OS-3A): 4F Main Hall
 
-Chairman: Kazuki Kozuka (Panasonic)
+Session chair: Kazuki Kozuka (Panasonic)
 
 {% OS-3A %}
 

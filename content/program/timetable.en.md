@@ -965,7 +965,7 @@ title: "Timetable"
 ## 10:00 - 10:20 Opening remarks: 4F Main Hall
 ## 10:20 - 11:50 Invited talks: 4F Main Hall
 
-Chairman: Yuki Fujimura (NAIST)
+Session chair: Yuki Fujimura (NAIST)
 
 - IT-01: Nobuhiko Wakai, Satoshi Sato, Yasunori Ishii (Panasonic Holdings), Takayoshi Yamashita (Chubu Univ.), **"Deep Single Image Camera Calibration by Heatmap Regression to Recover Fisheye Images Under Manhattan World Assumption"**, [CVPR]
 - IT-02: Yuzuru Nakamura, Yasunori Ishii (Panasonic Holdings), Takayoshi Yamashita (Chubu Univ.), **"Active Domain Adaptation with False Negative Prediction for Object Detection"**, [CVPR]
@@ -1001,7 +1001,7 @@ Chairman: Yuki Fujimura (NAIST)
 # Aug. 7th (Wed)
 ## 9:00 - 10:00 Oral session 1A (OS-1A): 4F Main Hall
 
-Chairman: Tsubasa Hirakawa (Chubu Univ.)
+Session chair: Tsubasa Hirakawa (Chubu Univ.)
 
 - OS-1A-01: Shoma Iwai (Tohoku University)*; Atsuki Osanai (LY Corp.); Shunsuke KITADA (LY Corp.); Shinichiro Omachi (Tohoku University), **"Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model"**
 - OS-1A-02: 久保俊介, 松尾信之介 (九大), 末廣大貴 (横浜市大), 寺田和弘, 伊藤寛朗 (京大), 吉澤明彦 (奈良県立医科大), 備瀬竜馬 (九大), **"巨大バッグに対するLearning from Label Proportionのための理論的ラベル比率摂動"**
@@ -1015,7 +1015,7 @@ Chairman: Tsubasa Hirakawa (Chubu Univ.)
 
 ## 10:10 - 11:10 Oral session 1B (OS-1B): 4F Main Hall
 
-Chairman: Takuhiro Kaneko (NTT)
+Session chair: Takuhiro Kaneko (NTT)
 
 - OS-1B-01: 広橋佑紀 (中部大, オムロン), 平川翼, 山下隆義, 藤吉弘亘 (中部大), **"視覚言語モデルの特徴空間分析に基づく極少数サンプルによるプロンプトラーニング"**
 - OS-1B-02: 伊藤光一郎 (日立), **"Referring Image Segmentationに向けたCLIPとSAM併用のための特徴量設計"**
@@ -1029,7 +1029,7 @@ Chairman: Takuhiro Kaneko (NTT)
 
 ## 11:20 - 12:20 Oral session 1C (OS-1C): 4F Main Hall
 
-Chairman: Atsushi Hashimoto (OSX)
+Session chair: Atsushi Hashimoto (OSX)
 
 - OS-1C-01: Yasufumi Kawano (Keio Univ.)*; Yoshimitsu Aoki (Keio University), **"TAG: Guidance-free Open-Vocabulary Semantic Segmentation"**
 - OS-1C-02: Huaying Zhang (Hokkaido University)*; Rintaro Yanagi (Hokkaido University); Ren Togo (Hokkaido University); Takahiro Ogawa (Hokkaido University); Miki Haseyama (Hokkaido University), **"Integrating Query-target Relationship to Zero-shot Composed Image Retrieval from Masked Image-text Pairs"**
@@ -1046,7 +1046,7 @@ Chairman: Atsushi Hashimoto (OSX)
 
 ## 13:30 - 14:30 Oral session 1D (OS-1D): 4F Main Hall
 
-Chairman: Tatsuya Yokota (NITech)
+Session chair: Tatsuya Yokota (NITech)
 
 - OS-1D-01: 鬼久保拓人, 松井勇佑 (東大), **"画像生成モデルの追加学習に対する敵対的高周波領域攻撃"**
 - OS-1D-02: Yugo Kubota (Kyushu University)*; Daichi Haraguchi (CyberAgent); Seiichi Uchida (Kyushu University), **"Co-embedding Font Shapes and Impressions by Contrastive Learning"**
@@ -1060,7 +1060,7 @@ Chairman: Tatsuya Yokota (NITech)
 
 ## 14:40 - 16:10 Oral session 1E (OS-1E): 4F Main Hall
 
-Chairman: Fumio Okura (Osaka Univ.)
+Session chair: Fumio Okura (Osaka Univ.)
 
 - OS-1E-01: Jiafeng Mao (The University of Tokyo)*; Xueting Wang (CyberAgent, Inc.); Kiyoharu Aizawa (The University of Tokyo), **"Towards Semantic-Driven Initialization: Winning Tickets in Initial Noise"**
 - OS-1E-02: 松井勇佑 (東大), 横田達也 (名工大), **"ブロードキャスト積：テンソル形状を揃えた要素積演算"**
@@ -1379,7 +1379,7 @@ Chairman: Fumio Okura (Osaka Univ.)
 
 ## 10:10 - 11:10 Oral session 2A (OS-2A): 4F Main Hall
 
-Chairman: Yuta Nakashima (Osaka Univ.)
+Session chair: Yuta Nakashima (Osaka Univ.)
 
 - OS-2A-01: Kento Sasaki (Turing.Inc); Yuichi Inoue (Turing Inc.)*; Kazuki Fujii (Tokyo Institute of Technology); Kotaro Tanahashi (Turing Inc.); Yu Yamaguchi (Turing Inc.), **"大規模言語モデルを用いた日本語視覚言語モデルの評価方法とベースラインモデルの提案 (Constructing and Evaluating Japanese Vision Language Models Using Large Language Models)"**
 - OS-2A-02: Naoya Sogi (NEC Corporation)*; Takashi Shibata (NEC Corporation); Makoto Terao (NEC Corporation), **"Object-Aware Query Perturbation for Cross-Modal Image-Text Retrieval"**
@@ -1393,7 +1393,7 @@ Chairman: Yuta Nakashima (Osaka Univ.)
 
 ## 11:20 - 12:20 Oral session 2B (OS-2B): 4F Main Hall
 
-Chairman: Yuzuko Utsumi (OMU)
+Session chair: Yuzuko Utsumi (OMU)
 
 - OS-2B-01: Jiaqi Bao (Cyberagent )*; Ryo Yonetani (CyberAgent), **"Path Planning using Language-Guided Probabilistic Roadmaps"**
 - OS-2B-02: 鈴木共生, 前野一樹, 橋本潔 (パナソニックコネクト), 石井育規 (パナソニックホールディングス), 山下隆義 (中部大), **"物体特徴を捉えるためのFDSLとCGを組合せた事前学習"**
@@ -1413,7 +1413,7 @@ Chairman: Yuzuko Utsumi (OMU)
 
 ## 13:30 - 14:30 Oral session 2C (OS-2C): 4F Main Hall
 
-Chairman: Yusuke Sekikawa (Denso IT)
+Session chair: Yusuke Sekikawa (Denso IT)
 
 - OS-2C-01: Ryota Ishizaki (Tokyo University of Science)*; Shunya Yamagami (Tokyo University of Science); Yuta Goto (Tokyo University of Science); Go Irie (Tokyo University of Science), **"Linear Calibration Approach to Knowledge-free Group-Robust Classification"**
 - OS-2C-02: Yuki Imajuku (The University of Tokyo)*; Yoko Yamakata (University of Tokyo, Japan); Kiyoharu Aizawa (The University of Tokyo), **"マルチモーダルLLMを用いた食事画像からのレシピ生成 (Recipe generation from food images using multimodal VLM)"**
@@ -1426,7 +1426,7 @@ Chairman: Yusuke Sekikawa (Denso IT)
 
 ## 14:40 - 16:10 Oral session 2D (OS-2D): 4F Main Hall
 
-Chairman: Gaku Nakano (NEC)
+Session chair: Gaku Nakano (NEC)
 
 - OS-2D-01: Shogo Sato (NTT Corporation)*; Takuhiro Kaneko (NTT Corporation); Taiga Yoshida (NTT Corporation); Kazuhiko Murasaki (NTT Corporation); Ryuichi Tanida (NTT Corporation); Akisato Kimura (NTT Corporation), **"Unsupervised Intrinsic Image Decomposition with LiDAR Intensity Enhanced Training"**
 - OS-2D-02: Taro Togo (Hokkaido University)*; Ren Togo (Hokkaido University); Keisuke Maeda (Hokkaido University); Takahiro Ogawa (Hokkaido University); Miki Haseyama (Hokkaido University), **"Refining Generative Class Incremental Learning Performance through Model Forgetting Strategies"**
@@ -1743,7 +1743,7 @@ Chairman: Gaku Nakano (NEC)
 
 ## 10:10 - 11:40 Oral session 3A (OS-3A): 4F Main Hall
 
-Chairman: Kazuki Kozuka (Panasonic)
+Session chair: Kazuki Kozuka (Panasonic)
 
 - OS-3A-01: 有川尚輝, 前田涼汰, 日浦慎作 (兵庫県立大), **"偏光計測系と分類器の同時最適化による材質認識"**
 - OS-3A-02: Shuhei M Yoshida (NEC Corporation)*; Takashi Shibata (NEC Corporation); Makoto Terao (NEC Corporation); Takayuki Okatani (Tohoku University/RIKEN AIP); Masashi Sugiyama (RIKEN/The University of Tokyo), **"Action-Agnostic Point-Level Supervision for Temporal Action Detection"**
