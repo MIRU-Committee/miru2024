@@ -12,13 +12,21 @@ Kumamoto-jo Hall 3F Conference Rooms A1-A4
 
 # Shipping and material handling
 - The delivery is scheduled for August 6, and the removal work is scheduled for August 9.
-- The start time for delivery and setup will be communicated later.
+- Delivery will be possible from 2:00 PM on Tuesday, August 6th. (Please start setting up from 3:00 PM.)
 - If you plan to send equipment or printed materials in advance, please send them to the venue with prepaid shipping, specifying delivery on the morning of Tuesday, August 6.
+- In the remarks column of the shipping label, please write “MIRU2024”, “3F Conference Room A”, “Booth ID as listed in the program”, and “Sender’s (responsible person’s) mobile phone number”.
+- We may refuse to accept items that do not have the specified information.
+- Delivery address: 1F Exhibition Hall, 3-40 Sakuramachi, Chuo-ku, Kumamoto City, Kumamoto Prefecture, 860-0805, Japan.
+
 
 # Removal
 - On Friday, August 9, the general rule is that no exhibitions will be held, and items will be removed.
-- Items that need to be removed by the shipping companies arranged by each participant must be done so by 13:30 on Friday, August 9 (the start time of Interactive Session 3).
+- Items that need to be removed by the shipping companies arranged by each participant must be done so by 13:00 on Friday, August 9 (the start time of Interactive Session 3).
 - For the safety of participants, removal work cannot be done during the Interactive Session 3.
+- For items being shipped out via Yamato Transport, please bring them to the Organizer’s Room A or Organizer’s Room B on the 1st Floor Exhibition Hall with the collect-on-delivery label attached by 4:00 PM on August 9th.
+- Please note that these items will be shipped on Saturday, August 10th.
+- Since the shipment will be handled by Yamato Transport’s Takkyubin service, the size of the package (length + width + height) must be within 200cm, and the weight must be up to 30kg. https://www.kuronekoyamato.co.jp/ytc/customer/send/services/takkyubin/
+- If you are using other shipping companies, please arrange it by yourself. For the safety of participants, shipping company pickups during the Interactive Session are not allowed. If you need to use the loading dock, please contact the organizer in advance.
 - The organizing committee will not manage your items, so please handle them at your own risk.
 
 # Entry and Exit Times
