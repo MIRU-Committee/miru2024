@@ -30,8 +30,9 @@ Kumamoto-jo Hall 3F Conference Rooms A1-A4
 - The organizing committee will not manage your items, so please handle them at your own risk.
 
 # Entry and Exit Times
-- You can begin setup in the exhibition hall from 15:00 on August 6.
-- On August 7, 8, and 9, you can enter the exhibition hall from 9:00.
+- You can begin setup in Conference Room A from 15:00 on August 6.
+- On August 7, 8, and 9, you can enter Conference Room A from 9:00.
+- Please exit Conference Room A by 18:10 on August 6, and by 18:30 on August 7 and 8. The room will be locked after these times.
 
 # Booth specification
 The following will be provided:
