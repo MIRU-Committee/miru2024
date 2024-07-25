@@ -58,7 +58,7 @@ if __name__ == '__main__':
     with open(args.template, 'r') as f:
         tmpl = f.read()
 
-    # Not interactive session
+    # Oral session (i.e., not interactive session)
     session_ids = [
         'IT',
         'OS-1A', 'OS-1B', 'OS-1C', 'OS-1D', 'OS-1E',
@@ -74,12 +74,12 @@ if __name__ == '__main__':
         'IS-1A', 'IS-1B', 'IS-2A', 'IS-2B', 'IS-3A', 'IS-3B',
     ]
 
-    # For each session (w/o interactive sessions), render the body of the papers and replace the placeholder.
+    # For each oral session, render the body of the papers and replace the placeholder.
     for session_id in session_ids:
         body = ""
-        
+
         # e.g., select rows with SessionID == 'OS-1A'
-        for _, row in df[df['SessionID'] == session_id].iterrows():
+        for _, row in df[df['SessionID'] == session_id].sort_values(by='Poster ID').iterrows():
             body += render_body(row, args.lang) + '\n'
 
         # e.g., replace "{% OS-1A %}" with
