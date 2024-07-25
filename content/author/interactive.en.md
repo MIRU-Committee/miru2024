@@ -12,7 +12,7 @@ title: "Interactive presentation"
 
 - One of August 7, 8, or 9 (during the interactive session).
 - You cannot leave your poster up except on the day of your presentation.
-Please be sure to affix your poster before your presentation time. After your presentation, please remove it by yourself and take it home.
+- Please be sure to affix your poster before your presentation time. After your presentation, please remove it by yourself and take it home. If there are any posters left from the previous day, please inform an organizer present at the venue.
 
 # Poster specification
 
