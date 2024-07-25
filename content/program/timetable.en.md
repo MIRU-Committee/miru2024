@@ -971,9 +971,6 @@ Session chair: Yuki Fujimura (NAIST)
 - IT-02: Yuzuru Nakamura, Yasunori Ishii (Panasonic Holdings), Takayoshi Yamashita (Chubu Univ.), **"Active Domain Adaptation with False Negative Prediction for Object Detection"**, [CVPR]
 - IT-03: Shintaro Shiba (Keio Univ., TU Berlin), Friedhelm Hamann (TU Berlin), Yoshimitsu Aoki (Keio Univ.), Guillermo Gallego (TU Berlin), **"Event-Based Background-Oriented Schlieren"**, [TPAMI]
 - IT-04: Lang Huang (Univ. of Tokyo), Chao Zhang (Peking Univ.), Hongyang Zhang (Univ. of Waterloo), **"Self-Adaptive Training: Bridging Supervised and Self-Supervised Learning"**, [TPAMI]
-- IT-17: Qingxiuxiong Dong, Toshimitsu Kaneko (Toshiba), Masashi Sugiyama (Riken, Univ. of Tokyo), **"An Offline Learning of Behavior Correction Policy for Vision-Based Robotic Manipulation"**, [ICRA]
-- IT-18: Takahiro Maeda, Norimichi Ukita (Toyota Technological Institute), **"Fast Inference and Update of Probabilistic Density Estimation on Trajectory Prediction"**, [ICCV]
-- IT-19: Xu Cao, Takafumi Taketomi (CyberAgent), **"SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration"**, [CVPR]
 - IT-05: Daichi Horita (Univ. of Tokyo), Naoto Inoue, Kotaro Kikuchi, Kota Yamaguchi (CyberAgent), Kiyoharu Aizawa (Univ. of Tokyo), **"Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation"**, [CVPR]
 - IT-06: Tianwei Chen, Yusuke Hirota (Osaka Univ.), Mayu Otani (CyberAgent), Noa Garcia, Yuta Nakashima (Osaka Univ.), **"Would Deep Generative Models Amplify Bias in Future Models?"**, [CVPR]
 - IT-07: Kosuke Sumiyasu, Kazuhiko Kawamoto, Hiroshi Kera (Chiba Univ.), **"Identifying Important Group of Pixels using Interactions"**, [CVPR]
@@ -986,6 +983,9 @@ Session chair: Yuki Fujimura (NAIST)
 - IT-14: Soichiro Kumano (Univ. of Tokyo), Hiroshi Kera (Chiba Univ.), Toshihiko Yamasaki (Univ. of Tokyo), **"Theoretical Understanding of Learning from Adversarial Perturbations"**, [ICLR]
 - IT-15: Atsuyuki Miyai (Univ. of Tokyo), Qing Yu (LY, Univ. of Tokyo), Go Irie (Tokyo Univ. of Science), Kiyoharu Aizawa (Univ. of Tokyo), **"LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning"**, [NeurIPS]
 - IT-16: Yuki Fujimura (NAIST), Masaaki Iiyama (Shiga Univ.), Takuya Funatomi, Yasuhiro Mukaigawa (NAIST), **"Deep Depth from Focal Stack with Defocus Model for Camera-Setting Invariance"**, [IJCV]
+- IT-17: Qingxiuxiong Dong, Toshimitsu Kaneko (Toshiba), Masashi Sugiyama (Riken, Univ. of Tokyo), **"An Offline Learning of Behavior Correction Policy for Vision-Based Robotic Manipulation"**, [ICRA]
+- IT-18: Takahiro Maeda, Norimichi Ukita (Toyota Technological Institute), **"Fast Inference and Update of Probabilistic Density Estimation on Trajectory Prediction"**, [ICCV]
+- IT-19: Xu Cao, Takafumi Taketomi (CyberAgent), **"SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration"**, [CVPR]
 
 
 ## 13:00 - 13:10 Tutorial introduction: 4F Main Hall
