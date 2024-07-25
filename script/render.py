@@ -79,7 +79,21 @@ if __name__ == '__main__':
         body = ""
 
         # e.g., select rows with SessionID == 'OS-1A'
-        for _, row in df[df['SessionID'] == session_id].sort_values(by='Poster ID').iterrows():
+        rows = [row for _, row in df[df['SessionID'] == session_id].sort_values(by='Poster ID').iterrows()]
+
+        # =============== Exceptional operation for IT-04 ==============
+        # Custom sorting key to move 'IT-04' to the end if SessionID is 'IT'
+        def custom_sort_key(row):
+            if row['SessionID'] == 'IT':
+                return (row['Poster ID'] == 'IT-04', row['Poster ID'])
+            else:
+                return row['Poster ID']
+            
+        rows.sort(key=custom_sort_key)
+        # ===============================================================
+
+        # Render each row and concatenate them.
+        for row in rows:
             body += render_body(row, args.lang) + '\n'
 
         # e.g., replace "{% OS-1A %}" with
