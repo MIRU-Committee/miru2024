@@ -288,7 +288,7 @@ title: "タイムテーブル"
             <td class="s3"></td>
             <td class="s7" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-企業イベント企画3f中会議室b">企業イベント企画<br> （3F中会議室B&E）</a><br>・ランチ<br> 12:20~13:30<br> 70分</td>
             <td class="s3"></td>
-            <td class="s7" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-インターナショナルイベント企画3f中会議室b">国際イベント企画<br> （3F中会議室B）</a><br>・ランチ<br> 12:20~13:30<br> 70分</td>
+            <td class="s7" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-インターナショナルイベント企画3f中会議室b">国際イベント企画（3F中会議室B）</a><br><a href="#1220---1305-メンターシップイベント企画3f中会議室e">メンターシップイベント企画（3F中会議室E）</a><br>・ランチ<br> 12:20~13:30<br> 70分</td>
          </tr>
          <tr style="height: 4px">
             <td class="s6"></td>
@@ -1760,8 +1760,13 @@ title: "タイムテーブル"
 
 
 ## 11:50 - 12:20 ワークライフバランス報告：4Fメインホール
+
 ## 12:20 - 13:30 インターナショナルイベント企画：3F中会議室B
 - [MIRU2024 International Lunch](https://sites.google.com/view/miru2024-internationallunch/)
+
+## 12:20 - 13:05 メンターシップイベント企画：3F中会議室E
+- [メンターシッププログラム ミートアップ](https://sites.google.com/view/prmu-rmp/miru/2024-meetup)
+
 
 ## 13:30 - 15:00 インタラクティブ3A（IS-3A）：3F大会議室A
 - OS-3A-01: 有川尚輝, 前田涼汰, 日浦慎作 (兵庫県立大), **"偏光計測系と分類器の同時最適化による材質認識"**
