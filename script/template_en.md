@@ -288,7 +288,6 @@ title: "Timetable"
             <td class="s3"></td>
             <td class="s6" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-sponsors-events-3f-conference-room-b">Sponsors events <br>(3F Conference Room B and E)</a><br>/ Lunch break<br> 12:20~13:30<br> 70 min.</td>
             <td class="s3"></td>
-            <!-- <td class="s6" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-international-events-3f-conference-room-b">International events <br>(3F Conference Room B)</a><br>/ Lunch break<br> 12:20~13:30<br> 70 min.</td> -->
             <td class="s6" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-international-events-3f-conference-room-b">International events (3F Conference Room B)</a><br><a href="#1220---1305-mentorship-events-3f-conference-room-e">Mentorship events (3F Conference Room E)</a><br>/ Lunch break<br> 12:20~13:30<br> 70 min.</td>
          </tr>
          <tr style="height: 4px">
