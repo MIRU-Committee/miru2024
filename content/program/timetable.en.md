@@ -957,7 +957,11 @@ title: "Timetable"
 
 - All events will be held in the Main Hall on the 4th floor unless a specific location is indicated.
 - Lunch will not be provided during lunch hours. If you are attending a lunch event, lunch may be provided, so please check each event page for details.
-
+- You can enter Kumamoto-jo Hall at the following times each day:
+    - Tuesday, August 6: 09:00
+    - Wednesday, August 7: 08:30
+    - Thursday, August 8: 08:30
+    - Friday, August 9: 08:30
 
 ---
 
