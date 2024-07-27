@@ -248,7 +248,7 @@ title: "Timetable"
             <td class="s3"></td>
             <td class="s3"></td>
             <td class="s3"></td>
-            <td class="s8" dir="ltr" colspan="2" rowspan="6">WLB session</td>
+            <td class="s8" dir="ltr" colspan="2" rowspan="6"><a href="#1150---1220-work-life-balance-session-4f-main-hall">WLB session</a></td>
          </tr>
          <tr style="height: 4px">
             <td class="s5"></td>
@@ -509,7 +509,7 @@ title: "Timetable"
             <td class="s3"></td>
             <td class="s3"></td>
             <td class="s3"></td>
-            <td class="s8" dir="ltr" colspan="2" rowspan="10">Special session<br>15:10 - 16:00</td>
+            <td class="s8" dir="ltr" colspan="2" rowspan="10"><a href="#1510---1600-special-session-4f-main-hall">Special session</a><br>15:10 - 16:00</td>
          </tr>
          <tr style="height: 4px">
             <td class="s5"></td>
@@ -766,7 +766,7 @@ title: "Timetable"
          <tr style="height: 4px">
             <td class="s5"></td>
             <td class="s3"></td>
-            <td class="s14" dir="ltr" colspan="2" rowspan="6">Town meeting<br>18:30 - 19:00</td>
+            <td class="s14" dir="ltr" colspan="2" rowspan="6"><a href="#1830---1900-town-meeting-4f-main-hall">Town meeting</a><br>18:30 - 19:00</td>
             <td class="s3"></td>
             <td class="s3"></td>
          </tr>
@@ -806,7 +806,7 @@ title: "Timetable"
             <td class="s3"></td>
             <td class="s15" colspan="2" rowspan="12"></td>
             <td class="s3"></td>
-            <td class="s17" dir="ltr" colspan="2" rowspan="24">Networking<br>banquet</td>
+            <td class="s17" dir="ltr" colspan="2" rowspan="24"><a href="#1900---2100-networking-banquet-hotel-nikko-kumamoto">Networking<br>banquet</a></td>
             <td class="s3"></td>
             <td class="s15" colspan="2" rowspan="12"></td>
          </tr>
