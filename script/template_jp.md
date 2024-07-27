@@ -244,7 +244,7 @@ title: "タイムテーブル"
          </tr>
          <tr style="height: 4px">
             <td class="s6"></td>
-            <td class="s7" dir="ltr" rowspan="14">ランチ<br> 11:50~13:00<br> 70分</td>
+            <td class="s7" dir="ltr" rowspan="14">ランチ<br> 11:50 - 13:00<br> 70分</td>
             <td class="s3"></td>
             <td class="s3"></td>
             <td class="s3"></td>
@@ -284,11 +284,11 @@ title: "タイムテーブル"
          <tr style="height: 4px">
             <td class="s6"></td>
             <td class="s3"></td>
-            <td class="s7" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-ワークライフバランスイベント企画3f中会議室b">WLBイベント企画<br> （3F中会議室B）</a><br>・ランチ<br> 12:20~13:30<br> 70分</td>
+            <td class="s7" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-ワークライフバランスイベント企画3f中会議室b">WLBイベント企画<br> （3F中会議室B）</a><br>・ランチ<br> 12:20 - 13:30<br> 70分</td>
             <td class="s3"></td>
-            <td class="s7" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-企業イベント企画3f中会議室b">企業イベント企画<br> （3F中会議室B&E）</a><br>・ランチ<br> 12:20~13:30<br> 70分</td>
+            <td class="s7" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-企業イベント企画3f中会議室b">企業イベント企画<br> （3F中会議室B&E）</a><br>・ランチ<br> 12:20 - 13:30<br> 70分</td>
             <td class="s3"></td>
-            <td class="s7" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-インターナショナルイベント企画3f中会議室b">国際イベント企画（3F中会議室B）</a><br><a href="#1220---1305-メンターシップイベント企画3f中会議室e">メンターシップイベント企画（3F中会議室E）</a><br>・ランチ<br> 12:20~13:30<br> 70分</td>
+            <td class="s7" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-インターナショナルイベント企画3f中会議室b">国際イベント企画（3F中会議室B）</a><br><a href="#1220---1305-メンターシップイベント企画3f中会議室e">メンターシップイベント企画（3F中会議室E）</a><br>・ランチ<br> 12:20 - 13:30<br> 70分</td>
          </tr>
          <tr style="height: 4px">
             <td class="s6"></td>
