@@ -1,5 +1,8 @@
 ---
 title: "Registration"
+aliases:
+    - /en/registration
+    - /en/attend/registration
 ---
 
 

@@ -1,5 +1,7 @@
 ---
 title: "参加登録"
+aliases:
+    - /registration
 ---
 
 
