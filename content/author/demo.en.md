@@ -14,7 +14,7 @@ Kumamoto-jo Hall 3F Conference Rooms A1-A4
 - The delivery is scheduled for August 6, and the removal work is scheduled for August 9.
 - Delivery will be possible from 2:00 PM on Tuesday, August 6th. (Please start setting up from 3:00 PM.)
 - If you plan to send equipment or printed materials in advance, please send them to the venue with prepaid shipping, specifying delivery on the morning of Tuesday, August 6.
-- In the remarks column of the shipping label, please write “MIRU2024”, “3F Conference Room A”, “Booth ID as listed in the program”, and “Sender’s (responsible person’s) mobile phone number”.
+- In the remarks column of the shipping label, please write “MIRU2024”, “3F Conference Room A”, the booth ID as listed in the program, and the sender’s (or responsible person’s) mobile phone number.
 - We may refuse to accept items that do not have the specified information.
 - Delivery address: 1F Exhibition Hall, 3-40 Sakuramachi, Chuo-ku, Kumamoto City, Kumamoto Prefecture, 860-0805, Japan.
 

@@ -192,7 +192,7 @@ canonifyURLs = true
     name = "メンターシッププログラム"
     weight = 9
     parent = "program"
-    url = "https://sites.google.com/view/prmu-rmp/miru"
+    url = "https://sites.google.com/view/prmu-rmp/miru/2024-meetup"
 
 [[menu.main]]
     name = "若手プログラム"
@@ -414,7 +414,7 @@ canonifyURLs = true
     name = "Mentorship program"
     weight = 9
     parent = "program"
-    url = "https://sites.google.com/view/prmu-rmp/miru"
+    url = "https://sites.google.com/view/prmu-rmp/miru/2024-meetup"
 
 [[languages.en.menu.main]]
     name = "Wakate program"

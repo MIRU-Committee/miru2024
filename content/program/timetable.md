@@ -23,11 +23,11 @@ title: "タイムテーブル"
             <td class="s6"></td>
             <td class="s7" dir="ltr" rowspan="12">受付</td>
             <td class="s3"></td>
-            <td class="s8" dir="ltr" colspan="2" rowspan="12"><a href="#900---1000-オーラル1aos-1a4fメインホール">オーラル1A<br> OS-1A</a></td>
+            <td class="s8" dir="ltr" colspan="2" rowspan="12"><a href="#900---1000-オーラル1aos-1a4fメインホール">オーラル1A （OS-1A）</a><br>9:00 - 10:00</td>
             <td class="s3"></td>
-            <td class="s9" dir="ltr" colspan="2" rowspan="12"><a href="#900---1000-特別講演4fメインホール">特別講演<br> 今井むつみ先生</a></td>
+            <td class="s9" dir="ltr" colspan="2" rowspan="12"><a href="#900---1000-特別講演4fメインホール">特別講演 今井むつみ先生</a><br>9:00 - 10:00</td>
             <td class="s3"></td>
-            <td class="s9" dir="ltr" colspan="2" rowspan="12"><a href="#900---1000-特別講演4fメインホール-1">特別講演<br> 稲見 昌彦先生</a></td>
+            <td class="s9" dir="ltr" colspan="2" rowspan="12"><a href="#900---1000-特別講演4fメインホール-1">特別講演 稲見昌彦先生</a><br>9:00 - 10:00</td>
          </tr>
          <tr style="height: 4px">
             <td class="s6"></td>
@@ -115,11 +115,11 @@ title: "タイムテーブル"
          <tr style="height: 4px">
             <td class="s11"></td>
             <td class="s3"></td>
-            <td class="s8" dir="ltr" colspan="2" rowspan="12"><a href="#1010---1110-オーラル1bos-1b4fメインホール">オーラル1B<br> OS-1B</a></td>
+            <td class="s8" dir="ltr" colspan="2" rowspan="12"><a href="#1010---1110-オーラル1bos-1b4fメインホール">オーラル1B（OS-1B）</a><br>10:10 - 11:10</td>
             <td class="s3"></td>
-            <td class="s8" dir="ltr" colspan="2" rowspan="12"><a href="#1010---1110-オーラル2aos-2a4fメインホール">オーラル2A<br> OS-2A</a></td>
+            <td class="s8" dir="ltr" colspan="2" rowspan="12"><a href="#1010---1110-オーラル2aos-2a4fメインホール">オーラル2A（OS-2A）</a><br>10:10 - 11:10</td>
             <td class="s3"></td>
-            <td class="s8" dir="ltr" colspan="2" rowspan="18"><a href="#1010---1140-オーラル3aos-3a4fメインホール">オーラル3A<br> OS-3A</a></td>
+            <td class="s8" dir="ltr" colspan="2" rowspan="18"><a href="#1010---1140-オーラル3aos-3a4fメインホール">オーラル3A（OS-3A）</a><br>10:10 - 11:40</td>
          </tr>
          <tr style="height: 4px">
             <td class="s11"></td>
@@ -129,7 +129,7 @@ title: "タイムテーブル"
          </tr>
          <tr style="height: 4px">
             <td class="s11"></td>
-            <td class="s9" dir="ltr" rowspan="18"><a href="#1020---1150-招待講演4fメインホール">招待講演</a></td>
+            <td class="s9" dir="ltr" rowspan="18"><a href="#1020---1150-招待講演4fメインホール">招待講演</a><br>10:20 - 11:50</td>
             <td class="s3"></td>
             <td class="s3"></td>
             <td class="s3"></td>
@@ -206,9 +206,9 @@ title: "タイムテーブル"
          <tr style="height: 4px">
             <td class="s11"></td>
             <td class="s3"></td>
-            <td class="s8" dir="ltr" colspan="2" rowspan="12"><a href="#1120---1220-オーラル1cos-1c4fメインホール">オーラル1C<br> OS-1C</a></td>
+            <td class="s8" dir="ltr" colspan="2" rowspan="12"><a href="#1120---1220-オーラル1cos-1c4fメインホール">オーラル1C（OS-1C）</a><br>11:20 - 12:20</td>
             <td class="s3"></td>
-            <td class="s8" dir="ltr" colspan="2" rowspan="12"><a href="#1120---1220-オーラル2bos-2b4fメインホール">オーラル2B<br> OS-2B</a></td>
+            <td class="s8" dir="ltr" colspan="2" rowspan="12"><a href="#1120---1220-オーラル2bos-2b4fメインホール">オーラル2B（OS-2B）</a><br>11:20 - 12:20</td>
             <td class="s3"></td>
          </tr>
          <tr style="height: 4px">
@@ -244,11 +244,11 @@ title: "タイムテーブル"
          </tr>
          <tr style="height: 4px">
             <td class="s6"></td>
-            <td class="s7" dir="ltr" rowspan="14">ランチ<br> 11:50~13:00<br> 70分</td>
+            <td class="s7" dir="ltr" rowspan="14">ランチ<br> 11:50 - 13:00<br> 70分</td>
             <td class="s3"></td>
             <td class="s3"></td>
             <td class="s3"></td>
-            <td class="s9" dir="ltr" colspan="2" rowspan="6">WLB報告（30分）</td>
+            <td class="s9" dir="ltr" colspan="2" rowspan="6"><a href="#1150---1220-ワークライフバランス報告4fメインホール">WLB報告</a>（30分）</td>
          </tr>
          <tr style="height: 4px">
             <td class="s6"></td>
@@ -284,11 +284,11 @@ title: "タイムテーブル"
          <tr style="height: 4px">
             <td class="s6"></td>
             <td class="s3"></td>
-            <td class="s7" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-ワークライフバランスイベント企画3f中会議室b">WLBイベント企画<br> （3F中会議室B）</a><br>・ランチ<br> 12:20~13:30<br> 70分</td>
+            <td class="s7" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-ワークライフバランスイベント企画3f中会議室b">WLBイベント企画<br> （3F中会議室B）</a><br>・ランチ<br> 12:20 - 13:30<br> 70分</td>
             <td class="s3"></td>
-            <td class="s7" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-企業イベント企画3f中会議室b">企業イベント企画<br> （3F中会議室B&E）</a><br>・ランチ<br> 12:20~13:30<br> 70分</td>
+            <td class="s7" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-企業イベント企画3f中会議室b">企業イベント企画<br> （3F中会議室B&E）</a><br>・ランチ<br> 12:20 - 13:30<br> 70分</td>
             <td class="s3"></td>
-            <td class="s7" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-インターナショナルイベント企画3f中会議室b">国際イベント企画<br> （3F中会議室B）</a><br>・ランチ<br> 12:20~13:30<br> 70分</td>
+            <td class="s7" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-インターナショナルイベント企画3f中会議室b">国際イベント企画（3F中会議室B）</a><br><a href="#1220---1305-メンターシップイベント企画3f中会議室e">メンターシップイベント企画（3F中会議室E）</a><br>・ランチ<br> 12:20 - 13:30<br> 70分</td>
          </tr>
          <tr style="height: 4px">
             <td class="s6"></td>
@@ -348,7 +348,7 @@ title: "タイムテーブル"
          </tr>
          <tr style="height: 4px">
             <td class="s11"></td>
-            <td class="s12" dir="ltr" rowspan="18"><a href="#1310---1440-チュートリアル１4fメインホール">チュートリアル１<br> 佐藤 育郎 先生</a></td>
+            <td class="s12" dir="ltr" rowspan="18"><a href="#1310---1440-チュートリアル１4fメインホール">チュートリアル１<br> 佐藤 育郎 先生</a><br>13:10 - 14:40</td>
             <td class="s3"></td>
             <td class="s3"></td>
             <td class="s3"></td>
@@ -374,12 +374,12 @@ title: "タイムテーブル"
          <tr style="height: 4px">
             <td class="s11"></td>
             <td class="s3"></td>
-            <td class="s8" dir="ltr" colspan="2" rowspan="12"><a href="#1330---1430-オーラル1dos-1d4fメインホール">オーラル1D<br> OS-1D</a></td>
+            <td class="s8" dir="ltr" colspan="2" rowspan="12"><a href="#1330---1430-オーラル1dos-1d4fメインホール">オーラル1D（OS-1D）</a><br>13:30 - 14:30</td>
             <td class="s3"></td>
-            <td class="s8" dir="ltr" colspan="2" rowspan="12"><a href="#1330---1430-オーラル2cos-2c4fメインホール">オーラル2C<br> OS-2C</a></td>
+            <td class="s8" dir="ltr" colspan="2" rowspan="12"><a href="#1330---1430-オーラル2cos-2c4fメインホール">オーラル2C（OS-2C）</a><br>13:30 - 14:30</td>
             <td class="s3"></td>
-            <td class="s13" dir="ltr" rowspan="18"><a href="#1330---1500-インタラクティブ3ais-3a3f大会議室a">インタラクティブ3<br> IS-3A<br>（3F 大会議室A）<br>90分</a></td>
-            <td class="s14" dir="ltr" rowspan="18"><a href="#1330---1500-インタラクティブ3bis-3b1f展示ホール">インタラクティブ3B<br> IS-3B<br>（1F 展示ホール）<br>90分</a></td>
+            <td class="s13" dir="ltr" rowspan="18"><a href="#1330---1500-インタラクティブ3ais-3a3f大会議室a">インタラクティブ3A<br> IS-3A<br>（3F 大会議室A）</a><br>13:30 - 15:00<br>90分</td>
+            <td class="s14" dir="ltr" rowspan="18"><a href="#1330---1500-インタラクティブ3bis-3b1f展示ホール">インタラクティブ3B<br> IS-3B<br>（1F 展示ホール）</a><br>13:30 - 15:00<br>90分</td>
          </tr>
          <tr style="height: 4px">
             <td class="s11"></td>
@@ -466,20 +466,20 @@ title: "タイムテーブル"
             <td class="s6"></td>
             <td class="s7" dir="ltr" rowspan="2">休憩 10分</td>
             <td class="s3"></td>
-            <td class="s8" dir="ltr" colspan="2" rowspan="18"><a href="#1440---1610-オーラル1eos-1e4fメインホール">オーラル1E<br> OS-1E</a></td>
+            <td class="s8" dir="ltr" colspan="2" rowspan="18"><a href="#1440---1610-オーラル1eos-1e4fメインホール">オーラル1E（OS-1E）</a><br>14:40 - 16:10</td>
             <td class="s3"></td>
-            <td class="s8" dir="ltr" colspan="2" rowspan="18"><a href="#1440---1610-オーラル2dos-2d4fメインホール">オーラル2D<br> OS-2D</a></td>
-            <td class="s3"></td>
-         </tr>
-         <tr style="height: 4px">
-            <td class="s6"></td>
-            <td class="s3"></td>
-            <td class="s3"></td>
+            <td class="s8" dir="ltr" colspan="2" rowspan="18"><a href="#1440---1610-オーラル2dos-2d4fメインホール">オーラル2D（OS-2D）</a><br>14:40 - 16:10</td>
             <td class="s3"></td>
          </tr>
          <tr style="height: 4px">
             <td class="s6"></td>
-            <td class="s12" dir="ltr" rowspan="18"><a href="#1450---1620-チュートリアル２4fメインホール">チュートリアル２<br> 大谷 まゆ 先生</a></td>
+            <td class="s3"></td>
+            <td class="s3"></td>
+            <td class="s3"></td>
+         </tr>
+         <tr style="height: 4px">
+            <td class="s6"></td>
+            <td class="s12" dir="ltr" rowspan="18"><a href="#1450---1620-チュートリアル２4fメインホール">チュートリアル２<br> 大谷 まゆ 先生</a><br>14:50 - 16:20</td>
             <td class="s3"></td>
             <td class="s3"></td>
             <td class="s3"></td>
@@ -509,7 +509,7 @@ title: "タイムテーブル"
             <td class="s3"></td>
             <td class="s3"></td>
             <td class="s3"></td>
-            <td class="s9" dir="ltr" colspan="2" rowspan="10">特別企画</td>
+            <td class="s9" dir="ltr" colspan="2" rowspan="10"><a href="#1510---1600-特別企画4fメインホール">特別企画</a><br>15:10 - 16:00</td>
          </tr>
          <tr style="height: 4px">
             <td class="s6"></td>
@@ -597,22 +597,22 @@ title: "タイムテーブル"
             <td class="s6"></td>
             <td class="s7" dir="ltr" rowspan="2">休憩 10分</td>
             <td class="s3"></td>
-            <td class="s13" dir="ltr" rowspan="24"><a href="#1620---1820-インタラクティブ1ais-1a--企業展示aex-a--デモds3f大会議室a">インタラクティブ1A<br> 企業展示A<br>デモ<br> IS-1A, EX-A, DS<br>（3F 大会議室A）<br>120分</a></td>
-            <td class="s14" dir="ltr" rowspan="24"><a href="#1620---1820-インタラクティブ1bis-1b--企業展示bex-b1f展示ホール">インタラクティブ1B<br> 企業展示B<br> IS-1B, EX-B<br>（1F 展示ホール）<br> 120分</a></td>
+            <td class="s13" dir="ltr" rowspan="24"><a href="#1620---1820-インタラクティブ1ais-1a--企業展示aex-a--デモds3f大会議室a">インタラクティブ1A<br> 企業展示A<br>デモ<br> IS-1A, EX-A, DS<br>（3F 大会議室A）</a><br>16:20-18:20<br>120分</td>
+            <td class="s14" dir="ltr" rowspan="24"><a href="#1620---1820-インタラクティブ1bis-1b--企業展示bex-b1f展示ホール">インタラクティブ1B<br> 企業展示B<br> IS-1B, EX-B<br>（1F 展示ホール）</a><br>16:20-18:20<br>120分</td>
             <td class="s3"></td>
-            <td class="s13" dir="ltr" rowspan="24"><a href="#1620---1820-インタラクティブ2ais-2a--企業展示aex-a--デモds3f大会議室a">インタラクティブ2A<br> 企業展示A<br>デモ<br> IS-2A, EX-A, DS<br>（3F 大会議室A）<br>120分</a></td>
-            <td class="s14" dir="ltr" rowspan="24"><a href="#1620---1820-インタラクティブ2bis-2b--企業展示bex-b1f展示ホール">インタラクティブ2B<br> 企業展示B<br> IS-2B, EX-B<br>（1F 展示ホール）<br>120分</a></td>
-            <td class="s3"></td>
-         </tr>
-         <tr style="height: 4px">
-            <td class="s6"></td>
-            <td class="s3"></td>
-            <td class="s3"></td>
+            <td class="s13" dir="ltr" rowspan="24"><a href="#1620---1820-インタラクティブ2ais-2a--企業展示aex-a--デモds3f大会議室a">インタラクティブ2A<br> 企業展示A<br>デモ<br> IS-2A, EX-A, DS<br>（3F 大会議室A）</a><br>16:20-18:20<br>120分</td>
+            <td class="s14" dir="ltr" rowspan="24"><a href="#1620---1820-インタラクティブ2bis-2b--企業展示bex-b1f展示ホール">インタラクティブ2B<br> 企業展示B<br> IS-2B, EX-B<br>（1F 展示ホール）</a><br>16:20-18:20<br>120分</td>
             <td class="s3"></td>
          </tr>
          <tr style="height: 4px">
             <td class="s6"></td>
-            <td class="s12" dir="ltr" rowspan="18"><a href="#1630---1800-チュートリアル３4fメインホール">チュートリアル３<br> 五十川 麻理子 先生</a></td>
+            <td class="s3"></td>
+            <td class="s3"></td>
+            <td class="s3"></td>
+         </tr>
+         <tr style="height: 4px">
+            <td class="s6"></td>
+            <td class="s12" dir="ltr" rowspan="18"><a href="#1630---1800-チュートリアル３4fメインホール">チュートリアル３<br> 五十川 麻理子 先生</a><br>16:30 - 18:00</td>
             <td class="s3"></td>
             <td class="s3"></td>
             <td class="s3"></td>
@@ -766,7 +766,7 @@ title: "タイムテーブル"
          <tr style="height: 4px">
             <td class="s6"></td>
             <td class="s3"></td>
-            <td class="s15" dir="ltr" colspan="2" rowspan="6">タウンミーティング</td>
+            <td class="s15" dir="ltr" colspan="2" rowspan="6"><a href="#1830---1900-タウンミーティング4fメインホール">タウンミーティング</a><br>18:30 - 19:00</td>
             <td class="s3"></td>
             <td class="s3"></td>
          </tr>
@@ -806,7 +806,7 @@ title: "タイムテーブル"
             <td class="s3"></td>
             <td class="s4" colspan="2" rowspan="12"></td>
             <td class="s3"></td>
-            <td class="s17" dir="ltr" colspan="2" rowspan="24">交流会/バンケット</td>
+            <td class="s17" dir="ltr" colspan="2" rowspan="24"><a href="#1900---2100-交流会--バンケットホテル日航熊本">交流会/バンケット</a></td>
             <td class="s3"></td>
             <td class="s4" colspan="2" rowspan="12"></td>
          </tr>
@@ -957,6 +957,11 @@ title: "タイムテーブル"
 
 - 特に場所の記載がない場合、全て4Fのメインホールで行われます。
 - ランチの時間では、昼食の提供はありません。ランチイベントに参加される場合は昼食が提供されることがありますので、各イベントページをご確認ください。
+- 会場である熊本城ホールへは、各日下記時刻よりご入場いただけます。
+    - 8月6日（火）09:00
+    - 8月7日（水）08:30
+    - 8月8日（木）08:30
+    - 8月9日（金）08:30
 
 
 
@@ -972,13 +977,12 @@ title: "タイムテーブル"
 ## 10:00 - 10:20 オープニング：4Fメインホール
 ## 10:20 - 11:50 招待講演：4Fメインホール
 
+座長：藤村 友貴（奈良先端大）
+
+
 - IT-01: Nobuhiko Wakai, Satoshi Sato, Yasunori Ishii (Panasonic Holdings), Takayoshi Yamashita (Chubu Univ.), **"Deep Single Image Camera Calibration by Heatmap Regression to Recover Fisheye Images Under Manhattan World Assumption"**, [CVPR]
 - IT-02: Yuzuru Nakamura, Yasunori Ishii (Panasonic Holdings), Takayoshi Yamashita (Chubu Univ.), **"Active Domain Adaptation with False Negative Prediction for Object Detection"**, [CVPR]
 - IT-03: Shintaro Shiba (Keio Univ., TU Berlin), Friedhelm Hamann (TU Berlin), Yoshimitsu Aoki (Keio Univ.), Guillermo Gallego (TU Berlin), **"Event-Based Background-Oriented Schlieren"**, [TPAMI]
-- IT-04: Lang Huang (Univ. of Tokyo), Chao Zhang (Peking Univ.), Hongyang Zhang (Univ. of Waterloo), **"Self-Adaptive Training: Bridging Supervised and Self-Supervised Learning"**, [TPAMI]
-- IT-17: Qingxiuxiong Dong, Toshimitsu Kaneko (Toshiba), Masashi Sugiyama (Riken, Univ. of Tokyo), **"An Offline Learning of Behavior Correction Policy for Vision-Based Robotic Manipulation"**, [ICRA]
-- IT-18: Takahiro Maeda, Norimichi Ukita (Toyota Technological Institute), **"Fast Inference and Update of Probabilistic Density Estimation on Trajectory Prediction"**, [ICCV]
-- IT-19: Xu Cao, Takafumi Taketomi (CyberAgent), **"SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration"**, [CVPR]
 - IT-05: Daichi Horita (Univ. of Tokyo), Naoto Inoue, Kotaro Kikuchi, Kota Yamaguchi (CyberAgent), Kiyoharu Aizawa (Univ. of Tokyo), **"Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation"**, [CVPR]
 - IT-06: Tianwei Chen, Yusuke Hirota (Osaka Univ.), Mayu Otani (CyberAgent), Noa Garcia, Yuta Nakashima (Osaka Univ.), **"Would Deep Generative Models Amplify Bias in Future Models?"**, [CVPR]
 - IT-07: Kosuke Sumiyasu, Kazuhiko Kawamoto, Hiroshi Kera (Chiba Univ.), **"Identifying Important Group of Pixels using Interactions"**, [CVPR]
@@ -991,6 +995,10 @@ title: "タイムテーブル"
 - IT-14: Soichiro Kumano (Univ. of Tokyo), Hiroshi Kera (Chiba Univ.), Toshihiko Yamasaki (Univ. of Tokyo), **"Theoretical Understanding of Learning from Adversarial Perturbations"**, [ICLR]
 - IT-15: Atsuyuki Miyai (Univ. of Tokyo), Qing Yu (LY, Univ. of Tokyo), Go Irie (Tokyo Univ. of Science), Kiyoharu Aizawa (Univ. of Tokyo), **"LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning"**, [NeurIPS]
 - IT-16: Yuki Fujimura (NAIST), Masaaki Iiyama (Shiga Univ.), Takuya Funatomi, Yasuhiro Mukaigawa (NAIST), **"Deep Depth from Focal Stack with Defocus Model for Camera-Setting Invariance"**, [IJCV]
+- IT-17: Qingxiuxiong Dong, Toshimitsu Kaneko (Toshiba), Masashi Sugiyama (Riken, Univ. of Tokyo), **"An Offline Learning of Behavior Correction Policy for Vision-Based Robotic Manipulation"**, [ICRA]
+- IT-18: Takahiro Maeda, Norimichi Ukita (Toyota Technological Institute), **"Fast Inference and Update of Probabilistic Density Estimation on Trajectory Prediction"**, [ICCV]
+- IT-19: Xu Cao, Takafumi Taketomi (CyberAgent), **"SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration"**, [CVPR]
+- IT-04: Lang Huang (Univ. of Tokyo), Chao Zhang (Peking Univ.), Hongyang Zhang (Univ. of Waterloo), **"Self-Adaptive Training: Bridging Supervised and Self-Supervised Learning"**, [TPAMI]
 
 
 ## 13:00 - 13:10 チュートリアルイントロダクション：4Fメインホール
@@ -1006,6 +1014,8 @@ title: "タイムテーブル"
 # 8月7日（水）
 ## 9:00 - 10:00 オーラル1A（OS-1A）：4Fメインホール
 
+座長：平川 翼（中部大）
+
 - OS-1A-01: 岩井翔真 (東北大), 長内淳樹, 北田俊輔 (LINEヤフー), 大町真一郎 (東北大), **"Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model"**
 - OS-1A-02: 久保俊介, 松尾信之介 (九大), 末廣大貴 (横浜市大), 寺田和弘, 伊藤寛朗 (京大), 吉澤明彦 (奈良県立医科大), 備瀬竜馬 (九大), **"巨大バッグに対するLearning from Label Proportionのための理論的ラベル比率摂動"**
 - OS-1A-03: 砂田達巳, 塩原楓 (東大), 劉岳松, 丹治直人, 勢〆弘幸 (Septeni Japan), 肖玲, 山崎俊彦 (東大), **"大規模マルチモーダルモデルを用いた広告画像の評価・改善"**
@@ -1017,6 +1027,8 @@ title: "タイムテーブル"
 
 ## 10:10 - 11:10 オーラル1B（OS-1B）：4Fメインホール
 
+座長：金子 卓弘（NTT）
+
 - OS-1B-01: 広橋佑紀 (中部大, オムロン), 平川翼, 山下隆義, 藤吉弘亘 (中部大), **"視覚言語モデルの特徴空間分析に基づく極少数サンプルによるプロンプトラーニング"**
 - OS-1B-02: 伊藤光一郎 (日立), **"Referring Image Segmentationに向けたCLIPとSAM併用のための特徴量設計"**
 - OS-1B-03: Jane Wu (Stanford Univ.), Diego Thomas (Kyushu Univ.), Ronald Fedkiw (Stanford Univ., Epic Games), **"3D reconstruction of clothed human bodies from a few views via normal maps"**
@@ -1027,6 +1039,8 @@ title: "タイムテーブル"
 
 
 ## 11:20 - 12:20 オーラル1C（OS-1C）：4Fメインホール
+
+座長：橋本 敦史（OSX）
 
 - OS-1C-01: Yasufumi Kawano, Yoshimitsu Aoki (Keio Univ.), **"TAG: Guidance-free Open-Vocabulary Semantic Segmentation"**
 - OS-1C-02: Huaying Zhang, Rintaro Yanagi, Ren Togo, Takahiro Ogawa, Miki Haseyama (Hokkaido Univ.), **"Integrating Query-target Relationship to Zero-shot Composed Image Retrieval from Masked Image-text Pairs"**
@@ -1043,6 +1057,8 @@ title: "タイムテーブル"
 
 ## 13:30 - 14:30 オーラル1D（OS-1D）：4Fメインホール
 
+座長：横田 達也（名工大）
+
 - OS-1D-01: 鬼久保拓人, 松井勇佑 (東大), **"画像生成モデルの追加学習に対する敵対的高周波領域攻撃"**
 - OS-1D-02: Yugo Kubota, Daichi Haraguchi, Seiichi Uchida (Kyushu Univ.), **"Co-embedding Font Shapes and Impressions by Contrastive Learning"**
 - OS-1D-03: 門田健明 (慶大), 備瀬竜馬 (九大), 田中聖人 (京都第二赤十字病院), 早志英朗 (阪大), **"重症度比較における不確実性と信頼度に基づく教師なしドメイン適応"**
@@ -1054,6 +1070,8 @@ title: "タイムテーブル"
 
 
 ## 14:40 - 16:10 オーラル1E（OS-1E）：4Fメインホール
+
+座長：大倉 史生（阪大）
 
 - OS-1E-01: Jiafeng Mao (Univ. of Tokyo), Xueting Wang (CyberAgent), Kiyoharu Aizawa (Univ. of Tokyo), **"Towards Semantic-Driven Initialization: Winning Tickets in Initial Noise"**
 - OS-1E-02: 松井勇佑 (東大), 横田達也 (名工大), **"ブロードキャスト積：テンソル形状を揃えた要素積演算"**
@@ -1370,6 +1388,8 @@ title: "タイムテーブル"
 - [ビジュアルワールドを言語はどのように記号化しているのか（今井 むつみ 先生）]({{< ref "/program/keynote#特別講演１-88-900-1000" >}})
 ## 10:10 - 11:10 オーラル2A（OS-2A）：4Fメインホール
 
+座長：中島 悠太（阪大）
+
 - OS-2A-01: 佐々木謙人 (Turing, 筑波大), 井ノ上雄一 (Turing, 慶大), 藤井一喜 (Turing, 東工大), 棚橋耕太郎 (Turing), 山口祐 (Turing, 慶大), **"大規模言語モデルを用いた日本語視覚言語モデルの評価方法とベースラインモデルの提案"**
 - OS-2A-02: Naoya Sogi, Takashi Shibata, Makoto Terao (NEC), **"Object-Aware Query Perturbation for Cross-Modal Image-Text Retrieval"**
 - OS-2A-03: 竹崎隼平 (九大), 田中聖人 (京都第二赤十字病院), 内田誠一 (九大), **"誤りのある順序付きラベルでの自己緩和型共同学習による重症度推定"**
@@ -1381,6 +1401,8 @@ title: "タイムテーブル"
 
 
 ## 11:20 - 12:20 オーラル2B（OS-2B）：4Fメインホール
+
+座長：内海 ゆづ子（大阪公立大）
 
 - OS-2B-01: Jiaqi Bao, Ryo Yonetani (CyberAgent), **"Path Planning using Language-Guided Probabilistic Roadmaps"**
 - OS-2B-02: 鈴木共生, 前野一樹, 橋本潔 (パナソニックコネクト), 石井育規 (パナソニックホールディングス), 山下隆義 (中部大), **"物体特徴を捉えるためのFDSLとCGを組合せた事前学習"**
@@ -1401,6 +1423,8 @@ title: "タイムテーブル"
 
 ## 13:30 - 14:30 オーラル2C（OS-2C）：4Fメインホール
 
+座長：関川 雄介（デンソーIT）
+
 - OS-2C-01: Ryota Ishizaki, Shunya Yamagami, Yuta Goto, Go Irie (Tokyo Univ. of Science), **"Linear Calibration Approach to Knowledge-free Group-Robust Classification"**
 - OS-2C-02: 今宿祐希, 山肩洋子, 相澤清晴 (東大), **"マルチモーダルLLMを用いた食事画像からのレシピ生成"**
 - OS-2C-03: 岩井翔真, 宮崎智, 大町真一郎 (東北大), **"画像圧縮におけるVQGAN活用のための双条件付き学習"**
@@ -1412,8 +1436,10 @@ title: "タイムテーブル"
 
 ## 14:40 - 16:10 オーラル2D（OS-2D）：4Fメインホール
 
+座長：中野 学（NEC）
+
 - OS-2D-01: Shogo Sato, Takuhiro Kaneko, Taiga Yoshida, Kazuhiko Murasaki, Ryuichi Tanida, Akisato Kimura (NTT), **"Unsupervised Intrinsic Image Decomposition with LiDAR Intensity Enhanced Training"**
-- OS-2D-02: Taro Togo, Ren TogoKeisuke MaedaTakahiro OgawaMiki Haseyama (Hokkaido Univ.), **"Refining Generative Class Incremental Learning Performance through Model Forgetting Strategies"**
+- OS-2D-02: Taro Togo, Ren Togo, Keisuke Maeda, Takahiro Ogawa, Miki Haseyama (Hokkaido Univ.), **"Refining Generative Class Incremental Learning Performance through Model Forgetting Strategies"**
 - OS-2D-03: 東大樹, 松井勇佑 (東大), 牧淳人 (スウェーデン王立工科大), **"ZoDi:拡散モデルに基づく画像変換を用いたゼロショットドメイン適応"**
 - OS-2D-04: 江口達大, 竹崎隼平, 備瀬竜馬 (九大), **"撮像条件情報を用いたガイダンスを導入した拡散モデルによる光超音波画像の画質改善"**
 - OS-2D-05: 北沢一真 (筑波大), 青砥隆仁 (Optech Innovation), 池畑諭 (NII, 東工大), 髙谷剛志 (筑波大), **"イベントカメラと運動光源を用いた法線推定"**
@@ -1574,7 +1600,7 @@ title: "タイムテーブル"
 - IS-2-096: 大竹ひな, 福原吉博 (早大, cvpaper.challenge), 久保谷善記 (cvpaper.challenge), 森島繁生 (早大), **"基盤モデルを用いた生成画像検出器の汎化性能の分析"**
 - IS-2-097: 小林めぐみ, 吉本一平 (ZOZO), 光瀬智哉 (exZOZO), **"Moon & Spencer のAesthetic Measureを用いたファッションのカラー・コーディネート評価の検討"**
 - IS-2-098: 中嶋直也, 石川裕地, 近藤雅芳 (LINEヤフー), **"動画クラスタリングのためのDINOの動画への拡張の検討"**
-- IS-2-099: PHUEAKSRI Itthisak (Nagoya Univ.), Marc A. KASTNER (Hiroshima City Univ.), Yasutomo KAWANISHI (RIKEN), Takahiro KOMAMIZU, Ichiro IDE (Nagoya Univ.), **"Toward Visual Storytelling using Scene-Graph Contexts"**
+- IS-2-099: Itthisak Phueaksri (Nagoya Univ.), Marc A. Kastner (Hiroshima City Univ.), Yasutomo Kawanishi (RIKEN), Takahiro Komamizu, Ichiro Ide (Nagoya Univ.), **"Toward Visual Storytelling using Scene-Graph Contexts"**
 - IS-2-100: 泉晴翔, 右田雅裕, 戸田真志, 伊藤正彦 (熊本大), **"深層学習による画像インペインティングを用いた古文書画像中における紙背文書の復元"**
 - IS-2-101: 片桐卓巳, 山本洋太, 入江豪 (東京理科大), 曽我部陽光, 松本鮎美, 北原正樹 (NTT), 谷口行信 (東京理科大), **"マルチスペクトル映像を用いた非接触酸素飽和度推定"**
 - IS-2-102: 森山凌 (青学大), 金子直史 (東京電機大), 鷲見和彦 (青学大), **"異常範囲の指定可能なAction Promptによる再学習不要の異常行動検知"**
@@ -1632,7 +1658,7 @@ title: "タイムテーブル"
 - IT-09: Qing Yu, Mikihiro Tanaka, Kent Fujiwara (LY), **"Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches"**, [CVPR]
 - IT-10: Jiaxuan Li, Duc Minh Vo (Univ. of Tokyo), Akihiro Sugimoto (NII), Hideki Nakayama (Univ. of Tokyo), **"EVCap: Retrieval-Augmented Image Captioning with External Visual-Name Memory for Open-World Comprehension"**, [CVPR]
 - OS-2D-01: Shogo Sato, Takuhiro Kaneko, Taiga Yoshida, Kazuhiko Murasaki, Ryuichi Tanida, Akisato Kimura (NTT), **"Unsupervised Intrinsic Image Decomposition with LiDAR Intensity Enhanced Training"**
-- OS-2D-02: Taro Togo, Ren TogoKeisuke MaedaTakahiro OgawaMiki Haseyama (Hokkaido Univ.), **"Refining Generative Class Incremental Learning Performance through Model Forgetting Strategies"**
+- OS-2D-02: Taro Togo, Ren Togo, Keisuke Maeda, Takahiro Ogawa, Miki Haseyama (Hokkaido Univ.), **"Refining Generative Class Incremental Learning Performance through Model Forgetting Strategies"**
 - OS-2D-03: 東大樹, 松井勇佑 (東大), 牧淳人 (スウェーデン王立工科大), **"ZoDi:拡散モデルに基づく画像変換を用いたゼロショットドメイン適応"**
 - OS-2D-04: 江口達大, 竹崎隼平, 備瀬竜馬 (九大), **"撮像条件情報を用いたガイダンスを導入した拡散モデルによる光超音波画像の画質改善"**
 - OS-2D-05: 北沢一真 (筑波大), 青砥隆仁 (Optech Innovation), 池畑諭 (NII, 東工大), 髙谷剛志 (筑波大), **"イベントカメラと運動光源を用いた法線推定"**
@@ -1724,6 +1750,8 @@ title: "タイムテーブル"
 - [自在化する身体: 身体の限界を超えて（稲見 昌彦 先生）]({{< ref "/program/keynote#特別講演２-89-900-1000" >}})
 ## 10:10 - 11:40 オーラル3A（OS-3A）：4Fメインホール
 
+座長：小塚 和紀（パナソニック）
+
 - OS-3A-01: 有川尚輝, 前田涼汰, 日浦慎作 (兵庫県立大), **"偏光計測系と分類器の同時最適化による材質認識"**
 - OS-3A-02: Shuhei M. Yoshida, Takashi Shibata, Makoto Terao (NEC), Takayuki Okatani (Tohoku Univ., RIKEN), Masashi Sugiyama (RIKEN, Univ. of Tokyo), **"Action-Agnostic Point-Level Supervision for Temporal Action Detection"**
 - OS-3A-03: 河内穂高, 中村友哉, 長原一, 八木康史 (阪大), **"符号化開口と拡散モデルを用いた単一ボケ画像からの深度再構成"**
@@ -1737,8 +1765,13 @@ title: "タイムテーブル"
 
 
 ## 11:50 - 12:20 ワークライフバランス報告：4Fメインホール
+
 ## 12:20 - 13:30 インターナショナルイベント企画：3F中会議室B
 - [MIRU2024 International Lunch](https://sites.google.com/view/miru2024-internationallunch/)
+
+## 12:20 - 13:05 メンターシップイベント企画：3F中会議室E
+- [メンターシッププログラム ミートアップ](https://sites.google.com/view/prmu-rmp/miru/2024-meetup)
+
 
 ## 13:30 - 15:00 インタラクティブ3A（IS-3A）：3F大会議室A
 - OS-3A-01: 有川尚輝, 前田涼汰, 日浦慎作 (兵庫県立大), **"偏光計測系と分類器の同時最適化による材質認識"**
@@ -1751,6 +1784,7 @@ title: "タイムテーブル"
 - OS-3A-08: Sandra Zhang Ding, Jiafeng Mao, Kiyoharu Aizawa (Univ. of Tokyo), **"Latent Optimization for Training-Free Sketch-Guided Diffusion"**
 - OS-3A-09: 田所龍 (産総研, 東北大), 中村凌 (産総研, 福岡大), 山田亮佑 (産総研, 筑波大), Yuki M. Asano (Univ. of Amsterdam), Iro Laina, Christian Rupprecht (Univ. of Oxford), 井上中順, 横田理央 (東工大), 片岡裕雄 (産総研), **"Scaling Backwards: Minimal Synthetic Pre-training?"**
 - OS-3A-10: 大谷豪 (慶大, 産総研), 田所龍 (産総研), 山田亮佑 (筑波大, 産総研), Yuki Asano (Univ. of Amsterdam), Iro Laina, Christian Rupprecht (Univ. of Oxford), 井上中順, 横田理央 (東工大, 産総研), 片岡裕雄 (産総研), 青木義満 (慶大, 産総研), **"画像超解像における学習データ構築の再考"**
+- IS-3-W01~W04: 若手プログラム参加者, **"若手プログラム成果報告"**
 - IS-3-001: 大関一輝 (慶大), 園山昌司 (小松製作所), 青木義満 (慶大), **"Geometricベースのセルフキャリブレーション: 建設環境下における重機搭載カメラ自動校正の実現"**
 - IS-3-002: 鈴木拓実, 伊藤颯汰, 加藤邦人 (岐阜大), 相澤宏旭 (広島大), **"LSegのラベル予測確率分布を用いた特徴場の学習法"**
 - IS-3-003: 金佑錫 (東大), 吹上大樹 (NTT), 大石岳史 (東大), **"反射および屈折を考慮したニューラル放射輝度場"**
@@ -1905,7 +1939,6 @@ title: "タイムテーブル"
 - IS-3-143: 篠原陸玖 (奈良先端大), 橋本敦史, 小津野将, 吉田成朗 (オムロンサイニックエックス), 平尾悠太朗, ペルスキアエルナンデスモニカ, 内山英昭, 清川清 (奈良先端大), **"ユーザ適応型アバタ姿勢操作法"**
 - IS-3-144: 杉崎勇介, 中里仁, 塚田学 (東大), **"WebベースデジタルツインによるXR脱出ゲームの開発と評価"**
 - IS-3-145: 辻真彦, 横張和也, 谷田隆一 (NTT), **"リアル/バーチャル空間を重畳させる非対称CVEにおける空間の重畳ずれが与える影響の一考察"**
-- IS-3-W01~W04: 若手プログラム参加者, **"若手プログラム成果報告"**
 
 
 ## 15:10 - 16:00 特別企画：4Fメインホール

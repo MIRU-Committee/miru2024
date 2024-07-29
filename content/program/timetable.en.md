@@ -23,11 +23,11 @@ title: "Timetable"
             <td class="s5"></td>
             <td class="s6" dir="ltr" rowspan="12">Registration</td>
             <td class="s3"></td>
-            <td class="s7" dir="ltr" colspan="2" rowspan="12"><a href="#1000---1020-opening-remarks-4f-main-hall">Oral session 1A<br> OS-1A</a></td>
+            <td class="s7" dir="ltr" colspan="2" rowspan="12"><a href="#1000---1020-opening-remarks-4f-main-hall">Oral session 1A (OS-1A)</a><br>9:00 - 10:00</td>
             <td class="s3"></td>
-            <td class="s8" dir="ltr" colspan="2" rowspan="12"><a href="#900---1000-keynote-session-4f-main-hall">Keynote session<br>Prof. Mutsumi Imai</a></td>
+            <td class="s8" dir="ltr" colspan="2" rowspan="12"><a href="#900---1000-keynote-session-4f-main-hall">Keynote session<br>Prof. Mutsumi Imai</a><br>9:00 - 10:00</td>
             <td class="s3"></td>
-            <td class="s8" dir="ltr" colspan="2" rowspan="12"><a href="#900---1000-keynote-session-4f-main-hall-1">Keynote session<br>Prof. Masahiko Inami</a></td>
+            <td class="s8" dir="ltr" colspan="2" rowspan="12"><a href="#900---1000-keynote-session-4f-main-hall-1">Keynote session<br>Prof. Masahiko Inami</a><br>9:00 - 10:00</td>
          </tr>
          <tr style="height: 4px">
             <td class="s5"></td>
@@ -115,11 +115,11 @@ title: "Timetable"
          <tr style="height: 4px">
             <td class="s10"></td>
             <td class="s3"></td>
-            <td class="s7" dir="ltr" colspan="2" rowspan="12"><a href="#1010---1110-oral-session-1b-os-1b-4f-main-hall">Oral session 1B<br> OS-1B</a></td>
+            <td class="s7" dir="ltr" colspan="2" rowspan="12"><a href="#1010---1110-oral-session-1b-os-1b-4f-main-hall">Oral session 1B (OS-1B)</a><br>10:10 - 11:10</td>
             <td class="s3"></td>
-            <td class="s7" dir="ltr" colspan="2" rowspan="12"><a href="#1010---1110-oral-session-2a-os-2a-4f-main-hall">Oral session 2A<br> OS-2A</a></td>
+            <td class="s7" dir="ltr" colspan="2" rowspan="12"><a href="#1010---1110-oral-session-2a-os-2a-4f-main-hall">Oral session 2A (OS-2A)</a><br>10:10 - 11:10</td>
             <td class="s3"></td>
-            <td class="s7" dir="ltr" colspan="2" rowspan="18"><a href="#1010---1140-oral-session-3a-os-3a-4f-main-hall">Oral session 3A<br> OS-3A</a></td>
+            <td class="s7" dir="ltr" colspan="2" rowspan="18"><a href="#1010---1140-oral-session-3a-os-3a-4f-main-hall">Oral session 3A (OS-3A)</a><br>10:10 - 11:40</td>
          </tr>
          <tr style="height: 4px">
             <td class="s10"></td>
@@ -129,7 +129,7 @@ title: "Timetable"
          </tr>
          <tr style="height: 4px">
             <td class="s10"></td>
-            <td class="s8" dir="ltr" rowspan="18"><a href="#1020---1150-invited-talks-4f-main-hall">Invited talks</a></td>
+            <td class="s8" dir="ltr" rowspan="18"><a href="#1020---1150-invited-talks-4f-main-hall">Invited talks</a><br>10:20 - 11:50</td>
             <td class="s3"></td>
             <td class="s3"></td>
             <td class="s3"></td>
@@ -206,9 +206,9 @@ title: "Timetable"
          <tr style="height: 4px">
             <td class="s10"></td>
             <td class="s3"></td>
-            <td class="s7" dir="ltr" colspan="2" rowspan="12"><a href="#1120---1220-oral-session-1c-os-1c-4f-main-hall">Oral session 1C<br> OS-1C</a></td>
+            <td class="s7" dir="ltr" colspan="2" rowspan="12"><a href="#1120---1220-oral-session-1c-os-1c-4f-main-hall">Oral session 1C (OS-1C)</a><br>11:20 - 12:20</td>
             <td class="s3"></td>
-            <td class="s7" dir="ltr" colspan="2" rowspan="12"><a href="#1120---1220-oral-session-2b-os-2b-4f-main-hall">Oral session 2B<br> OS-2B</a></td>
+            <td class="s7" dir="ltr" colspan="2" rowspan="12"><a href="#1120---1220-oral-session-2b-os-2b-4f-main-hall">Oral session 2B (OS-2B)</a><br>11:20 - 12:20</td>
             <td class="s3"></td>
          </tr>
          <tr style="height: 4px">
@@ -244,11 +244,11 @@ title: "Timetable"
          </tr>
          <tr style="height: 4px">
             <td class="s5"></td>
-            <td class="s6" dir="ltr" rowspan="14">Lunch break<br> 11:50~13:00<br> 70 min.</td>
+            <td class="s6" dir="ltr" rowspan="14">Lunch break<br> 11:50 - 13:00<br> 70 min.</td>
             <td class="s3"></td>
             <td class="s3"></td>
             <td class="s3"></td>
-            <td class="s8" dir="ltr" colspan="2" rowspan="6">WLB session</td>
+            <td class="s8" dir="ltr" colspan="2" rowspan="6"><a href="#1150---1220-work-life-balance-session-4f-main-hall">WLB session</a></td>
          </tr>
          <tr style="height: 4px">
             <td class="s5"></td>
@@ -284,11 +284,11 @@ title: "Timetable"
          <tr style="height: 4px">
             <td class="s5"></td>
             <td class="s3"></td>
-            <td class="s6" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-work-life-balance-events-3f-conference-room-b">WLB events  <br>(3F Conference Room B)</a><br>/ Lunch break<br>12:20~13:30<br>70 min.</td>
+            <td class="s6" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-work-life-balance-events-3f-conference-room-b">WLB events  <br>(3F Conference Room B)</a><br>/ Lunch break<br>12:20 - 13:30<br>70 min.</td>
             <td class="s3"></td>
-            <td class="s6" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-sponsors-events-3f-conference-room-b">Sponsors events <br>(3F Conference Room B and E)</a><br>/ Lunch break<br> 12:20~13:30<br> 70 min.</td>
+            <td class="s6" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-sponsors-events-3f-conference-room-b">Sponsors events <br>(3F Conference Room B and E)</a><br>/ Lunch break<br> 12:20 - 13:30<br> 70 min.</td>
             <td class="s3"></td>
-            <td class="s6" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-international-events-3f-conference-room-b">International events <br>(3F Conference Room B)</a><br>/ Lunch break<br> 12:20~13:30<br> 70 min.</td>
+            <td class="s6" dir="ltr" colspan="2" rowspan="14"><a href="#1220---1330-international-events-3f-conference-room-b">International events (3F Conference Room B)</a><br><a href="#1220---1305-mentorship-events-3f-conference-room-e">Mentorship events (3F Conference Room E)</a><br>/ Lunch break<br> 12:20 - 13:30<br> 70 min.</td>
          </tr>
          <tr style="height: 4px">
             <td class="s5"></td>
@@ -348,7 +348,7 @@ title: "Timetable"
          </tr>
          <tr style="height: 4px">
             <td class="s10"></td>
-            <td class="s11" dir="ltr" rowspan="18"><a href="#1310---1440-tutorial-1-4f-main-hall">Tutorial 1<br>Ikuro Sato</a></td>
+            <td class="s11" dir="ltr" rowspan="18"><a href="#1310---1440-tutorial-1-4f-main-hall">Tutorial 1<br>Ikuro Sato</a><br>13:10 - 14:40</td>
             <td class="s3"></td>
             <td class="s3"></td>
             <td class="s3"></td>
@@ -374,12 +374,12 @@ title: "Timetable"
          <tr style="height: 4px">
             <td class="s10"></td>
             <td class="s3"></td>
-            <td class="s7" dir="ltr" colspan="2" rowspan="12"><a href="#1330---1430-oral-session-1d-os-1d-4f-main-hall">Oral session 1D<br> OS-1D</a></td>
+            <td class="s7" dir="ltr" colspan="2" rowspan="12"><a href="#1330---1430-oral-session-1d-os-1d-4f-main-hall">Oral session 1D (OS-1D)</a><br>13:30 - 14:30</td>
             <td class="s3"></td>
-            <td class="s7" dir="ltr" colspan="2" rowspan="12"><a href="#1330---1430-oral-session-2c-os-2c-4f-main-hall">Oral session 2C<br> OS-2C</a></td>
+            <td class="s7" dir="ltr" colspan="2" rowspan="12"><a href="#1330---1430-oral-session-2c-os-2c-4f-main-hall">Oral session 2C (OS-2C)</a><br>13:30 - 14:30</td>
             <td class="s3"></td>
-            <td class="s12" dir="ltr" rowspan="18"><a href="#1330---1500-interactive-session-3a-is-3a-3f-conference-room-a">Interactive <br>session 3A<br> IS-3A<br>(3F Conference <br>Room A)<br>90 min.</a></td>
-            <td class="s13" dir="ltr" rowspan="18"><a href="#1330---1500-interactive-session-3b-is-3b-1f-exhibition-hall">Interactive <br>session 3B<br> IS-3B<br>(1F Exhibition <br>Hall)<br>90 min.</a></td>
+            <td class="s12" dir="ltr" rowspan="18"><a href="#1330---1500-interactive-session-3a-is-3a-3f-conference-room-a">Interactive <br>session 3A<br> IS-3A<br>(3F Conference Room A)</a><br>13:30 - 15:00<br>90 min.</td>
+            <td class="s13" dir="ltr" rowspan="18"><a href="#1330---1500-interactive-session-3b-is-3b-1f-exhibition-hall">Interactive <br>session 3B<br> IS-3B<br>(1F Exhibition Hall)</a><br>13:30 - 15:00<br>90 min.</td>
          </tr>
          <tr style="height: 4px">
             <td class="s10"></td>
@@ -466,20 +466,20 @@ title: "Timetable"
             <td class="s5"></td>
             <td class="s6" dir="ltr" rowspan="2">Break 10 min.</td>
             <td class="s3"></td>
-            <td class="s7" dir="ltr" colspan="2" rowspan="18"><a href="#1440---1610-oral-session-1e-os-1e-4f-main-hall">Oral session 1E<br> OS-1E</a></td>
+            <td class="s7" dir="ltr" colspan="2" rowspan="18"><a href="#1440---1610-oral-session-1e-os-1e-4f-main-hall">Oral session 1E (OS-1E)</a><br>14:40 - 16:10</td>
             <td class="s3"></td>
-            <td class="s7" dir="ltr" colspan="2" rowspan="18"><a href="#1440---1610-oral-session-2d-os-2d-4f-main-hall">Oral session 2D<br> OS-2D</a></td>
-            <td class="s3"></td>
-         </tr>
-         <tr style="height: 4px">
-            <td class="s5"></td>
-            <td class="s3"></td>
-            <td class="s3"></td>
+            <td class="s7" dir="ltr" colspan="2" rowspan="18"><a href="#1440---1610-oral-session-2d-os-2d-4f-main-hall">Oral session 2D (OS-2D)</a><br>14:40 - 16:10</td>
             <td class="s3"></td>
          </tr>
          <tr style="height: 4px">
             <td class="s5"></td>
-            <td class="s11" dir="ltr" rowspan="18"><a href="#1450---1620-tutorial-2-4f-main-hall">Tutorial 2<br>Mayu Otani</a></td>
+            <td class="s3"></td>
+            <td class="s3"></td>
+            <td class="s3"></td>
+         </tr>
+         <tr style="height: 4px">
+            <td class="s5"></td>
+            <td class="s11" dir="ltr" rowspan="18"><a href="#1450---1620-tutorial-2-4f-main-hall">Tutorial 2<br>Mayu Otani</a><br>14:50 - 16:20</td>
             <td class="s3"></td>
             <td class="s3"></td>
             <td class="s3"></td>
@@ -509,7 +509,7 @@ title: "Timetable"
             <td class="s3"></td>
             <td class="s3"></td>
             <td class="s3"></td>
-            <td class="s8" dir="ltr" colspan="2" rowspan="10">Special session</td>
+            <td class="s8" dir="ltr" colspan="2" rowspan="10"><a href="#1510---1600-special-session-4f-main-hall">Special session</a><br>15:10 - 16:00</td>
          </tr>
          <tr style="height: 4px">
             <td class="s5"></td>
@@ -597,22 +597,22 @@ title: "Timetable"
             <td class="s5"></td>
             <td class="s6" dir="ltr" rowspan="2">Break 10 min.</td>
             <td class="s3"></td>
-            <td class="s12" dir="ltr" rowspan="24"><a href="#1620---1820-interactive-session-1a-is-1a---sponsor-exhibition-a-ex-a---demo-session-ds-3f-conference-room-a">Interactive <br>session 1A<br> Sponsor <br>exhibition A<br>Demo session<br> IS-1A, EX-A, DS<br>(3F Conference <br>Room A)<br>120 min.</a></td>
-            <td class="s13" dir="ltr" rowspan="24"><a href="#1620---1820-interactive-session-1b-is-1b---sponsor-exhibition-b-ex-b-1f-exhibition-hall">Interactive <br>session 1B<br> Sponsor <br>exhibition B<br> IS-1B, EX-B<br>(1F Exhibition Hall)<br> 120 min.</a></td>
+            <td class="s12" dir="ltr" rowspan="24"><a href="#1620---1820-interactive-session-1a-is-1a---sponsor-exhibition-a-ex-a---demo-session-ds-3f-conference-room-a">Interactive session 1A<br> Sponsor exhibition A<br>Demo session<br> IS-1A, EX-A, DS<br>(3F Conference Room A)</a><br>16:20 - 18:20<br>120 min.</td>
+            <td class="s13" dir="ltr" rowspan="24"><a href="#1620---1820-interactive-session-1b-is-1b---sponsor-exhibition-b-ex-b-1f-exhibition-hall">Interactive session 1B<br> Sponsor exhibition B<br> IS-1B, EX-B<br>(1F Exhibition Hall)</a><br>16:20 - 18:20<br>120 min.</td>
             <td class="s3"></td>
-            <td class="s12" dir="ltr" rowspan="24"><a href="#1620---1820-interactive-session-2a-is-2a---sponsor-exhibition-a-ex-a---demo-session-ds-3f-conference-room-a">Interactive <br>session 2A<br> Sponsor <br>exhibition A<br>Demo session<br> IS-2A, EX-A, DS<br>(3F Conference <br>Room A)<br>120 min.</a></td>
-            <td class="s13" dir="ltr" rowspan="24"><a href="#1620---1820-interactive-session-2b-is-2b---sponsor-exhibition-b-ex-b-1f-exhibition-hall">Interactive <br>session 2B<br> Sponsor <br>exhibition B<br> IS-2B, EX-B<br>(1F Exhibition Hall)<br>120 min.</a></td>
-            <td class="s3"></td>
-         </tr>
-         <tr style="height: 4px">
-            <td class="s5"></td>
-            <td class="s3"></td>
-            <td class="s3"></td>
+            <td class="s12" dir="ltr" rowspan="24"><a href="#1620---1820-interactive-session-2a-is-2a---sponsor-exhibition-a-ex-a---demo-session-ds-3f-conference-room-a">Interactive session 2A<br> Sponsor exhibition A<br>Demo session<br> IS-2A, EX-A, DS<br>(3F Conference Room A)</a><br>16:20 - 18:20<br>120 min.</td>
+            <td class="s13" dir="ltr" rowspan="24"><a href="#1620---1820-interactive-session-2b-is-2b---sponsor-exhibition-b-ex-b-1f-exhibition-hall">Interactive session 2B<br> Sponsor exhibition B<br> IS-2B, EX-B<br>(1F Exhibition Hall)</a><br>16:20 - 18:20<br>120 min.</td>
             <td class="s3"></td>
          </tr>
          <tr style="height: 4px">
             <td class="s5"></td>
-            <td class="s11" dir="ltr" rowspan="18"><a href="#1630---1800-tutorial-3-4f-main-hall">Tutorial 3<br>Mariko Isogawa</a></td>
+            <td class="s3"></td>
+            <td class="s3"></td>
+            <td class="s3"></td>
+         </tr>
+         <tr style="height: 4px">
+            <td class="s5"></td>
+            <td class="s11" dir="ltr" rowspan="18"><a href="#1630---1800-tutorial-3-4f-main-hall">Tutorial 3<br>Mariko Isogawa</a><br>16:30 - 18:00</td>
             <td class="s3"></td>
             <td class="s3"></td>
             <td class="s3"></td>
@@ -766,7 +766,7 @@ title: "Timetable"
          <tr style="height: 4px">
             <td class="s5"></td>
             <td class="s3"></td>
-            <td class="s14" dir="ltr" colspan="2" rowspan="6">Town meeting</td>
+            <td class="s14" dir="ltr" colspan="2" rowspan="6"><a href="#1830---1900-town-meeting-4f-main-hall">Town meeting</a><br>18:30 - 19:00</td>
             <td class="s3"></td>
             <td class="s3"></td>
          </tr>
@@ -806,7 +806,7 @@ title: "Timetable"
             <td class="s3"></td>
             <td class="s15" colspan="2" rowspan="12"></td>
             <td class="s3"></td>
-            <td class="s17" dir="ltr" colspan="2" rowspan="24">Networking<br>banquet</td>
+            <td class="s17" dir="ltr" colspan="2" rowspan="24"><a href="#1900---2100-networking-banquet-hotel-nikko-kumamoto">Networking<br>banquet</a></td>
             <td class="s3"></td>
             <td class="s15" colspan="2" rowspan="12"></td>
          </tr>
@@ -957,13 +957,41 @@ title: "Timetable"
 
 - All events will be held in the Main Hall on the 4th floor unless a specific location is indicated.
 - Lunch will not be provided during lunch hours. If you are attending a lunch event, lunch may be provided, so please check each event page for details.
-
+- You can enter Kumamoto-jo Hall at the following times each day:
+    - Tuesday, August 6: 09:00
+    - Wednesday, August 7: 08:30
+    - Thursday, August 8: 08:30
+    - Friday, August 9: 08:30
 
 ---
 
 # Aug. 6th (Tue)
 ## 10:00 - 10:20 Opening remarks: 4F Main Hall
 ## 10:20 - 11:50 Invited talks: 4F Main Hall
+
+Session chair: Yuki Fujimura (NAIST)
+
+- IT-01: Nobuhiko Wakai, Satoshi Sato, Yasunori Ishii (Panasonic Holdings), Takayoshi Yamashita (Chubu Univ.), **"Deep Single Image Camera Calibration by Heatmap Regression to Recover Fisheye Images Under Manhattan World Assumption"**, [CVPR]
+- IT-02: Yuzuru Nakamura, Yasunori Ishii (Panasonic Holdings), Takayoshi Yamashita (Chubu Univ.), **"Active Domain Adaptation with False Negative Prediction for Object Detection"**, [CVPR]
+- IT-03: Shintaro Shiba (Keio Univ., TU Berlin), Friedhelm Hamann (TU Berlin), Yoshimitsu Aoki (Keio Univ.), Guillermo Gallego (TU Berlin), **"Event-Based Background-Oriented Schlieren"**, [TPAMI]
+- IT-05: Daichi Horita (Univ. of Tokyo), Naoto Inoue, Kotaro Kikuchi, Kota Yamaguchi (CyberAgent), Kiyoharu Aizawa (Univ. of Tokyo), **"Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation"**, [CVPR]
+- IT-06: Tianwei Chen, Yusuke Hirota (Osaka Univ.), Mayu Otani (CyberAgent), Noa Garcia, Yuta Nakashima (Osaka Univ.), **"Would Deep Generative Models Amplify Bias in Future Models?"**, [CVPR]
+- IT-07: Kosuke Sumiyasu, Kazuhiko Kawamoto, Hiroshi Kera (Chiba Univ.), **"Identifying Important Group of Pixels using Interactions"**, [CVPR]
+- IT-08: Mikihiro Tanaka, Kent Fujiwara (LY), **"Role-aware Interaction Generation from Textual Description"**, [ICCV]
+- IT-09: Qing Yu, Mikihiro Tanaka, Kent Fujiwara (LY), **"Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches"**, [CVPR]
+- IT-10: Jiaxuan Li, Duc Minh Vo (Univ. of Tokyo), Akihiro Sugimoto (NII), Hideki Nakayama (Univ. of Tokyo), **"EVCap: Retrieval-Augmented Image Captioning with External Visual-Name Memory for Open-World Comprehension"**, [CVPR]
+- IT-11: Yusuke Takimoto, Hikari Takehara, Hiroyuki Sato (Huawei Technologies Japan K.K.), Zihao Zhu (Keio Univ., Huawei Technologies Japan K.K.), Bo Zheng (Huawei Technologies Japan K.K.), **"Dr.Hair: Reconstructing Scalp-Connected Hair Strands without Pre-training via Differentiable Rendering of Line Segments"**, [CVPR]
+- IT-12: Zhixiang Wang (Univ. of Tokyo, NII), Baiang Li (Hefei Univ. of Technology), Jian Wang (Snapchat), Yu-Lun Liu (National Yang Ming Chiao Tung Univ.), Jinwei Gu (Univ. of Hong Kong), Yung-Yu Chuang (National Taiwan Univ.), Shin'ichi Satoh (NII, Univ. of Tokyo), **"Matting by Generation"**, [SIGGRAPH]
+- IT-13: Yusuke Sekikawa, Shingo Yashima (DENSO IT Laboratory), **"SAS: Structured Activation Sparsification"**, [ICLR]
+- IT-14: Soichiro Kumano (Univ. of Tokyo), Hiroshi Kera (Chiba Univ.), Toshihiko Yamasaki (Univ. of Tokyo), **"Theoretical Understanding of Learning from Adversarial Perturbations"**, [ICLR]
+- IT-15: Atsuyuki Miyai (Univ. of Tokyo), Qing Yu (LY, Univ. of Tokyo), Go Irie (Tokyo Univ. of Science), Kiyoharu Aizawa (Univ. of Tokyo), **"LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning"**, [NeurIPS]
+- IT-16: Yuki Fujimura (NAIST), Masaaki Iiyama (Shiga Univ.), Takuya Funatomi, Yasuhiro Mukaigawa (NAIST), **"Deep Depth from Focal Stack with Defocus Model for Camera-Setting Invariance"**, [IJCV]
+- IT-17: Qingxiuxiong Dong, Toshimitsu Kaneko (Toshiba), Masashi Sugiyama (Riken, Univ. of Tokyo), **"An Offline Learning of Behavior Correction Policy for Vision-Based Robotic Manipulation"**, [ICRA]
+- IT-18: Takahiro Maeda, Norimichi Ukita (Toyota Technological Institute), **"Fast Inference and Update of Probabilistic Density Estimation on Trajectory Prediction"**, [ICCV]
+- IT-19: Xu Cao, Takafumi Taketomi (CyberAgent), **"SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration"**, [CVPR]
+- IT-04: Lang Huang (Univ. of Tokyo), Chao Zhang (Peking Univ.), Hongyang Zhang (Univ. of Waterloo), **"Self-Adaptive Training: Bridging Supervised and Self-Supervised Learning"**, [TPAMI]
+
+
 ## 13:00 - 13:10 Tutorial introduction: 4F Main Hall
 ## 13:10 - 14:40 Tutorial 1: 4F Main Hall
 - [Vision Technologies for Autonomous Driving (Prof. Ikuro Sato) ]({{< ref "/program/tutorial#tutorial-1-august-6-1310-1440" >}})
@@ -977,6 +1005,8 @@ title: "Timetable"
 # Aug. 7th (Wed)
 ## 9:00 - 10:00 Oral session 1A (OS-1A): 4F Main Hall
 
+Session chair: Tsubasa Hirakawa (Chubu Univ.)
+
 - OS-1A-01: Shoma Iwai (Tohoku University)*; Atsuki Osanai (LY Corp.); Shunsuke KITADA (LY Corp.); Shinichiro Omachi (Tohoku University), **"Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model"**
 - OS-1A-02: 久保俊介, 松尾信之介 (九大), 末廣大貴 (横浜市大), 寺田和弘, 伊藤寛朗 (京大), 吉澤明彦 (奈良県立医科大), 備瀬竜馬 (九大), **"巨大バッグに対するLearning from Label Proportionのための理論的ラベル比率摂動"**
 - OS-1A-03: 砂田達巳, 塩原楓 (東大), 劉岳松, 丹治直人, 勢〆弘幸 (Septeni Japan), 肖玲, 山崎俊彦 (東大), **"大規模マルチモーダルモデルを用いた広告画像の評価・改善"**
@@ -988,6 +1018,8 @@ title: "Timetable"
 
 
 ## 10:10 - 11:10 Oral session 1B (OS-1B): 4F Main Hall
+
+Session chair: Takuhiro Kaneko (NTT)
 
 - OS-1B-01: 広橋佑紀 (中部大, オムロン), 平川翼, 山下隆義, 藤吉弘亘 (中部大), **"視覚言語モデルの特徴空間分析に基づく極少数サンプルによるプロンプトラーニング"**
 - OS-1B-02: 伊藤光一郎 (日立), **"Referring Image Segmentationに向けたCLIPとSAM併用のための特徴量設計"**
@@ -1001,6 +1033,8 @@ title: "Timetable"
 
 ## 11:20 - 12:20 Oral session 1C (OS-1C): 4F Main Hall
 
+Session chair: Atsushi Hashimoto (OSX)
+
 - OS-1C-01: Yasufumi Kawano (Keio Univ.)*; Yoshimitsu Aoki (Keio University), **"TAG: Guidance-free Open-Vocabulary Semantic Segmentation"**
 - OS-1C-02: Huaying Zhang (Hokkaido University)*; Rintaro Yanagi (Hokkaido University); Ren Togo (Hokkaido University); Takahiro Ogawa (Hokkaido University); Miki Haseyama (Hokkaido University), **"Integrating Query-target Relationship to Zero-shot Composed Image Retrieval from Masked Image-text Pairs"**
 - OS-1C-03: Tomoya Sugihara (University of Tokyo)*; Shuntaro Masuda (The University of Tokyo); Ling Xiao (The university of Tokyo); Toshihiko Yamasaki (The University of Tokyo), **"Language-Guided Self-Supervised Video Summarization Using Text Semantic Matching"**
@@ -1013,7 +1047,10 @@ title: "Timetable"
 
 ## 12:20 - 13:30 Work life balance events: 3F Conference Room B
 - [MIRU 2024 Work-Life Balance Project ～So that everyone can follow their own path.～](https://sites.google.com/view/miru2024wlb/english)
+
 ## 13:30 - 14:30 Oral session 1D (OS-1D): 4F Main Hall
+
+Session chair: Tatsuya Yokota (NITech)
 
 - OS-1D-01: 鬼久保拓人, 松井勇佑 (東大), **"画像生成モデルの追加学習に対する敵対的高周波領域攻撃"**
 - OS-1D-02: Yugo Kubota (Kyushu University)*; Daichi Haraguchi (CyberAgent); Seiichi Uchida (Kyushu University), **"Co-embedding Font Shapes and Impressions by Contrastive Learning"**
@@ -1026,6 +1063,8 @@ title: "Timetable"
 
 
 ## 14:40 - 16:10 Oral session 1E (OS-1E): 4F Main Hall
+
+Session chair: Fumio Okura (Osaka Univ.)
 
 - OS-1E-01: Jiafeng Mao (The University of Tokyo)*; Xueting Wang (CyberAgent, Inc.); Kiyoharu Aizawa (The University of Tokyo), **"Towards Semantic-Driven Initialization: Winning Tickets in Initial Noise"**
 - OS-1E-02: 松井勇佑 (東大), 横田達也 (名工大), **"ブロードキャスト積：テンソル形状を揃えた要素積演算"**
@@ -1341,7 +1380,10 @@ title: "Timetable"
 # Aug. 8th (Thu)
 ## 9:00 - 10:00 Keynote session: 4F Main Hall
 - [How do humans connect the continuous visual world and discrete linguistic symbols? (Prof. Mutsumi Imai)]({{< ref "/program/keynote#keynote-1-august-8-900-1000" >}})
+
 ## 10:10 - 11:10 Oral session 2A (OS-2A): 4F Main Hall
+
+Session chair: Yuta Nakashima (Osaka Univ.)
 
 - OS-2A-01: Kento Sasaki (Turing.Inc); Yuichi Inoue (Turing Inc.)*; Kazuki Fujii (Tokyo Institute of Technology); Kotaro Tanahashi (Turing Inc.); Yu Yamaguchi (Turing Inc.), **"大規模言語モデルを用いた日本語視覚言語モデルの評価方法とベースラインモデルの提案 (Constructing and Evaluating Japanese Vision Language Models Using Large Language Models)"**
 - OS-2A-02: Naoya Sogi (NEC Corporation)*; Takashi Shibata (NEC Corporation); Makoto Terao (NEC Corporation), **"Object-Aware Query Perturbation for Cross-Modal Image-Text Retrieval"**
@@ -1354,6 +1396,8 @@ title: "Timetable"
 
 
 ## 11:20 - 12:20 Oral session 2B (OS-2B): 4F Main Hall
+
+Session chair: Yuzuko Utsumi (OMU)
 
 - OS-2B-01: Jiaqi Bao (Cyberagent )*; Ryo Yonetani (CyberAgent), **"Path Planning using Language-Guided Probabilistic Roadmaps"**
 - OS-2B-02: 鈴木共生, 前野一樹, 橋本潔 (パナソニックコネクト), 石井育規 (パナソニックホールディングス), 山下隆義 (中部大), **"物体特徴を捉えるためのFDSLとCGを組合せた事前学習"**
@@ -1373,6 +1417,8 @@ title: "Timetable"
 
 ## 13:30 - 14:30 Oral session 2C (OS-2C): 4F Main Hall
 
+Session chair: Yusuke Sekikawa (Denso IT)
+
 - OS-2C-01: Ryota Ishizaki (Tokyo University of Science)*; Shunya Yamagami (Tokyo University of Science); Yuta Goto (Tokyo University of Science); Go Irie (Tokyo University of Science), **"Linear Calibration Approach to Knowledge-free Group-Robust Classification"**
 - OS-2C-02: Yuki Imajuku (The University of Tokyo)*; Yoko Yamakata (University of Tokyo, Japan); Kiyoharu Aizawa (The University of Tokyo), **"マルチモーダルLLMを用いた食事画像からのレシピ生成 (Recipe generation from food images using multimodal VLM)"**
 - OS-2C-03: Shoma Iwai (Tohoku University)*; Tomo Miyazaki (Tohoku University); Shinichiro Omachi (Tohoku University), **"画像圧縮におけるVQGAN活用のための双条件付き学習 (Dual Conditioned Training for Exploiting VQGAN in Image Compression)"**
@@ -1383,6 +1429,8 @@ title: "Timetable"
 
 
 ## 14:40 - 16:10 Oral session 2D (OS-2D): 4F Main Hall
+
+Session chair: Gaku Nakano (NEC)
 
 - OS-2D-01: Shogo Sato (NTT Corporation)*; Takuhiro Kaneko (NTT Corporation); Taiga Yoshida (NTT Corporation); Kazuhiko Murasaki (NTT Corporation); Ryuichi Tanida (NTT Corporation); Akisato Kimura (NTT Corporation), **"Unsupervised Intrinsic Image Decomposition with LiDAR Intensity Enhanced Training"**
 - OS-2D-02: Taro Togo (Hokkaido University)*; Ren Togo (Hokkaido University); Keisuke Maeda (Hokkaido University); Takahiro Ogawa (Hokkaido University); Miki Haseyama (Hokkaido University), **"Refining Generative Class Incremental Learning Performance through Model Forgetting Strategies"**
@@ -1696,7 +1744,10 @@ title: "Timetable"
 # Aug. 9th (Fri)
 ## 9:00 - 10:00 Keynote session: 4F Main Hall
 - [JIZAI Body: beyond human limits (Prof. Masahiko Inami)]({{< ref "/program/keynote#keynote-2-august-9-900-1000" >}})
+
 ## 10:10 - 11:40 Oral session 3A (OS-3A): 4F Main Hall
+
+Session chair: Kazuki Kozuka (Panasonic)
 
 - OS-3A-01: 有川尚輝, 前田涼汰, 日浦慎作 (兵庫県立大), **"偏光計測系と分類器の同時最適化による材質認識"**
 - OS-3A-02: Shuhei M Yoshida (NEC Corporation)*; Takashi Shibata (NEC Corporation); Makoto Terao (NEC Corporation); Takayuki Okatani (Tohoku University/RIKEN AIP); Masashi Sugiyama (RIKEN/The University of Tokyo), **"Action-Agnostic Point-Level Supervision for Temporal Action Detection"**
@@ -1712,8 +1763,12 @@ title: "Timetable"
 
 
 ## 11:50 - 12:20 Work life balance session: 4F Main Hall
+
 ## 12:20 - 13:30 International events: 3F Conference Room B
 - [MIRU2024 International Lunch](https://sites.google.com/view/miru2024-internationallunch/)
+
+## 12:20 - 13:05 Mentorship events: 3F Conference Room E
+- [Mentorship Program Meetup](https://sites.google.com/view/prmu-rmp/miru/2024-meetup)
 
 ## 13:30 - 15:00 Interactive session 3A (IS-3A): 3F Conference Room A
 
@@ -1727,6 +1782,7 @@ title: "Timetable"
 - OS-3A-08: Sandra Zhang Ding (The University of Tokyo)*; Jiafeng Mao (The University of Tokyo); Kiyoharu Aizawa (The University of Tokyo), **"Latent Optimization for Training-Free Sketch-Guided Diffusion"**
 - OS-3A-09: Ryu Tadokoro (Tohoku University)*; Ryo Nakamura (Fukuoka University, National Institute of Advanced Industrial Science and Technology (AIST)); Ryosuke Yamada (University of Tsukuba, National Institute of Advanced Industrial Science and Technology (AIST)); Yuki M Asano (University of Amsterdam); Iro Laina (University of Oxford); Christian Rupprecht (University of Oxford); Nakamasa Inoue (Tokyo Institute of Technology); Rio Yokota (Tokyo Institute of Technology); Hirokatsu Kataoka (National Institute of Advanced Industrial Science and Technology (AIST)), **"Scaling Backwards: Minimal Synthetic Pre-training?"**
 - OS-3A-10: Go Ohtani (Keio University)*; Ryu Tadokoro (Tohoku University); Ryosuke Yamada (University of Tsukuba, National Institute of Advanced Industrial Science and Technology (AIST)); Yuki M Asano (University of Amsterdam); Iro Laina (University of Oxford); Christian Rupprecht (University of Oxford); Nakamasa Inoue (Tokyo Institute of Technology); Rio Yokota (Tokyo Institute of Technology); Hirokatsu Kataoka (National Institute of Advanced Industrial Science and Technology (AIST)); Yoshimitsu Aoki (Keio University), **"画像超解像における学習データ構築の再考 (Rethinking Construction of Training Data in Image Super-Resolution)"**
+- IS-3-W01~W04: MIRU2024 Wakate Program participants, **"若手プログラム成果報告 (Report on the MIRU2024 Wakate Program)"**
 - IS-3-001: 大関一輝 (慶大), 園山昌司 (小松製作所), 青木義満 (慶大), **"Geometricベースのセルフキャリブレーション: 建設環境下における重機搭載カメラ自動校正の実現"**
 - IS-3-002: 鈴木拓実, 伊藤颯汰, 加藤邦人 (岐阜大), 相澤宏旭 (広島大), **"LSegのラベル予測確率分布を用いた特徴場の学習法"**
 - IS-3-003: 金佑錫 (東大), 吹上大樹 (NTT), 大石岳史 (東大), **"反射および屈折を考慮したニューラル放射輝度場"**
@@ -1882,7 +1938,6 @@ title: "Timetable"
 - IS-3-143: 篠原陸玖 (奈良先端大), 橋本敦史, 小津野将, 吉田成朗 (オムロンサイニックエックス), 平尾悠太朗, ペルスキアエルナンデスモニカ, 内山英昭, 清川清 (奈良先端大), **"ユーザ適応型アバタ姿勢操作法"**
 - IS-3-144: Yusuke Sugizaki (The University of Tokyo)*; Jin Nakazato (The University of Tokyo); Manabu Tsukada (The University of Tokyo), **"WebベースデジタルツインによるXR脱出ゲームの開発と評価 (Development and Evaluation of XR Escape Game with Web-based Digital Twin)"**
 - IS-3-145: 辻真彦, 横張和也, 谷田隆一 (NTT), **"リアル/バーチャル空間を重畳させる非対称CVEにおける空間の重畳ずれが与える影響の一考察"**
-- IS-3-W01~W04: MIRU2024 Wakate Program participants, **"若手プログラム成果報告 (Report on the MIRU2024 Wakate Program)"**
 
 
 
