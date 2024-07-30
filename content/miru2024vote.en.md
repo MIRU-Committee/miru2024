@@ -5,6 +5,8 @@ title: "Award Voting"
 MIRU will award excellent oral presentations as the 'MIRU Audience Award', excellent interactive presentations as the 'MIRU Interactive Presentation Award', and excellent demonstration presentations as the 'MIRU Demonstration Presentation Award', based on the votes of the participants.
 Please vote for the oral, interactive, and demonstration presentations from each date that you feel are outstanding in terms of research content and presentation.
 
+Please see [Award Selection Criteria]({{< ref "selection_criteria" >}}) for details.
+
 ## Notes.
 
 - Votes cast before the start of the session are invalid.
