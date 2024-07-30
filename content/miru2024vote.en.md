@@ -13,6 +13,7 @@ Please see [Award Selection Criteria]({{< ref "selection_criteria" >}}) for deta
 - Please do not vote for yourself or your research group.
 - Multiple votes for the same session are only valid for the last one.
 - For each session, you can vote one for MIRU Audience Award and MIRU Demo Award and up to five for MIRU Interactive Presentation Award.
+- Voting for MIRU Audience Award closes at the start of the next session, and for MIRU Interactive Presentation Award / MIRU Demonstration Presentation Award at the end of that session. Voting after that time will be invalid.
 
 ## MIRU Audience Award
 
