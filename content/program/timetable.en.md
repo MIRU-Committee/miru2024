@@ -1739,6 +1739,9 @@ Session chair: Gaku Nakano (NEC)
 
 ## 19:00 - 21:00 Networking banquet: Hotel Nikko Kumamoto
 
+- [Networking banquet]({{< ref "/program/banquet" >}})
+
+
 ---
 
 # Aug. 9th (Fri)
