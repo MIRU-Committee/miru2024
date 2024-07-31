@@ -108,12 +108,12 @@ canonifyURLs = true
     parent = "attend"
     url = "/attend/registration/"
 
-# ### TODO: 会場情報を載せる
-# [[menu.main]]
-#     name = "会場情報"
-#     weight = 2
-#     parent = "attend"
-#     url = "/attend/map/"
+
+[[menu.main]]
+    name = "会場情報"
+    weight = 2
+    parent = "attend"
+    url = "/attend/floor_map/"
 
 [[menu.main]]
     name = "託児室"
@@ -330,12 +330,11 @@ canonifyURLs = true
     parent = "attend"
     url = "/en/attend/registration/"
 
-# ### TODO: 会場情報を載せる
-# [[languages.en.menu.main]]
-#     name = "会場情報"
-#     weight = 2
-#     parent = "attend"
-#     url = "/en/attend/map/"
+[[languages.en.menu.main]]
+    name = "Floor map"
+    weight = 2
+    parent = "attend"
+    url = "/en/attend/floor_map/"
 
 [[languages.en.menu.main]]
     name = "Nursery room"
