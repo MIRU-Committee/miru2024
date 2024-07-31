@@ -181,7 +181,6 @@ canonifyURLs = true
 #     parent = "program"
 #     url = "/program/town-meeting/"
 
-### TODO: 特別企画のページを作る？
 [[menu.main]]
     name = "特別企画"
     weight = 8
