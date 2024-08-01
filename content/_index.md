@@ -10,6 +10,7 @@ title: "第27回 画像の認識・理解シンポジウム MIRU2024"
 
 
 ## お知らせ
+- **2024.08.01**: [特別企画](program/special-event)，[バンケット](program/banquet)，[会場情報](attend/floor_map)を公開しました．
 - **2024.07.16**: [オーラル発表](author/oral)，[インタラクティブ発表](author/interactive)，[デモ発表](author/demo)のインストラクションを公開しました．
 - **2024.07.16**: [企業イベント](program/sponsor-events)を公開しました．
 - **2024.07.16**: [MIRUのロゴの情報](organization/logo)を公開しました．ガイドラインに従った上で，ポスター等にご自由にお使いください．
