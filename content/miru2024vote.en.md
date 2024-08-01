@@ -2,18 +2,18 @@
 title: "Award Voting"
 ---
 
-MIRU will award excellent oral presentations as the 'MIRU Audience Award', excellent interactive presentations as the 'MIRU Interactive Presentation Award', and excellent demonstration presentations as the 'MIRU Demonstration Presentation Award', based on the votes of the participants.
-Please vote for the oral, interactive, and demonstration presentations from each date that you feel are outstanding in terms of research content and presentation.
+MIRU will award excellent oral presentations with the 'MIRU Audience Award', excellent interactive presentations with the 'MIRU Interactive Presentation Award', and excellent demonstration presentations with the 'MIRU Demonstration Presentation Award', based on the votes of the participants.
+Please vote for the oral, interactive, and demonstration presentations that you feel are outstanding in terms of research content and presentation. Note that each date has separate votes.
 
 Please see [Award Selection Criteria]({{< ref "selection_criteria" >}}) for details.
 
-## Notes.
+## Notes
 
-- Votes cast before the start of the session are invalid.
-- Please do not vote for yourself or your research group.
-- Multiple votes for the same session are only valid for the last one.
-- For each session, you can vote one for MIRU Audience Award and MIRU Demo Award and up to five for MIRU Interactive Presentation Award.
-- Voting for MIRU Audience Award closes at the start of the next session, and for MIRU Interactive Presentation Award / MIRU Demonstration Presentation Award at the end of that session. Voting after that time will be invalid.
+- Votes before the start of each session are invalid.
+- Please do not vote for yourself or your own or affiliated research group(s).
+- If you do multiple votes for the same session, only the last one is valid.
+- For each session, you can do one vote for the MIRU Audience Award and the MIRU Demo Award and up to five votes for the MIRU Interactive Presentation Award.
+- The voting for the MIRU Audience Award closes at the start of the next session. The voting for the MIRU Interactive Presentation Award / MIRU Demonstration Presentation Award closes at the end of that session. Voting after that time will be invalid.
 
 ## MIRU Audience Award
 
