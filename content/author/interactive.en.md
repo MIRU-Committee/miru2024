@@ -23,7 +23,7 @@ title: "Interactive presentation"
 
 # Layout
 
-Click [here]({{< ref "/author/floorplan" >}}).
+Click [here]({{< ref "/attend/floorplan" >}}).
 
 # Internet Connection in the Venue
 
