@@ -116,8 +116,14 @@ canonifyURLs = true
     url = "/attend/floor_map/"
 
 [[menu.main]]
-    name = "託児室"
+    name = "会場レイアウト"
     weight = 3
+    parent = "attend"
+    url = "/attend/floorplan/"
+
+[[menu.main]]
+    name = "託児室"
+    weight = 4
     parent = "attend"
     url = "/attend/nursery/"
 
@@ -342,8 +348,14 @@ canonifyURLs = true
     url = "/en/attend/floor_map/"
 
 [[languages.en.menu.main]]
-    name = "Nursery room"
+    name = "Floor plan"
     weight = 3
+    parent = "attend"
+    url = "/en/attend/floorplan/"
+
+[[languages.en.menu.main]]
+    name = "Nursery room"
+    weight = 4
     parent = "attend"
     url = "/en/attend/nursery/"
 

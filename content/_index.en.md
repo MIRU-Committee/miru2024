@@ -8,6 +8,7 @@ The "Meeting on Image Recognition and Understanding", short "MIRU", is the large
 The number of COVID-19 infection cases has recently increased. Attendees are advised to take precautions and prevention measures. We kindly ask for your cooperation in preventing the spread of infection.**</font>
 
 ## News
+- **2024.08.02**: The [floor plan](attend/floorplan) has been released.
 - **2024.08.01**: The [special events](program/special-event), [banquet](program/banquet), and [floor map](attend/floor_map) have been released.
 - **2024.07.16**: The [instructions for oral](author/oral), [interactive](author/interactive), and [demo](author/demo) presentations have been released.
 - **2024.07.16**: The [sponsor events](program/sponsor-events) have been announced.
