@@ -181,12 +181,11 @@ canonifyURLs = true
 #     parent = "program"
 #     url = "/program/town-meeting/"
 
-# ### TODO: 特別企画のページを作る？
-# [[menu.main]]
-#     name = "特別企画"
-#     weight = 8
-#     parent = "program"
-#     url = "/program/special-event/"
+[[menu.main]]
+    name = "特別企画"
+    weight = 8
+    parent = "program"
+    url = "/program/special-event/"
 
 [[menu.main]]
     name = "バンケット"
@@ -408,12 +407,11 @@ canonifyURLs = true
 #     parent = "program"
 #     url = "/en/program/town-meeting/"
 
-# ### TODO: 特別企画のページを作る？
-# [[languages.en.menu.main]]
-#     name = "特別企画"
-#     weight = 8
-#     parent = "program"
-#     url = "/en/program/special-event/"
+[[languages.en.menu.main]]
+    name = "Special event"
+    weight = 8
+    parent = "program"
+    url = "/en/program/special-event/"
 
 [[languages.en.menu.main]]
     name = "Banquet"
