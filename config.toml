@@ -189,20 +189,26 @@ canonifyURLs = true
 #     url = "/program/special-event/"
 
 [[menu.main]]
-    name = "メンターシッププログラム"
+    name = "バンケット"
     weight = 9
+    parent = "program"
+    url = "/program/banquet/"
+
+[[menu.main]]
+    name = "メンターシッププログラム"
+    weight = 10
     parent = "program"
     url = "https://sites.google.com/view/prmu-rmp/miru/2024-meetup"
 
 [[menu.main]]
     name = "若手プログラム"
-    weight = 10
+    weight = 11
     parent = "program"
     url = "https://sites.google.com/view/miru2024wakate/"
 
 [[menu.main]]
     name = "朝ランの会"
-    weight = 11
+    weight = 12
     parent = "program"
     url = "https://ohym.org/MIRU2024_Running.html"
 
@@ -410,20 +416,26 @@ canonifyURLs = true
 #     url = "/en/program/special-event/"
 
 [[languages.en.menu.main]]
-    name = "Mentorship program"
+    name = "Banquet"
     weight = 9
+    parent = "program"
+    url = "/en/program/banquet/"
+
+[[languages.en.menu.main]]
+    name = "Mentorship program"
+    weight = 10
     parent = "program"
     url = "https://sites.google.com/view/prmu-rmp/miru/2024-meetup"
 
 [[languages.en.menu.main]]
     name = "Wakate program"
-    weight = 10
+    weight = 11
     parent = "program"
     url = "https://sites.google.com/view/miru2024wakate/"
 
 [[languages.en.menu.main]]
     name = "Morning Run Club"
-    weight = 11
+    weight = 12
     parent = "program"
     url = "https://ohym.org/MIRU2024_Running.html"
 
