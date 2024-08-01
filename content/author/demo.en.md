@@ -48,8 +48,8 @@ The following will be provided:
 - Free WiFi is available in the venue, but we cannot guarantee the quality of the WiFi due to the low network speed.
 
 # Floorplan
-TBD
 
+Click [here]({{< ref "/author/floorplan" >}}).
 
 # Notes
 - To prevent loss during delivery, please carry your shipping labels with you and include the recipient's mobile phone number on them. Take necessary precautions.

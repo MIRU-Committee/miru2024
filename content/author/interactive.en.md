@@ -23,7 +23,7 @@ title: "Interactive presentation"
 
 # Layout
 
-TBD
+Click [here]({{< ref "/author/floorplan" >}}).
 
 # Internet Connection in the Venue
 
