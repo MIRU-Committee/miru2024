@@ -37,6 +37,7 @@ Kumamoto-jo Hall 3F Conference Rooms A1-A4
 # Booth specification
 The following will be provided:
 
+- Booth size (W1800mm x D1800mm)
 - One panel (W1800mm x H2100mm)
 - One table (W1800mm x D600mm)
 - Two chairs
