@@ -1739,6 +1739,9 @@ Session chair: Gaku Nakano (NEC)
 
 ## 19:00 - 21:00 Networking banquet: Hotel Nikko Kumamoto
 
+- [Networking banquet]({{< ref "/program/banquet" >}})
+
+
 ---
 
 # Aug. 9th (Fri)
@@ -1942,4 +1945,8 @@ Session chair: Kazuki Kozuka (Panasonic)
 
 
 ## 15:10 - 16:00 Special session: 4F Main Hall
+
+- [MIRU2024 Special Session: MIRU – Broader perspectives and deeper pursuits]({{< ref "/program/special-event" >}})
+
+
 ## 16:00 - 16:30 Closing and award ceremony: 4F Main Hall

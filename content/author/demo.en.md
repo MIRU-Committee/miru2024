@@ -50,7 +50,7 @@ The following will be provided:
 
 # Floorplan
 
-Click [here]({{< ref "/author/floorplan" >}}).
+Click [here]({{< ref "/attend/floorplan" >}}).
 
 # Notes
 - To prevent loss during delivery, please carry your shipping labels with you and include the recipient's mobile phone number on them. Take necessary precautions.

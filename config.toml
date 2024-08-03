@@ -108,16 +108,22 @@ canonifyURLs = true
     parent = "attend"
     url = "/attend/registration/"
 
-# ### TODO: 会場情報を載せる
-# [[menu.main]]
-#     name = "会場情報"
-#     weight = 2
-#     parent = "attend"
-#     url = "/attend/map/"
+
+[[menu.main]]
+    name = "会場情報"
+    weight = 2
+    parent = "attend"
+    url = "/attend/floor_map/"
+
+[[menu.main]]
+    name = "会場レイアウト"
+    weight = 3
+    parent = "attend"
+    url = "/attend/floorplan/"
 
 [[menu.main]]
     name = "託児室"
-    weight = 3
+    weight = 4
     parent = "attend"
     url = "/attend/nursery/"
 
@@ -181,28 +187,33 @@ canonifyURLs = true
 #     parent = "program"
 #     url = "/program/town-meeting/"
 
-# ### TODO: 特別企画のページを作る？
-# [[menu.main]]
-#     name = "特別企画"
-#     weight = 8
-#     parent = "program"
-#     url = "/program/special-event/"
+[[menu.main]]
+    name = "特別企画"
+    weight = 8
+    parent = "program"
+    url = "/program/special-event/"
+
+[[menu.main]]
+    name = "バンケット"
+    weight = 9
+    parent = "program"
+    url = "/program/banquet/"
 
 [[menu.main]]
     name = "メンターシッププログラム"
-    weight = 9
+    weight = 10
     parent = "program"
     url = "https://sites.google.com/view/prmu-rmp/miru/2024-meetup"
 
 [[menu.main]]
     name = "若手プログラム"
-    weight = 10
+    weight = 11
     parent = "program"
     url = "https://sites.google.com/view/miru2024wakate/"
 
 [[menu.main]]
     name = "朝ランの会"
-    weight = 11
+    weight = 12
     parent = "program"
     url = "https://ohym.org/MIRU2024_Running.html"
 
@@ -330,16 +341,21 @@ canonifyURLs = true
     parent = "attend"
     url = "/en/attend/registration/"
 
-# ### TODO: 会場情報を載せる
-# [[languages.en.menu.main]]
-#     name = "会場情報"
-#     weight = 2
-#     parent = "attend"
-#     url = "/en/attend/map/"
+[[languages.en.menu.main]]
+    name = "Floor map"
+    weight = 2
+    parent = "attend"
+    url = "/en/attend/floor_map/"
+
+[[languages.en.menu.main]]
+    name = "Floor plan"
+    weight = 3
+    parent = "attend"
+    url = "/en/attend/floorplan/"
 
 [[languages.en.menu.main]]
     name = "Nursery room"
-    weight = 3
+    weight = 4
     parent = "attend"
     url = "/en/attend/nursery/"
 
@@ -403,28 +419,33 @@ canonifyURLs = true
 #     parent = "program"
 #     url = "/en/program/town-meeting/"
 
-# ### TODO: 特別企画のページを作る？
-# [[languages.en.menu.main]]
-#     name = "特別企画"
-#     weight = 8
-#     parent = "program"
-#     url = "/en/program/special-event/"
+[[languages.en.menu.main]]
+    name = "Special event"
+    weight = 8
+    parent = "program"
+    url = "/en/program/special-event/"
+
+[[languages.en.menu.main]]
+    name = "Banquet"
+    weight = 9
+    parent = "program"
+    url = "/en/program/banquet/"
 
 [[languages.en.menu.main]]
     name = "Mentorship program"
-    weight = 9
+    weight = 10
     parent = "program"
     url = "https://sites.google.com/view/prmu-rmp/miru/2024-meetup"
 
 [[languages.en.menu.main]]
     name = "Wakate program"
-    weight = 10
+    weight = 11
     parent = "program"
     url = "https://sites.google.com/view/miru2024wakate/"
 
 [[languages.en.menu.main]]
     name = "Morning Run Club"
-    weight = 11
+    weight = 12
     parent = "program"
     url = "https://ohym.org/MIRU2024_Running.html"
 
