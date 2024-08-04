@@ -1032,6 +1032,7 @@ Session chair: Fumio Okura (Osaka Univ.)
 {% IS-B %}{% IS-1B %}
 
 ## 18:30 - 19:00 Town meeting: 4F Main Hall
+- [Town meeting]({{< ref "/program/town-meeting" >}})
 
 ---
 
