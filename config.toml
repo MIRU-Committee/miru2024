@@ -180,12 +180,11 @@ canonifyURLs = true
     parent = "program"
     url = "/program/sponsor-events/"
 
-# ### TODO: タウンミーティングのページを作る？
-# [[menu.main]]
-#     name = "タウンミーティング"
-#     weight = 7
-#     parent = "program"
-#     url = "/program/town-meeting/"
+[[menu.main]]
+    name = "タウンミーティング"
+    weight = 7
+    parent = "program"
+    url = "/program/town-meeting/"
 
 [[menu.main]]
     name = "特別企画"
@@ -412,12 +411,11 @@ canonifyURLs = true
     parent = "program"
     url = "/en/program/sponsor-events/"
 
-# ### TODO: タウンミーティングのページを作る？
-# [[languages.en.menu.main]]
-#     name = "タウンミーティング"
-#     weight = 7
-#     parent = "program"
-#     url = "/en/program/town-meeting/"
+[[languages.en.menu.main]]
+    name = "Twon meeting"
+    weight = 7
+    parent = "program"
+    url = "/en/program/town-meeting/"
 
 [[languages.en.menu.main]]
     name = "Special event"
