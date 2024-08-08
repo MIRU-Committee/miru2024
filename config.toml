@@ -67,12 +67,11 @@ canonifyURLs = true
     parent = "author"
     url = "/author/demo/"
 
-# ### TODO: 表彰情報のページを作る
-# [[menu.main]]
-#     name = "表彰"
-#     weight = 5
-#     parent = "author"
-#     url = "/author/award/"
+[[menu.main]]
+    name = "表彰"
+    weight = 5
+    parent = "author"
+    url = "/author/award/"
 
 
 [[menu.main]]
@@ -299,12 +298,11 @@ canonifyURLs = true
     parent = "author"
     url = "/en/author/demo/"
 
-# ### TODO: 表彰情報のページを作る
-# [[languages.en.menu.main]]
-#     name = "表彰"
-#     weight = 5
-#     parent = "author"
-#     url = "/en/author/award/"
+[[languages.en.menu.main]]
+    name = "Award"
+    weight = 5
+    parent = "author"
+    url = "/en/author/award/"
 
 
 [[languages.en.menu.main]]
@@ -412,7 +410,7 @@ canonifyURLs = true
     url = "/en/program/sponsor-events/"
 
 [[languages.en.menu.main]]
-    name = "Twon meeting"
+    name = "Town meeting"
     weight = 7
     parent = "program"
     url = "/en/program/town-meeting/"
