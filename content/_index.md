@@ -10,6 +10,7 @@ title: "第27回 画像の認識・理解シンポジウム MIRU2024"
 
 
 ## お知らせ
+- **2024.08.08**: [MIRU2025のHP](https://cvim.ipsj.or.jp/MIRU2025/)を公開しました！
 - **2024.08.04**: [タウンミーティング](program/town-meeting)を公開しました．
 - **2024.08.02**: [会場レイアウト](attend/floorplan)を公開しました．
 - **2024.08.01**: [特別企画](program/special-event)，[バンケット](program/banquet)，[会場情報](attend/floor_map)を公開しました．
