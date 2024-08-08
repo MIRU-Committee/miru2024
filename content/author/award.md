@@ -1,0 +1,31 @@
+---
+title: "受賞"
+---
+
+# 論文評価貢献賞
+- Yuichiro Fujimoto
+- Ryosuke Furuta
+- Ryuhei Hamaguchi
+- Manabu Hashimoto
+- Masato Ishii
+- Takafumi Iwaguchi
+- Daisuke Iwai
+- Yasushi Kanazawa
+- Akisato Kimura
+- Haruya Kyutoku
+- Yasuyuki Matsushita
+- Ryo Miyoshi
+- Yasuhiro Mukaigawa
+- Hideki Nakayama
+- Takeshi Oishi
+- Ryusuke Sagawa
+- Tomoya Sakai
+- Ikuko Shimizu
+- Motoharu Sonogashira
+- Masanori Suganuma
+- Kosuke Takahashi
+- Kota Yamaguchi
+- Shuhei M Yoshida
+- Yu Mitsuzumi
+- Keita Takeda
+- Hanwei Zhang
