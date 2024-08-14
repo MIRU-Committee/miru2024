@@ -8,6 +8,7 @@ The "Meeting on Image Recognition and Understanding", short "MIRU", is the large
 The number of COVID-19 infection cases has recently increased. Attendees are advised to take precautions and prevention measures. We kindly ask for your cooperation in preventing the spread of infection.**</font>
 
 ## News
+- **2024.08.15**: The [award information](author/award) has been released!
 - **2024.08.08**: The [MIRU2025 website](https://cvim.ipsj.or.jp/MIRU2025/) has been opened!
 - **2024.08.04**: The [town meeting](program/town-meeting) has been released.
 - **2024.08.02**: The [floor plan](attend/floorplan) has been released.
