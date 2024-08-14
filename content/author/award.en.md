@@ -22,9 +22,19 @@ title: "Award"
 受賞理由: NeRF におけるグリッドベースの特徴符号化において、周波数正則化の数理とその効果を明らかにしたうえで、カメラ姿勢の最適化を行う場合や入力画像枚数が少ない場合など、NeRF の主要な課題に対する実装とその有効性を示しており、理論面、実用面ともに高く評価でき、MIRU優秀賞にふさわしい研究である。
 
 <div class="w-50 mx-auto">
-{{< figure src="/award_yusyu.jpg" imgclass="img-fluid" >}}
+{{< figure src="/award_yusyu1.jpg" imgclass="img-fluid" >}}
 </div>
 
+- Text-Guided Diverse Scene Interaction Synthesis by Disentangling Actions from Scenes
+    - Hitoshi Teshima (Kyushu University), Naoki Wake (Microsoft), Diego Thomas (Kyushu University), Yuta Nakashima (Osaka University), Hiroshi Kawasaki (Kyushu University), Katsushi Ikeuchi (Microsoft)
+
+受賞理由: シーン中オブジェクトとのインタラクションを伴う動作生成という挑戦的課題に取り組んだ研究である。このため、動作指示のみからの動作生成結果から取り出したKey Poseとシーンの接合を既存の基盤モデルで推定した上で、そこに至る軌跡を生成し動作生成するパイプラインにより、シーン情報が含まれない既存データセットのみで学習させる現実的な方法を提案した。周辺環境に応じた動作生成という難しい問題設定に挑戦し有効性を確認した点は高い評価に値する。　
+
+
+
+<div class="w-50 mx-auto">
+{{< figure src="/award_yusyu2.jpg" imgclass="img-fluid" >}}
+</div>
 
 
 # MIRU Student Excellent Paper Award
@@ -149,7 +159,6 @@ title: "Award"
 - Mana Masuda
 - Masatoshi Tateno
 - Ryota Ishizaki
-- Ryoya Nara
 - Shunta Kimura
 - Takanobu Furuhashi
 - Taro Togo
@@ -160,7 +169,6 @@ title: "Award"
 - Yugo Kubota
 - Yusuke Kuwana
 - Yuto Shibata
-- 井ノ上 雄一
 - 今宿 祐希
 - 岩井 翔真（2件）
 - 江口 達大
@@ -171,10 +179,9 @@ title: "Award"
 - 河野 創祐
 - 久保 俊介
 - 黒木 理宏
-- 佐々木 謙人
-- 塩原 楓
-- 下津 曲将
-- 篠田 理沙
+- 佐々木 謙人, 井ノ上 雄一
+- 下津曲 将
+- 篠田 理沙, 塩原 楓
 - 鈴木 雅司
 - 砂田 達巳
 - 竹崎 隼平
