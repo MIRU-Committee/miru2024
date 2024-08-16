@@ -229,3 +229,10 @@ title: "Award"
 - Yu Mitsuzumi
 - Keita Takeda
 - Hanwei Zhang
+
+# Selection Committee for Awards
+- 委員長：兵庫県立大学 日浦 慎作 先生
+- SB Intuitions株式会社　井尻 善久 様
+- 青山学院大学　鷲見 和彦 先生
+- 京都工芸繊維大学　延原 章平 先生
+- 中部大学　藤吉 弘亘 先生
