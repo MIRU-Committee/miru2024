@@ -224,5 +224,5 @@ title: "Commitee"
 - Chair: Shinsaku Hiura (University of Hyogo)
 - Yoshihisa Ijiri (SB Intuitions)
 - Kazuhiko Sumi (Aoyama Gakuin University)
--Shohei Nobuhara (Kyoto Institute of Technology)
+- Shohei Nobuhara (Kyoto Institute of Technology)
 - Hironobu Fujiyoshi (Chubu University)
