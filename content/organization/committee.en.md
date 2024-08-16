@@ -217,3 +217,12 @@ title: "Commitee"
     - Kohei		Yamashita
     - Shunsuke		Yoneda
     - Hanwei		Zhang
+
+
+
+# Selection Committee for Awards
+- Chair: Shinsaku Hiura (University of Hyogo)
+- Yoshihisa Ijiri (SB Intuitions)
+- Kazuhiko Sumi (Aoyama Gakuin University)
+- Shohei Nobuhara (Kyoto Institute of Technology)
+- Hironobu Fujiyoshi (Chubu University)
