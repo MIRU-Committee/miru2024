@@ -37,6 +37,20 @@ title: "Award"
 </div>
 
 
+
+
+# MIRU Frontier Paper Award
+
+- スパイキングニューラルネットワークによる画像生成拡散モデル
+    - 渡邊 諒（東京大学）, 椋田 悠介（東京大学, 理化学研究所）, 原田 達也（東京大学, 理化学研究所）
+
+受賞理由：生成AIの消費電力が問題化する中、その解決手段として注目が集まりつつも、既存モデルの実装が容易ではないスパイキングニューラルネットワーク（SNN）のみで完結する拡散モデルの実装を示した研究である。SNNの効率や速度を制約しうるスパイク列のエンコード・デコードの削減も実現しており、社会的課題を解決しうる挑戦的な研究という観点でフロンティア賞にふさわしい研究である。
+
+<div class="w-50 mx-auto">
+{{< figure src="/award_frontier.jpg" imgclass="img-fluid" >}}
+</div>
+
+
 # MIRU Student Excellent Paper Award
 - Human-drawable and Interpretable Adversarial Attack
     - Ryoya Nara, Yusuke Matsui (The University of Tokyo)
@@ -55,18 +69,6 @@ title: "Award"
 
 <div class="w-50 mx-auto">
 {{< figure src="/award_student2.jpg" imgclass="img-fluid" >}}
-</div>
-
-
-# MIRU Frontier Paper Award
-
-- スパイキングニューラルネットワークによる画像生成拡散モデル
-    - 渡邊 諒（東京大学）, 椋田 悠介（東京大学, 理化学研究所）, 原田 達也（東京大学, 理化学研究所）
-
-受賞理由：生成AIの消費電力が問題化する中、その解決手段として注目が集まりつつも、既存モデルの実装が容易ではないスパイキングニューラルネットワーク（SNN）のみで完結する拡散モデルの実装を示した研究である。SNNの効率や速度を制約しうるスパイク列のエンコード・デコードの削減も実現しており、社会的課題を解決しうる挑戦的な研究という観点でフロンティア賞にふさわしい研究である。
-
-<div class="w-50 mx-auto">
-{{< figure src="/award_frontier.jpg" imgclass="img-fluid" >}}
 </div>
 
 
@@ -185,7 +187,6 @@ title: "Award"
 - 鈴木 雅司
 - 砂田 達巳
 - 竹崎 隼平
-- 田所 龍
 - 趙 在瀛
 - 西田 悠真
 - 新田 常顧
