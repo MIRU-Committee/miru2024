@@ -31,5 +31,5 @@ title: "Oral presentation"
 
 # Recording and Streaming of Presentations
 - At MIRU2024, presentations will be streamed live online and recorded for limited-time access exclusively to MIRU participants. Please understand and agree to the streaming and recording by the organizers in advance.
-    - [Updated on August 19, 2024] The video is currently being prepared. We will notify you at your registered email address when it is ready. I appreciate your patience.
+    - [Updated on August 21, 2024] The video is currently being prepared. We will notify you at your registered email address when it is ready. I appreciate your patience.
 
